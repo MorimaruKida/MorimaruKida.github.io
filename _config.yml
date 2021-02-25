@@ -14,9 +14,9 @@ author: Dr. Morimaru Kida
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-　Home: 
-  People: 
   About Me: "aboutme"
+  　Home: 
+  People:
 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
