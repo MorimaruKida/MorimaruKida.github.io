@@ -10,11 +10,11 @@ subtitle: Find out how you can join our group
 神戸大学農学研究科・土壌学研究室は土壌学・有機地球化学が学べ，土壌・水圏の広範な物質循環のどちらも研究できる日本でも数少ない研究室の一つです。修士・博士課程問わず他大学からの大学院受験も大歓迎です。修士課程（博士課程前期課程）から入学したい方は[農学研究科のサイト](http://www.ans.kobe-u.ac.jp/jyukensei/top.html)をご覧ください。博士課程（博士課程前期課程）からの参加を考えている方には日本学術振興会の[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)に応募することを推奨します。木田もDC2・PD・海外学振を経験しているので，研究テーマ・応募書類の作成からサポートできます。
 
 # Undergraduate students
-Every October, a few undergraduate students from [the Division of Applied Biology](http://www.ans.kobe-u.ac.jp/english/graduate/index.html) of Kobe University are enrolled in our group.  New students will receive full training.
-Updated information on the Admission Policy and Master's and Doctor's Program can be found [here](http://www.ans.kobe-u.ac.jp/nougakubu/pdf/eng2019.pdf#page=5)  
+Every October, a few undergraduate students from [the Division of Applied Biology](http://www.ans.kobe-u.ac.jp/english/graduate/index.html) of Kobe University are enrolled in our group. New students will receive full training.
 
 # Graduate students
-Graduate students (Master and PhD) can be admitted through MA and PhD programs in [Graduate School of Agricultural Science](https://www.kobe-u.ac.jp/en/study_in_kobe/admission/ap/grad_ans.html). Application guidelines can be found [here](http://www.ans.kobe-u.ac.jp/english/nougakubu/admin.html). There are a number of [govermental and private scholarships](https://www.kobe-u.ac.jp/en/study_in_kobe/scholarships/index.html) available.  
+Graduate students (Master and PhD) can be admitted through MA and PhD programs in [Graduate School of Agricultural Science](https://www.kobe-u.ac.jp/en/study_in_kobe/admission/ap/grad_ans.html). Application guidelines can be found [here](http://www.ans.kobe-u.ac.jp/english/nougakubu/admin.html). There is also a [nice summary](http://www.ans.kobe-u.ac.jp/nougakubu/pdf/eng2019.pdf#page=5) of the Admission Policy and Master's and Doctor's Programs.  
+There are a number of [govermental and private scholarships](https://www.kobe-u.ac.jp/en/study_in_kobe/scholarships/index.html) available.  
 PhD students from the Europe, North America, or India can apply to [Summer Program, Strategic Program, or Short-term program](https://www.jsps.go.jp/english/e-fellow/index.html) of the Japan Society for the Promotion of Science (JSPS) to conduct joint research activities at our laboratory.
 
 # Postdoctoral fellows
