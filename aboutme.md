@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Working on Organic Geochemistry and Soil Science 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Morimaru Kida is an assistant professor of Kobe Univeristy and is an expert of natural organic matter and associated cycling of elements.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My contact informaton and ResearchGate profile can be accessed from the bottome icons.
