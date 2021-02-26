@@ -17,7 +17,11 @@ navbar-links:
   Home: "home"
   About Me: "aboutme"
   People: "people"
+  Research: "research"
   Publications: "publications"
+  Teaching: "teaching"
+  Study site: "sites"
+
 
 
   #Resources:
