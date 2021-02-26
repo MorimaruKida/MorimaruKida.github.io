@@ -17,6 +17,8 @@ navbar-links:
   Home: "home"
   About Me: "aboutme"
   People: "people"
+  Publications: "publications"
+
 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
