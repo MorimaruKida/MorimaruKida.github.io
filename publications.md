@@ -5,10 +5,10 @@ subtitle: Scientific achievements in our lab
 ---
 
 ***
-##Since 2021
+Since 2021
 
 ***
-##Before 2020
+Before 2020
 
 <ol reversed>
 <li>Kida, M.; Fujitake, N. [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review.](https://doi.org/10.3390/f11090981) _Forests_ 2020, 11 (9), 981 (15p).</li><li>Ohtsuka, T.; Onishi, T.; Yoshitake, S.; Tomotsune, M.; Kida, M.; Iimura, Y.; Kondo, M.; Suchewaboripont, V.; Cao, R.; Kinjo, K.; Fujitake, N. [Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation.](https://www.mdpi.com/1999-4907/11/10/1041) _Forests_ 2020, 11 (10), 1041 (15p).</li><li>Hayashi, K.; Tanabe, Y.; Fujitake, N.; Kida, M.; Wang, Y.; Hayatsu, M.; Kudoh, S. [Ammonia Oxidation Potentials and Ammonia Oxidizers of Lichen–Moss Vegetated Soils at Two Ice-Free Areas in East Antarctica.](https://doi.org/10.1264/jsme2.me19126) _Microbes Environment_ 2020, 35 (1), (5p).</li>
@@ -31,7 +31,7 @@ subtitle: Scientific achievements in our lab
 </ol>
 
 ***
-##邦文
+邦文
 
 <ol reversed>
 <li>藤嶽暢英・木田森丸[「3. 定量, 3-2. 天然水」『腐植物質分析ハンドブック―標準試料を例にして（第2版）』](http://www.research.kobe-u.ac.jp/ans-soil/jhss/publishing.html#books)日本腐植物質学会監修, 出版日: 2019 年4月15日</li>
