@@ -8,7 +8,7 @@ Morimaru Kida
 Assistant Professor
 
 Morimaru Kida is an assistant professor of Kobe Univeristy and is an expert of natural organic matter and associated cycling of elements.  
-ALthough centered on Organic Geochemistry and Soil Science, he is keen to apply a range of analytical tools burrowed from different fields such as limnology, marine geochemistry, and computational science.   
+While centered on Organic Geochemistry and Soil Science, he is keen to apply a range of analytical tools burrowed from different fields such as limnology, marine geochemistry, and computational science.   
 He is currently working on Antarctic lakes and streams and Asian mangroves.
 
 Address:
