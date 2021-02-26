@@ -14,8 +14,8 @@ author: Dr. Morimaru Kida
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "home"
   About Me: "aboutme"
-  　Home: 
   People:
 
   #Resources:
