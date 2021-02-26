@@ -16,7 +16,7 @@ author: Dr. Morimaru Kida
 navbar-links:
   Home: "home"
   About Me: "aboutme"
-  People:
+  People: "people"
 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
