@@ -71,7 +71,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  ResearchGate: https://www.researchgate.net/profile/Morimaru-Kida
+  ResearchGate: https://www.researchgate.net/profile/Morimaru-Kida
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -88,7 +88,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
- url-pretty: "https://www.researchgate.net/profile/Morimaru-Kida"
+# url-pretty: "https://www.researchgate.net/profile/Morimaru-Kida"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
