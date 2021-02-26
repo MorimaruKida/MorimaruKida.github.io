@@ -3,7 +3,6 @@ layout: post
 title: The dawn of the Kida Soil Science Laboratory
 subtitle: @the Department of Applied Biology of Kobe University 
 cover-img: /assets/img/path.jpg
-#thumbnail-img: /assets/img/thumb.png
 tags: [lab, misc]
 ---
 
