@@ -17,11 +17,6 @@ LC-ICP-MS
 
 ![LCICPMS](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-High-Speed Refrigerated Centrifuge
-
-![Centrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-![miniCentrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
 UV-vis
 
 ![JASCO](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
@@ -42,6 +37,11 @@ Ion chromatography
 Potentiometric titrator
 
 ![titrator](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+High-speed refrigerated centrifuge
+
+![Centrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![miniCentrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Muffle furnace
 
