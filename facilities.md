@@ -40,10 +40,12 @@ HPLC
 
 High-speed refrigerated centrifuge
 
-Big one with a range of rotors (10-800 mL) 
+Big one with a range of rotors (10-800 mL)
+
 ![Centrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Small bench-top one (1 mL)
+
 ![miniCentrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Big Muffle furnace for combusting glasswear
@@ -104,7 +106,7 @@ NMR (with priority access)
 
 HPLC-Orbitrap (LTQ Orbitrap XL/Discovery) with an auto-sampler
 
-![Orbitrap](Obitrap-300x225.jpg)
+![Orbitrap](Obitrap.jpg)
 
 ICP-AES
 
