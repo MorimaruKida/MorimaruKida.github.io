@@ -106,7 +106,7 @@ NMR (with priority access)
 
 HPLC-Orbitrap (LTQ Orbitrap XL/Discovery) with an auto-sampler
 
-![Orbitrap](Obitrap.jpg)
+![Orbitrap](/assets/img/Obitrap.jpg)
 
 ICP-AES
 
