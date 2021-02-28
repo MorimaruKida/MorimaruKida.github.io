@@ -37,6 +37,6 @@ Before 2020
 
 <ol reversed>
 <li>藤嶽暢英・木田森丸<a href="http://www.research.kobe-u.ac.jp/ans-soil/jhss/publishing.html#books">「3. 定量, 3-2. 天然水」『腐植物質分析ハンドブック―標準試料を例にして（第2版）』</a>日本腐植物質学会監修, 出版日: 2019 年4月15日</li>
-<li>菊川裕幸・木田森丸・圓増まどか・稲元友佳子・岸本賢一・加藤拓・藤嶽暢英<a href="(https://www.jstage.jst.go.jp/article/dojo/89/4/89_890406/_article/-char/ja/">「乾燥汚泥・竹チップ混和堆肥の熱水抽出液の特性評価と堆肥施用がダイズ（丹波黒大豆）の生育に及ぼす影響」</a>日本土壌肥料学雑誌<b>2018</b>, 89, 4, 295-301</li>
+<li>菊川裕幸・木田森丸・圓増まどか・稲元友佳子・岸本賢一・加藤拓・藤嶽暢英<a href="https://www.jstage.jst.go.jp/article/dojo/89/4/89_890406/_article/-char/ja/">「乾燥汚泥・竹チップ混和堆肥の熱水抽出液の特性評価と堆肥施用がダイズ（丹波黒大豆）の生育に及ぼす影響」</a>日本土壌肥料学雑誌<b>2018</b>, 89, 4, 295-301</li>
 <li>木田森丸・金城和俊・大塚俊之・藤嶽暢英<a href="https://www.jstage.jst.go.jp/article/seitai/67/2/67_85/_article/-char/ja/">「石垣島吹通川マングローブ林流域における溶存有機物の動態」</a>日本生態学会誌<b>2017</b>, 67, 85-93</li>
 </ol>
