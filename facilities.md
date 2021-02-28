@@ -102,6 +102,10 @@ NMR (with priority access)
 ![Avance500](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 ![JEOL400](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+HPLC-Orbitrap (LTQ Orbitrap XL/Discovery) with an auto-sampler
+
+![Orbitrap](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
 ICP-AES
 
 ![SPS3100](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
