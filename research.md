@@ -20,7 +20,9 @@ Another important aspect of mangroves are their high rate of material export to 
 
 ***
 ## Antarctic lake and stream DOM (Sôya Coast, Lützow-Holm Bay, East Dronning Maud Land)
-![L. Nyorai](/assets/img/DSCF6864_如来池.JPG)![Yukidori Valley moss](/assets/img/DSCF7253.JPG)
+--- | ---
+![L. Nyorai](/assets/img/DSCF6864_如来池.JPG) | ![Yukidori Valley moss](/assets/img/DSCF7253.JPG)
+
 We 
 
 #### Selected publications
