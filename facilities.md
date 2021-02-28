@@ -26,10 +26,6 @@ EEM
 
 ![FluoroMax4](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-HPLC
-
-![HPLC](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
 Ion chromatography
 
 ![Ionchro](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
@@ -38,14 +34,24 @@ Potentiometric titrator
 
 ![titrator](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+HPLC
+
+![HPLC](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
 High-speed refrigerated centrifuge
 
+Big one with a range of rotors (10-800 mL) 
 ![Centrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+Small bench-top one (1 mL)
 ![miniCentrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Muffle furnace
+Big Muffle furnace for combusting glasswear
 
 ![bigfurnace](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+Small Muffle furnace for snalyses (e.g., ash determination)
+
 ![smallfurnace](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Vacuum freeze dryer
@@ -81,7 +87,12 @@ And other basic instruments such as IEW/ultrapure water systems, drying ovens, p
 
 Field equipment
 
+Large-scale DOM isolation system
+
 ![isolation](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+Large-scale water filtration system
+
 ![filtration](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 ### Access in the campus
@@ -103,7 +114,7 @@ EEM
 
 ![F2700](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Other devices available (with fees) at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe Univeristy include:  
+Other devices available (with fees) at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
 XRD, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 ### Access at Kyoto University (collaborative research with the Mass Spectrometry Division)
