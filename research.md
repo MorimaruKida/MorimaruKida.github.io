@@ -6,9 +6,10 @@ subtitle: Research themes in our lab
 ***
 ## Biogeochemistry in Asian mangroves
 ![Fukido mangrove]()
-We have been working in Asian mangroves (currently Japan and Thailand) since 2015 in cooperation with scientists of different backgrounds such as [Ecosystem Ecology](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html), [Environmental Ecology](http://www.waseda.jp/sem-e2-lab/members.html), [Hydrology](https://hydro-takeon.jp/), and [Isotope Geochemistry](https://www.nies.go.jp/researchers-e/204664.html).
+We have been working on Asian mangroves (currently Japan and Thailand) since 2015 in cooperation with scientists of different backgrounds such as [Ecosystem Ecology](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html), [Environmental Ecology](http://www.waseda.jp/sem-e2-lab/members.html), [Hydrology](https://hydro-takeon.jp/), and [Isotope Geochemistry](https://www.nies.go.jp/researchers-e/204664.html).
 
-Vegetated coastal ecosystems including mangroves are known for their high organic C sequestration potential and high rate of material export to the surrounding coastal ocean. 
+Vegetated coastal ecosystems including mangroves are known for their high organic C sequestration potential and high rate of material export to the surrounding coastal ocean.
+Yet, 
 
 #### Selected publications
 * [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://doi.org/10.3390/f11090981)
@@ -18,8 +19,7 @@ Vegetated coastal ecosystems including mangroves are known for their high organi
 
 ***
 ## Antarctic lake and stream DOM (Sôya Coast, Lützow-Holm Bay, East Dronning Maud Land)
-![L. Nyorai](/assets/img/DSCF6864_如来池.JPG)
-![Yukidori Valley moss](/assets/img/DSCF7253.JPG)
+![L. Nyorai](/assets/img/DSCF6864_如来池.JPG)![Yukidori Valley moss](/assets/img/DSCF7253.JPG)
 We 
 
 #### Selected publications
