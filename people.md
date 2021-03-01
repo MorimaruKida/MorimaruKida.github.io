@@ -14,7 +14,7 @@ Department of Agricultural Science, Kobe University
 1-1, Rokkodai, Nada, Kobe, Hyogo 657-8501  
 Japan
 
-Room: E557-1  
+Room: E556  
 Phone: (81) 78-803-5846  
 E-mail: morimaru.kida@people.kobe-u.ac.jp
 
