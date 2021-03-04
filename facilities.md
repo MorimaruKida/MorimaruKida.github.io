@@ -150,6 +150,7 @@ EEM
 Other devices available (with fees) at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
 XRD, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
+***
 ## Access at Kyoto University (collaborative research with the Mass Spectrometry Division)
 
 FT-ICR MS
