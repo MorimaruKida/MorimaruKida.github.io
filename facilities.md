@@ -113,6 +113,7 @@ And other basic instruments such as IEW/ultrapure water systems, drying ovens (v
 ### Field equipment
 Large-scale DOM isolation system  
 ([used for the isolation of L. Biwa fulvic acid standard sample of JHSS](https://researchmap.jp/pika-315/published_papers/3063823/attachment_file.pdf))
+[JHSS HP](http://www.research.kobe-u.ac.jp/ans-soil/e_jhss/index.html)
 
 ![isolation](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
