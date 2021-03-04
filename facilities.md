@@ -3,19 +3,20 @@ layout: page
 title: Facilities
 subtitle: Instruments in our lab 
 ---
-### Own instruments
+## Own instruments
+### Analysis
 Elemental analyzer
 
 ![TCTN](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 DOC/TDN
 
-![TOCL](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-![TOCV](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![TOC-L](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![TOC-V](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 LC-ICP-MS
 
-![LCICPMS](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![LC-ICP-MS](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 UV-vis
 
@@ -28,7 +29,11 @@ EEM
 
 Ion chromatography
 
-![Ionchro](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![IC](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+Gas chromatography (FID)
+
+![GC-FID](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Potentiometric titrator
 
@@ -38,40 +43,54 @@ HPLC
 
 ![HPLC](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-High-speed refrigerated centrifuge
+### Preparation
+Automatic acid digestion system
 
+![acid digestion](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+High-speed refrigerated centrifuge  
 Big one with a range of rotors (10-800 mL)
 
-![Centrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![centrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Small bench-top one (1 mL)
+Small bench-top (1 mL)
 
-![miniCentrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![mini centrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Big Muffle furnace for combusting glasswear
 
-![bigfurnace](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![big furnace](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Small Muffle furnace for snalyses (e.g., ash determination)
+Small Muffle furnace for analyses (e.g., ash determination)
 
-![smallfurnace](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![small furnace](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Vacuum freeze dryer
 
-![bigfreeze dryer](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-![smallfreeze dryer](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![big freeze dryer](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![small freeze dryer](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Fine pulverizer
 
 ![pulverizer](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+### Infrastructure
 Clean bench
 
 ![clean bench](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Growth chamber
+Growth chamber  
+Big one with lights
 
-![grothchamber](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![big growth chamber](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+Small one without light
+
+![small growth chamber](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+Low-temperature incubator
+
+![incubator](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Cooling room (5 degC)
 
@@ -85,10 +104,9 @@ Soil sample preparation/archive shed
 
 ![shed](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-And other basic instruments such as IEW/ultrapure water systems, drying ovens, pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, and reciprocal shakers.
+And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal shakers, and an autoclave.
 
-Field equipment
-
+### Field equipment
 Large-scale DOM isolation system
 
 ![isolation](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
@@ -97,7 +115,11 @@ Large-scale water filtration system
 
 ![filtration](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-### Access in the campus
+Large-scale Soxhlet extractor for DAX-8 purification (from old days)
+
+![DAX-8](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+## Access in the campus
 
 NMR (with priority access)
 
@@ -123,7 +145,7 @@ EEM
 Other devices available (with fees) at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
 XRD, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
-### Access at Kyoto University (collaborative research with the Mass Spectrometry Division)
+## Access at Kyoto University (collaborative research with the Mass Spectrometry Division)
 
 FT-ICR MS
 
