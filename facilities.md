@@ -14,10 +14,6 @@ DOC/TDN
 ![TOC-L](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 ![TOC-V](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-LC-ICP-MS
-
-![LC-ICP-MS](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
 UV-vis
 
 ![JASCO](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
@@ -26,6 +22,10 @@ UV-vis
 EEM
 
 ![FluoroMax4](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+LC-ICP-MS
+
+![LC-ICP-MS](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Ion chromatography
 
@@ -43,6 +43,7 @@ HPLC
 
 ![HPLC](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+***
 ### Preparation
 Automatic acid digestion system
 
@@ -74,6 +75,7 @@ Fine pulverizer
 
 ![pulverizer](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+***
 ### Infrastructure
 Clean bench
 
@@ -106,6 +108,7 @@ Soil sample preparation/archive shed
 
 And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal shakers, and an autoclave.
 
+***
 ### Field equipment
 Large-scale DOM isolation system
 
@@ -119,6 +122,7 @@ Large-scale Soxhlet extractor for DAX-8 purification (from old days)
 
 ![DAX-8](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+***
 ## Access in the campus
 
 NMR (with priority access)
