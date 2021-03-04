@@ -107,7 +107,7 @@ Soil sample preparation/archive shed
 
 ![shed](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal shakers, and an autoclave.
+And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal shakers, Soxhlet extractors, and an autoclave.
 
 ***
 ### Field equipment
