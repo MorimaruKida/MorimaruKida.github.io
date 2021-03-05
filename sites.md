@@ -5,9 +5,8 @@ subtitle: Map of past and present study sites
 ---
 
 Selenga River Basin - Monglia/Russia
-https://www.google.com/maps/d/edit?mid=1CUpSjdUowPPK0XDgPBP4EkB2ogQ&usp=sharing
+<iframe src="https://www.google.com/maps/d/embed?mid=1CUpSjdUowPPK0XDgPBP4EkB2ogQ" width="640" height="480"></iframe>
 
 Trat River - Thailand
-https://www.google.com/maps/d/edit?mid=17UN-pLtKjck_Sc0mdcrwiee8Cj4&usp=sharing
-
+<iframe src="https://www.google.com/maps/d/embed?mid=17UN-pLtKjck_Sc0mdcrwiee8Cj4" width="640" height="480"></iframe>
 
