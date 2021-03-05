@@ -10,3 +10,9 @@ Selenga River Basin - Monglia/Russia
 Trat River - Thailand
 <iframe src="https://www.google.com/maps/d/embed?mid=17UN-pLtKjck_Sc0mdcrwiee8Cj4" width="640" height="480"></iframe>
 
+Lützow-Holm Bay (Sôya Coast) & Amundsen Bay - East Antarctica
+<iframe src="https://www.google.com/maps/d/embed?mid=1GRUhtBJdeLUTcuaMCG4bMXR4Wc9_fmSn" width="640" height="480"></iframe>
+
+Scotland
+<iframe src="https://www.google.com/maps/d/embed?mid=1xE0siSzWH54WbOhAuftI-j0ZCZE2juPQ" width="640" height="480"></iframe>
+
