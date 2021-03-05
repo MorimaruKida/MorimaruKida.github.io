@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Study site
+title: Study sites
 subtitle: Map of past and present study sites 
 ---
 
