@@ -20,7 +20,7 @@ Another important aspect of mangroves are their high rate of material export to 
 
 ***
 ## Antarctic lake and stream DOM
-![L. Nyorai](/assets/img/DSCF6864_如来池.JPG)![Yukidori Valley moss](/assets/img/DSCF7253.JPG)
+![L. Nyorai](/assets/img/DSCF6864_如来池.jpg)![Yukidori Valley moss](/assets/img/DSCF7253.jpg)
 
 We're studying the fundamental driver of the DOM concentration and composition in lakes and streams on Sôya Coast (Lützow-Holm Bay, East Dronning Maud Land, East Antarctica).
 This work was initiated at 58th Japanese Antarctic Research Expedition (JARE58) in collaboration with the [Bioscience Group](https://www.nipr.ac.jp/english/research/group/biology.html) of National Institute of Polar Research in Japan. Molecular-level analysis of the Antarctic DOM samples by FT-ICR MS was conducted as a post-doctoral work of Morimaru in Thorsten Dittmar’s [ICBM-MPI Bridging Group for Marine Geochemistry](https://uol.de/en/icbm/marine-geochemistry), University of Oldenburg in Germany.
