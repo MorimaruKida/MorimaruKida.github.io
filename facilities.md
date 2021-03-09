@@ -8,17 +8,17 @@ subtitle: Instruments in our lab
 ### Analysis
 Elemental analyzer
 
-![TCTN](/assets/img/DSCF9977.JPG)
+![TCTN](/assets/img/DSCF9977.jpg)
 
 DOC/TDN
 
-![TOC-L](/assets/img/DSCF9964.JPG)
-![TOC-V](/assets/img/DSCF9965.JPG)
+![TOC-L](/assets/img/DSCF9964.jpg)
+![TOC-V](/assets/img/DSCF9965.jpg)
 
 UV-vis
 
-![JASCO](/assets/img/DSCF9947.JPG)
-![GENESIS](/assets/img/DSCF9948.JPG)
+![JASCO](/assets/img/DSCF9947.jpg)
+![GENESIS](/assets/img/DSCF9948.jpg)
 
 EEM
 
@@ -26,75 +26,75 @@ EEM
 
 LC-ICP-MS
 
-![LC-ICP-MS](/assets/img/DSCF9979.JPG)
+![LC-ICP-MS](/assets/img/DSCF9979.jpg)
 
 Ion chromatography
 
-![IC](/assets/img/DSCF9962.JPG)
+![IC](/assets/img/DSCF9962.jpg)
 
 Gas chromatography (FID)
 
-![GC-FID](/assets/img/DSCF9963.JPG)
+![GC-FID](/assets/img/DSCF9963.jpg)
 
 Potentiometric titrator
 
-![titrator](/assets/img/DSCF9967.JPG)
+![titrator](/assets/img/DSCF9967.jpg)
 
 HPLC
 
-![HPLC](/assets/img/DSCF9956.JPG)
+![HPLC](/assets/img/DSCF9956.jpg)
 
 ***
 ### Preparation
 Automatic acid digestion system
 
-![acid digestion](/assets/img/DSCF9972.JPG)
+![acid digestion](/assets/img/DSCF9972.jpg)
 
 High-speed refrigerated centrifuge  
 Big one with a range of rotors (10-800 mL)
 
-![centrifuge](/assets/img/DSCF9957.JPG)  
-![rotors](/assets/img/DSCF9958.JPG)
+![centrifuge](/assets/img/DSCF9957.jpg)  
+![rotors](/assets/img/DSCF9958.jpg)
 
 
 Small bench-top (1 mL)
 
-![mini centrifuge](/assets/img/DSCF9983.JPG)
+![mini centrifuge](/assets/img/DSCF9983.jpg)
 
 Big Muffle furnace for combusting glasswear
 
-![big furnace](/assets/img/DSCF9952.JPG)
+![big furnace](/assets/img/DSCF9952.jpg)
 
 Small Muffle furnace for analyses (e.g., ash determination)
 
-![small furnace](/assets/img/DSCF9950.JPG)
+![small furnace](/assets/img/DSCF9950.jpg)
 
 Vacuum freeze dryer
 
-![big/small freeze dryer](/assets/img/DSCF9954.JPG)
+![big/small freeze dryer](/assets/img/DSCF9954.jpg)
 
 Fine pulverizer
 
-![pulverizer](/assets/img/DSCF9941.JPG)
+![pulverizer](/assets/img/DSCF9941.jpg)
 
 ***
 ### Infrastructure
 Clean bench
 
-![clean bench](/assets/img/DSCF9959.JPG)
+![clean bench](/assets/img/DSCF9959.jpg)
 
 Growth chamber  
 Big one with lights
 
-![big growth chamber](/assets/img/DSCF9971.JPG)
+![big growth chamber](/assets/img/DSCF9971.jpg)
 
 Small one without light
 
-![small growth chamber](/assets/img/DSCF9973.JPG)
+![small growth chamber](/assets/img/DSCF9973.jpg)
 
 Low-temperature incubator
 
-![incubator](/assets/img/DSCF9960.JPG)
+![incubator](/assets/img/DSCF9960.jpg)
 
 Cooling room (5 degC)
 
@@ -106,11 +106,11 @@ Experimental field
 
 Net house
 
-![Net house](/assets/img/DSCF9943.JPG)
+![Net house](/assets/img/DSCF9943.jpg)
 
 Soil sample preparation/archive shed
 
-![shed](/assets/img/DSCF9939.JPG)
+![shed](/assets/img/DSCF9939.jpg)
 
 And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, and an autoclave.
 
