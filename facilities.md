@@ -111,7 +111,7 @@ Soil sample preparation/archive shed
 
 ![shed](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal shakers, Soxhlet extractors, and an autoclave.
+And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, and an autoclave.
 
 ***
 ### Field equipment
@@ -149,12 +149,16 @@ XRF
 
 ![NANOHUNTER](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+XRD
+
+![XRD](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
 EEM
 
 ![F2700](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Other devices available (with fees) at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
-XRD, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
+STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 ***
 ## Access at Kyoto University (collaborative research with the Mass Spectrometry Division)
@@ -163,4 +167,6 @@ FT-ICR MS
 
 ![solariX](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+***
+Carbon isotopes (δ13C, Δ14C) will be measured at 
 
