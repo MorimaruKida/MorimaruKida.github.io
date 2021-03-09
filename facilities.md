@@ -8,17 +8,17 @@ subtitle: Instruments in our lab
 ### Analysis
 Elemental analyzer
 
-![TCTN](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![TCTN](/assets/img/DSCF9977.jpg)
 
 DOC/TDN
 
-![TOC-L](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-![TOC-V](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![TOC-L](/assets/img/DSCF9964.jpg)
+![TOC-V](/assets/img/DSCF9965.jpg)
 
 UV-vis
 
-![JASCO](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-![GENESIS](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![JASCO](/assets/img/DSCF9947.jpg)
+![GENESIS](/assets/img/DSCF9948.jpg)
 
 EEM
 
@@ -26,74 +26,73 @@ EEM
 
 LC-ICP-MS
 
-![LC-ICP-MS](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![LC-ICP-MS](/assets/img/DSCF9979.jpg)
 
 Ion chromatography
 
-![IC](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![IC](/assets/img/DSCF9962.jpg)
 
 Gas chromatography (FID)
 
-![GC-FID](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![GC-FID](/assets/img/DSCF9963.jpg)
 
 Potentiometric titrator
 
-![titrator](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![titrator](/assets/img/DSCF9967.jpg)
 
 HPLC
 
-![HPLC](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![HPLC](/assets/img/DSCF9956.jpg)
 
 ***
 ### Preparation
 Automatic acid digestion system
 
-![acid digestion](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![acid digestion](/assets/img/DSCF9972.jpg)
 
 High-speed refrigerated centrifuge  
 Big one with a range of rotors (10-800 mL)
 
-![centrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![centrifuge](/assets/img/DSCF9957.jpg)
 
 Small bench-top (1 mL)
 
-![mini centrifuge](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![mini centrifuge](/assets/img/DSCF9983.jpg)
 
 Big Muffle furnace for combusting glasswear
 
-![big furnace](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![big furnace](/assets/img/DSCF9952.jpg)
 
 Small Muffle furnace for analyses (e.g., ash determination)
 
-![small furnace](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![small furnace](/assets/img/DSCF9950.jpg)
 
 Vacuum freeze dryer
 
-![big freeze dryer](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-![small freeze dryer](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![big/small freeze dryer](/assets/img/DSCF9954.jpg)
 
 Fine pulverizer
 
-![pulverizer](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![pulverizer](/assets/img/DSCF9941.jpg)
 
 ***
 ### Infrastructure
 Clean bench
 
-![clean bench](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![clean bench](/assets/img/DSCF9959.jpg)
 
 Growth chamber  
 Big one with lights
 
-![big growth chamber](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![big growth chamber](/assets/img/DSCF9971.jpg)
 
 Small one without light
 
-![small growth chamber](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![small growth chamber](/assets/img/DSCF9973.jpg)
 
 Low-temperature incubator
 
-![incubator](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![incubator](/assets/img/DSCF9960.jpg)
 
 Cooling room (5 degC)
 
@@ -105,11 +104,11 @@ Experimental field
 
 Net house
 
-![Net house](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Net house](/assets/img/DSCF9943.jpg)
 
 Soil sample preparation/archive shed
 
-![shed](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![shed](/assets/img/DSCF9939.jpg)
 
 And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, and an autoclave.
 
@@ -123,11 +122,11 @@ Large-scale DOM isolation system
 
 Large-scale Soxhlet extractor for DAX-8 purification (from old days)
 
-![DAX-8](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![DAX-8](/assets/img/DSCF9969.jpg)
 
 Large-scale water filtration system
 
-![filtration](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![filtration](/assets/img/DSCF9976.jpg)
 
 ***
 ## Access in the campus
