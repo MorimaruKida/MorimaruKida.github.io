@@ -28,3 +28,5 @@ cover-img: /assets/img/DSCF0505.jpg
 [農学研究科のサイト](http://www.ans.kobe-u.ac.jp/jyukensei/top.html)をご覧ください。博士課程・ポスドクを考えている方には日本学術振興会の
 [特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)に応募することを推奨します。木田もDC2・PD・海外学振を経験しているので，
 研究テーマ・応募書類の作成からサポートできます。まずはお気軽にご相談・ご見学ください。
+
+ただし木田は現時点ではテニュアトラック制助教で博士学生の主指導権限がありませんので，形式上は[藤嶽教授](http://www.research.kobe-u.ac.jp/ans-soil/member.html)に主指導教官になってもらい，木田は副指導教官として指導にあたります。
