@@ -6,9 +6,11 @@ subtitle: Instruments in our lab
 ***
 ## Own instruments
 ### Analysis
+
 LC-ICP-MS             |  Elemental analyzer
 :-------------------------:|:-------------------------:
 ![LC-ICP-MS](/assets/img/DSCF9979.jpg)  |  ![TCTN](/assets/img/DSCF9977.jpg)
+
 
 DOC/TDN (TOC-L)             |  DOC/TDN (TOC-V)
 :-------------------------:|:-------------------------:
@@ -29,6 +31,7 @@ Potentiometric titrator            | HPLC
 
 ***
 ### Preparation
+
 High-speed refrigerated centrifuge            |  with a range of rotors (10-800 mL)
 :-------------------------:|:-------------------------:
 ![centrifuge](/assets/img/DSCF9957.jpg)    |  ![rotors](/assets/img/DSCF9958.jpg)
@@ -47,6 +50,7 @@ Vacuum freeze dryer            | Fine pulverizer
 
 ***
 ### Infrastructure
+
 Growth chamber (Big one with lights)            | Small one without light
 :-------------------------:|:-------------------------:
 ![big growth chamber](/assets/img/DSCF9971.jpg)  |  ![small growth chamber](/assets/img/DSCF9973.jpg)
@@ -79,6 +83,7 @@ Large-scale Soxhlet extractor for DAX-8 purification (from old days)            
 
 ***
 ## Access in the campus
+
 NMR (Avance-500, with priority access)           | NMR (JEOL 400)
 :-------------------------:|:-------------------------:
 ![Avance500](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![JEOL400](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
