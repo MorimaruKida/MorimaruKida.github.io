@@ -2,7 +2,7 @@
 layout: post
 title: The dawn of the Kida group in the Soil Science Laboratory
 subtitle: at the Department of Applied Biology of Kobe University 
-cover-img: /assets/img/sugarman-joe-i2hZtvsvpjQ-unsplash.jpg
+cover-img: /assets/img/DSCF6406.jpg
 tags: [lab, misc]
 ---
 
