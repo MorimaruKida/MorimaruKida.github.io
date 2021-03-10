@@ -23,6 +23,8 @@ navbar-links:
   Teaching: "teaching"
   Study sites: "sites"
   Join Us!: "joinus"
+  募集中!: "boshu"
+
 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
