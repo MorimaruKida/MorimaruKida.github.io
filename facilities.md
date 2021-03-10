@@ -67,7 +67,7 @@ Experimental field            | Net house
 :-------------------------:|:-------------------------:
 ![field](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![Net house](/assets/img/DSCF9943.jpg)
 
-And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, and an autoclave.
+And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, an autoclave...
 
 ***
 ### Field equipment
