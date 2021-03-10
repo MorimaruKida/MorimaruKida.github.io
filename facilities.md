@@ -40,8 +40,7 @@ Small bentch-top centrifuge (1 mL)            | Automatic acid digestion system
 :-------------------------:|:-------------------------:
 ![mini centrifuge](/assets/img/DSCF9983.jpg)  |  ![acid digestion](/assets/img/DSCF9972.jpg)
 
-Big Muffle furnace for combusting glasswear            | Small Muffle furnace for analyses  
-(e.g., ash determination)
+Big Muffle furnace for combusting glasswear            | Small Muffle furnace for analyses
 :-------------------------:|:-------------------------:
 ![big furnace](/assets/img/DSCF9952.jpg)  |  ![small furnace](/assets/img/DSCF9950.jpg)
 
