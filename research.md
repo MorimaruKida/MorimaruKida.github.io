@@ -5,7 +5,8 @@ subtitle: Research themes in our lab
 ---
 ***
 ## Biogeochemistry in Asian mangroves
-![Fukido mangrove](/assets/img/Fukido.jpg)
+![Fukido mangrove](/assets/img/Fukido.jpg)![Fukido soil](/assets/img/Fukidosoil.jpg)
+
 
 We have been working on Asian mangroves (currently Japan and Thailand) since 2015 in cooperation with scientists of different backgrounds such as [Ecosystem Ecology](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html), [Environmental Ecology](http://www.waseda.jp/sem-e2-lab/members.html), [Hydrology](https://hydro-takeon.jp/), and [Isotope Geochemistry](https://www.nies.go.jp/researchers-e/204664.html).
 
