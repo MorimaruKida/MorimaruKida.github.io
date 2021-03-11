@@ -16,18 +16,18 @@ DOC/TDN (TOC-L)             |  DOC/TDN (TOC-V)
 :-------------------------:|:-------------------------:
 ![TOC-L](/assets/img/DSCF9964.jpg)  |  ![TOC-V](/assets/img/DSCF9965.jpg)
 
-UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM
+UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM (with PARAFAC)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | ![FluoroMax4](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  
 
 
-Ion chromatography            | Gas chromatography (FID)
+HPLC            | Gas chromatography (FID)
 :-------------------------:|:-------------------------:
-![IC](/assets/img/DSCF9962.jpg)  |  ![GC-FID](/assets/img/DSCF9963.jpg)
+![HPLC](/assets/img/DSCF9956.jpg)  |  ![GC-FID](/assets/img/DSCF9963.jpg)
 
-Potentiometric titrator            | HPLC
+Ion chromatography            | Potentiometric titrator
 :-------------------------:|:-------------------------:
-![titrator](/assets/img/DSCF9967.jpg)  |  ![HPLC](/assets/img/DSCF9956.jpg)
+![IC](/assets/img/DSCF9962.jpg)  |  ![titrator](/assets/img/DSCF9967.jpg)
 
 ***
 ### Preparation
