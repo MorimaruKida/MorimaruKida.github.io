@@ -59,7 +59,7 @@ Low-temperature incubator            | Clean bench
 :-------------------------:|:-------------------------:
 ![incubator](/assets/img/DSCF9960.jpg)  |  ![clean bench](/assets/img/DSCF9959.jpg)
 
-Cooling room (5 degC, equipped with shakers)            | Soil sample preparation/archive shed
+Cooling room (5 degC)            | Soil sample preparation/archive shed
 :-------------------------:|:-------------------------:
 ![coolingroom](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![shed](/assets/img/DSCF9939.jpg)
 
