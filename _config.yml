@@ -103,7 +103,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "soil,water,DOM,carbon,Antarctic,mangrove,"
+keywords: "soil,water,DOM,carbon,Antarctic,mangrove,FT-ICR-MS,PARAFAC,EEM"
 
 # --- Colours / background image --- #
 
@@ -227,6 +227,7 @@ defaults:
 
 # Exclude these files from production site
 exclude:
+  - index.html
   - CHANGELOG.md
   - CNAME
   - Gemfile
