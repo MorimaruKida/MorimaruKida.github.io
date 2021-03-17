@@ -14,7 +14,7 @@ author: Dr. Morimaru Kida
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  News: "news"
+  #News: "news"
   Home: "home"
   #About Me: "aboutme"
   People: "people"
