@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 subtitle: Classes at Kobe University 
 ---
-### Soil science laboratory experiment
+### Soil Science Laboratory Experiment
 I will teach this class in the coming April together with Assist. Prof. Taleshi Suzuki for ~30 students from the Applied Biology department.
 
 ### Intermediate/Comprehensive Techniques in English Speech Delivery
