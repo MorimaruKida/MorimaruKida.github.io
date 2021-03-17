@@ -4,7 +4,7 @@ title: News
 subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe University!
 ---
 ![dawn](/assets/img/DSCF6406.jpg)
-## The dawn of the Kida group in the Soil Science Laboratory
+### The dawn of the Kida group in the Soil Science Laboratory
 at the Department of Applied Biology of Kobe University
 
 on 1 Feb 2021, I started a new position at Kobe University in Japan as a tenure-track assistant professor of soil science laboratory!
