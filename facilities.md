@@ -21,13 +21,15 @@ UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM (wit
 ![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | ![FluoroMax4](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  
 
 
-HPLC            | Gas chromatography (FID)
+HPLC (UV/RID)           | Gas chromatography (FID)
 :-------------------------:|:-------------------------:
 ![HPLC](/assets/img/DSCF9956.jpg)  |  ![GC-FID](/assets/img/DSCF9963.jpg)
 
 Ion chromatography            | Potentiometric titrator
 :-------------------------:|:-------------------------:
 ![IC](/assets/img/DSCF9962.jpg)  |  ![titrator](/assets/img/DSCF9967.jpg)
+
+And other basic instruments such as pH meters, EC meters, moisture analyzer (with halogen heating), soil three-phase analyzer, ...
 
 ***
 ### Preparation
@@ -48,6 +50,8 @@ Vacuum freeze dryer            | Fine pulverizer
 :-------------------------:|:-------------------------:
 ![big/small freeze dryer](/assets/img/DSCF9954.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
 
+And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pump, ...
+
 ***
 ### Infrastructure
 
@@ -67,7 +71,7 @@ Experimental field            | Net house
 :-------------------------:|:-------------------------:
 ![field](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![Net house](/assets/img/DSCF9943.jpg)
 
-And other basic instruments such as IEW/ultrapure water systems, drying ovens (ventilation/windless), pH meters, EC meters, analytical balances, water filtration systems, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, an autoclave...
+And other basic instruments such as IEW/ultrapure water systems, an autoclave, deep freezers, ...
 
 ***
 ### Field equipment
@@ -80,6 +84,8 @@ And other basic instruments such as IEW/ultrapure water systems, drying ovens (v
 Large-scale Soxhlet extractor for DAX-8 purification (from old days)            | Large-scale water filtration system
 :-------------------------:|:-------------------------:
 ![DAX-8](/assets/img/DSCF9969.jpg)  |  ![filtration](/assets/img/DSCF9976.jpg)
+
+And a complete set of soil sampling tools.
 
 ***
 ## Access in the campus
