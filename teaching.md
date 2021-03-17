@@ -7,4 +7,4 @@ subtitle: Classes at Kobe University
 I will teach this class in the coming April together with Assist. Prof. Taleshi Suzuki for ~30 students from the Applied Biology department.
 
 ### Intermediate/Comprehensive Techniques in English Speech Delivery
-I will host this class in the coming summer in cooperation with Prof. Mabini Dizon from University of the Philippines, Los Baños.
+I will host this class in the coming summer in cooperation with Prof. Mabini Dizon from University of the Philippines, Los Baños for ~60 students from the Faculty of Agriculture.
