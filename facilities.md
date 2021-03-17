@@ -29,7 +29,8 @@ Ion chromatography            | Potentiometric titrator
 :-------------------------:|:-------------------------:
 ![IC](/assets/img/DSCF9962.jpg)  |  ![titrator](/assets/img/DSCF9967.jpg)
 
-And other basic instruments such as pH meters, EC meters, moisture analyzer (with halogen heating), soil three-phase analyzer, ...
+And other basic instruments such as pH meters, EC meters, moisture analyzer (with halogen heating), soil three-phase analyzer, soil actual volumenometer, ...
+...
 
 ***
 ### Preparation
@@ -50,7 +51,7 @@ Vacuum freeze dryer            | Fine pulverizer
 :-------------------------:|:-------------------------:
 ![big/small freeze dryer](/assets/img/DSCF9954.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
 
-And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pump, ...
+And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pumps, an ultrafiltration system, ...
 
 ***
 ### Infrastructure
@@ -85,7 +86,7 @@ Large-scale Soxhlet extractor for DAX-8 purification (from old days)            
 :-------------------------:|:-------------------------:
 ![DAX-8](/assets/img/DSCF9969.jpg)  |  ![filtration](/assets/img/DSCF9976.jpg)
 
-And a complete set of soil sampling tools.
+And a complete set of soil sampling/preparation tools.
 
 ***
 ## Access in the campus
