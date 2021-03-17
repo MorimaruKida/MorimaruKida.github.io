@@ -30,7 +30,6 @@ Ion chromatography            | Potentiometric titrator
 ![IC](/assets/img/DSCF9962.jpg)  |  ![titrator](/assets/img/DSCF9967.jpg)
 
 And other basic instruments such as pH meters, EC meters, moisture analyzer (with halogen heating), soil three-phase analyzer, soil actual volumenometer, ...
-...
 
 ***
 ### Preparation
@@ -72,7 +71,8 @@ Experimental field            | Net house
 :-------------------------:|:-------------------------:
 ![field](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![Net house](/assets/img/DSCF9943.jpg)
 
-And other basic instruments such as IEW/ultrapure water systems, an autoclave, deep freezers, ...
+And other basic instruments such as IEW/ultrapure water systems, an autoclave, deep freezers, ...  
+All reagents are registered with barcodes and properly managed with an online system.
 
 ***
 ### Field equipment
