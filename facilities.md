@@ -97,11 +97,11 @@ NMR (Avance-500, with priority access)           | NMR (JEOL 400)
 
 HPLC-Orbitrap (LTQ Orbitrap XL/Discovery) with an auto-sampler           | ICP-AES
 :-------------------------:|:-------------------------:
-![Orbitrap](/assets/img/Obitrap.jpg)  |  ![SPS3100](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Orbitrap](/assets/img/Obitrap.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
 
 XRF          | XRD
 :-------------------------:|:-------------------------:
-![NANOHUNTER](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![XRD](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![XRF](/assets/img/xrf.jpg)  |  ![XRD](/assets/img/xrd1.jpg)
 
 Other devices available (with fees) at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
 EEM, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
