@@ -65,11 +65,11 @@ Low-temperature incubator            | Clean bench
 
 Cooling room (5 degC)            | Soil sample preparation/archive shed
 :-------------------------:|:-------------------------:
-![coolingroom](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![shed](/assets/img/DSCF9939.jpg)
+![coolingroom](/assets/img/DSCF9990.jpg)  |  ![shed](/assets/img/DSCF9939.jpg)
 
 Experimental field            | Net house
 :-------------------------:|:-------------------------:
-![field](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![Net house](/assets/img/DSCF9943.jpg)
+![field](/assets/img/DSCF9984.jpg)  |  ![Net house](/assets/img/DSCF9943.jpg)
 
 And other basic instruments such as IEW/ultrapure water systems, an autoclave, deep freezers, ...  
 All reagents are registered with barcodes and properly managed with an online system.
