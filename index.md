@@ -1,6 +1,6 @@
 ---
 layout: home
-title: News
+title: Kida Group
 subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe University!
 ---
 ***
