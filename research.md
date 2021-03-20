@@ -12,13 +12,14 @@ We have been working on Asian mangroves (currently Japan and Thailand) since 201
 
 Despite the recognized organic carbon (OC) sequestration potential of mangrove forests, the ongoing climate change and anthropogenic disturbances pose a great threat to these ecosystems. However, we currently lack the ability to mechanically understand and predict the consequences of such impacts, primarily because mechanisms underlying OC stabilization in these ecosystems remain elusive. Research into OC stabilization has focused on terrestrial soils and marine sediments for decades, overlooking the vegetated coastal ecosystems including mangroves. We aim to unravel the mechanisms how mangrove OC can persist for a long term.
 
-Another important aspect of mangroves are their high rate of material export to the surrpounding ocean. The outwelling of mangrove-derived materials to the ocean depend heavily on the geomorphology and hydrology of mangroves. We have developed 
+Another important aspect of mangroves are their high rate of material export to the surrpounding ocean. The outwelling of mangrove-derived materials to the ocean depend heavily on the geomorphology and hydrology of mangroves. We have developed a hydrologic model that can quantify whole-ecosystem scale material exchange between the mangrove forest and the adjacent coastal water in the Fukido Mangrove forest, Okinawa, Japan. The outwelling of dissolved C alone from the mangrove estuary greatly exceeded the leaf litter production, implying other major carbon sources such as belowground production and terrestrial inputs.
 
 #### Selected publications
 * [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://doi.org/10.3390/f11090981)
 * [Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation](https://www.mdpi.com/1999-4907/11/10/1041)
 * [Molecular Composition and Decomposition Stages of Organic Matter in a Mangrove Mineral Soil with Time](https://doi.org/10.1016/j.ecss.2019.106478)
 * [Changes in Dissolved Organic Matter Composition and Dynamics in a Subtropical Mangrove River Driven by Rainfall](https://doi.org/10.1016/j.ecss.2019.04.029)
+* More in prep.
 
 ***
 ## Antarctic lake and stream DOM
@@ -32,11 +33,3 @@ Future work: Studying the biotic and abiotic controls in pedogenesis of Antarcti
 #### Selected publications
 * [Origin, Distributions, and Environmental Significance of Ubiquitous Humic-like Fluorophores in Antarctic Lakes and Streams](https://doi.org/10.1016/j.watres.2019.114901)
 * More in prep.
-
-***
-## Arctic wetlands (Svalbard)
-We 
-
-#### Selected publications
-Coming soon...
-
