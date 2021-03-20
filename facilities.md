@@ -50,7 +50,7 @@ Vacuum freeze dryer            | Fine pulverizer
 :-------------------------:|:-------------------------:
 ![big/small freeze dryer](/assets/img/DSCF9954.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
 
-And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pumps, an ultrafiltration system, ...
+And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pumps, an ultrafiltration system, an ultrasonic bath, ...
 
 ***
 ### Infrastructure
