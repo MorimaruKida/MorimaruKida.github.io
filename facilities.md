@@ -80,7 +80,7 @@ All reagents are registered with barcodes and properly managed with an online sy
 ([used for the isolation of L. Biwa fulvic acid standard sample of JHSS](https://researchmap.jp/pika-315/published_papers/3063823/attachment_file.pdf))
 [JHSS HP](http://www.research.kobe-u.ac.jp/ans-soil/e_jhss/index.html)
 
-![isolation](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![isolation/Coming soon]()
 
 Large-scale Soxhlet extractor for DAX-8 purification (from old days)           | Large-scale water filtration system
 :-------------------------:|:-------------------------:
@@ -93,7 +93,7 @@ And a complete set of soil sampling/preparation tools.
 
 NMR (Avance-500, with priority access)           | NMR (JEOL 400)
 :-------------------------:|:-------------------------:
-![Avance500](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![JEOL400](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Avance500/Coming soon]()  |  ![JEOL400/Coming soon]()
 
 HPLC-Orbitrap (LTQ Orbitrap XL/Discovery) with an auto-sampler           | ICP-AES
 :-------------------------:|:-------------------------:
