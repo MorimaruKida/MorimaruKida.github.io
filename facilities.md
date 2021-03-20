@@ -82,7 +82,7 @@ All reagents are registered with barcodes and properly managed with an online sy
 
 ![isolation](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Large-scale Soxhlet extractor for DAX-8 purification           | Large-scale water filtration system
+Large-scale Soxhlet extractor for DAX-8 purification (from old days)           | Large-scale water filtration system
 :-------------------------:|:-------------------------:
 ![DAX-8](/assets/img/DSCF9969.jpg)  |  ![filtration](/assets/img/DSCF9976.jpg)
 
@@ -95,9 +95,9 @@ NMR (Avance-500, with priority access)           | NMR (JEOL 400)
 :-------------------------:|:-------------------------:
 ![Avance500](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  ![JEOL400](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-HPLC-Orbitrap with an auto-sampler           | ICP-AES
+HPLC-Orbitrap (LTQ Orbitrap XL/Discovery) with an auto-sampler           | ICP-AES
 :-------------------------:|:-------------------------:
-![LTQ Orbitrap XL/Discovery](/assets/img/Obitrap.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
+![Orbitrap](/assets/img/Obitrap.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
 
 XRF          | XRD
 :-------------------------:|:-------------------------:
