@@ -111,7 +111,7 @@ EEM, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 **FT-ICR MS (data processing by [ICBM-OCEAN](https://uol.de/icbm/icbm-ocean))**
 
-![solariX](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![solariX](/assets/img/ft.jpg)
 
 ***
 Carbon isotopes (δ13C, Δ14C) will be measured at other institutes.
