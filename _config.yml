@@ -152,7 +152,7 @@ footer-link-col: "#404040"
 </script>"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+#google_analytics: "MorimaruSoilLab"
 
 # Google Tag Manager ID
 #gtm: ""
