@@ -30,7 +30,7 @@ On Sôya Coast, hundreds of lakes exist with astonishingly diverse water chemist
 
 This work was initiated at the 58th Japanese Antarctic Research Expedition (JARE58) in collaboration with the [Bioscience Group](https://www.nipr.ac.jp/english/research/group/biology.html) of National Institute of Polar Research in Japan. Molecular-level analysis of the Antarctic DOM samples by FT-ICR MS was conducted as a post-doctoral work of Morimaru in Thorsten Dittmar’s [ICBM-MPI Bridging Group for Marine Geochemistry](https://uol.de/en/icbm/marine-geochemistry), University of Oldenburg in Germany.
 
-Future work:
+Future work:  
 Molecular-level analysis of the lake and stream DOM composition by 1H NMR and FT-ICR-MS.  
 Studying the biotic and abiotic controls in the pedogenesis of Antarctic soils.  
 
