@@ -50,7 +50,7 @@ Vacuum freeze dryer            | Fine pulverizer
 :-------------------------:|:-------------------------:
 ![big/small freeze dryer](/assets/img/DSCF9954.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
 
-And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pumps, ultrasonic baths, an ultrafiltration system, ...
+And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, magnetic stirrers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pumps, ultrasonic baths, an ultrafiltration system, ...
 
 ***
 ### Infrastructure
@@ -71,7 +71,7 @@ Experimental field            | Net house
 :-------------------------:|:-------------------------:
 ![field](/assets/img/DSCF9984.jpg)  |  ![Net house](/assets/img/DSCF9943.jpg)
 
-And other basic instruments such as IEW/ultrapure water systems, an autoclave, deep freezers, ...  
+And other basic instruments such as IEW/ultrapure water systems, an autoclave, deep freezers, fume hoods...  
 All reagents are registered with barcodes and properly managed with an online system.
 
 ***
