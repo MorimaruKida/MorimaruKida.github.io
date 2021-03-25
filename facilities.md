@@ -29,7 +29,7 @@ Ion chromatography            | Potentiometric titrator
 :-------------------------:|:-------------------------:
 ![IC](/assets/img/DSCF9962.jpg)  |  ![titrator](/assets/img/DSCF9967.jpg)
 
-And other basic instruments such as pH meters, EC meters, moisture analyzer (with halogen heating), soil three-phase analyzer, soil actual volumenometer, ...
+And other basic instruments such as pH meters, EC meters, a moisture analyzer (with halogen heating), a soil three-phase analyzer, a soil actual volumenometer, ...
 
 ***
 ### Preparation
@@ -50,7 +50,7 @@ Vacuum freeze dryer            | Fine pulverizer
 :-------------------------:|:-------------------------:
 ![big/small freeze dryer](/assets/img/DSCF9954.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
 
-And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pumps, an ultrafiltration system, an ultrasonic bath, ...
+And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pumps, ultrasonic baths, an ultrafiltration system, ...
 
 ***
 ### Infrastructure
