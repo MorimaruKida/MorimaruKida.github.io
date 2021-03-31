@@ -108,7 +108,7 @@ EEM, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 ***
 ## Access at Kyoto University
-### collaborative research with the [Nakamura Group](https://www.scl.kyoto-u.ac.jp/~elements/en/) at Institute for Chemical Research
+### Collaborative research with [Nakamura Group](https://www.scl.kyoto-u.ac.jp/~elements/en/) at Institute for Chemical Research
 
 **FT-ICR MS (data processing by [ICBM-OCEAN](https://uol.de/icbm/icbm-ocean))**
 
