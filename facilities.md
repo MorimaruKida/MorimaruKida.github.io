@@ -107,7 +107,7 @@ Other devices available at the [Research Facility Center for Science and Technol
 EEM, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 ***
-## Access at Kyoto University (collaborative research with the Mass Spectrometry Division)
+## Access at Kyoto University (collaborative research with the [Nakamura Group](https://www.scl.kyoto-u.ac.jp/~elements/en/) at Institute for Chemical Research)
 
 **FT-ICR MS (data processing by [ICBM-OCEAN](https://uol.de/icbm/icbm-ocean))**
 
