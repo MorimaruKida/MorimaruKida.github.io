@@ -18,5 +18,12 @@ Room: E556
 Phone: (81) 78-803-5846  
 E-mail: morimaru.kida@people.kobe-u.ac.jp
 
+Professional Memberships:  
+Japanese Society of Soil Science and Plant Nutrition  
+The Japanese Society of Limnology  
+The Japanese Humic Substances Society  
+International Humic Substances Society  
+Japanese Society of Biogeochemistry  
+
 ***
 Coming soon...
