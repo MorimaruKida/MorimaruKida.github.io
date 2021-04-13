@@ -84,7 +84,7 @@ All reagents are registered with barcodes and properly managed with an online sy
 
 Large-scale Soxhlet extractor for DAX-8 purification (from old days)           | Large-scale water filtration system
 :-------------------------:|:-------------------------:
-![DAX-8](/assets/img/DSCF9969.jpg)  |  ![filtration](/assets/img/DSCF9976.jpg)
+![DAX-8](/assets/img/DSCF9969.jpg)  |  ![filtration](/assets/img/DSCF9995.jpg)
 
 And a complete set of soil sampling/preparation tools.
 
