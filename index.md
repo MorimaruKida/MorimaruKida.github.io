@@ -4,6 +4,14 @@ title: Kida Group
 subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe University!
 ---
 ***
+_posted on 15 April 2021_
+## New members
+
+Ohira Ayuri, Maho Oshimoda, and Kota Hamada as B4 students joined our group!
+They will study soil organic matter in diverse Japanese soils and mangrove forests.
+Maho will work on FT-ICR-MS in collaboration with Institute for Chemical Research at Kyoto University.
+
+***
 _posted on 22 March 2021_
 ## The dawn of the Kida group in the Soil Science Laboratory
 ![dawn](/assets/img/DSCF6406_350.jpg)  
