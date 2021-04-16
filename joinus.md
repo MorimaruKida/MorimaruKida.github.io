@@ -2,7 +2,7 @@
 layout: page
 title: Join Us!
 subtitle: Find out how you can join our group
-cover-img: /assets/img/sugarman-joe-i2hZtvsvpjQ-unsplash.jpg
+cover-img: /assets/img/sugarman-joe-i2hZtvsvpjQ-unsplash_1400.jpg
 ---
 ## Graduate students
 Graduate students (Master and PhD) can be admitted through MA and PhD programs in the [Graduate School of Agricultural Science](https://www.kobe-u.ac.jp/en/study_in_kobe/admission/ap/grad_ans.html). Application guidelines can be found [here](http://www.ans.kobe-u.ac.jp/english/nougakubu/admin.html). There is also a [nice summary](http://www.ans.kobe-u.ac.jp/nougakubu/pdf/eng2019.pdf#page=1) of the Admission Policy and Master's and Doctor's Programs.  
