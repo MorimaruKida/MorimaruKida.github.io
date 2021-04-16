@@ -2,7 +2,7 @@
 layout: page
 title: メンバー募集中!
 subtitle: 一緒に研究室を作っていきませんか？
-cover-img: /assets/img/DSCF0505.jpg
+cover-img: /assets/img/DSCF0505_1400.jpg
 ---
 ## 求める学生像・木田グループのスタンス
 土壌学教育研究分野・木田グループは2021年2月に始まった真新しい研究室です。一緒に研究室のこれからを作っていける意欲的な学生をドシドシ募集中です！
