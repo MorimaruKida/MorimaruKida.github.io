@@ -8,7 +8,7 @@ cover-img: /assets/img/DSCF8546.jpg
 _posted on 15 April 2021_
 ## New members
 
-Ohira Ayuri, Maho Oshimoda, and Kota Hamada as B4 students joined our group!
+Ayuri Ohira, Maho Oshimoda, and Kota Hamada as B4 students joined our group!
 They will study soil organic matter in diverse Japanese soils and mangrove forests.
 Maho will work on FT-ICR-MS in collaboration with Institute for Chemical Research at Kyoto University.
 
