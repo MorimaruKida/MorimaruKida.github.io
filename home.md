@@ -2,7 +2,7 @@
 layout: page
 title: Home
 subtitle: Quick introduction of our group
-cover-img: /assets/img/DSCF0002_1400.jpg
+cover-img: /assets/img/DSCF0002.jpg
 ---
 
 Welcome! Kida Group in the Soil Science Laboratory at Kobe University is a brand new working group beginning in February 2021!
