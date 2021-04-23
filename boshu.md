@@ -13,6 +13,9 @@ cover-img: /assets/img/DSCF0505_1400.jpg
 ただし，与えられたテーマを漫然とこなすのは面白みに欠けるので，それを自分のものにする気概が必要です。挑戦的なテーマを積極的に進めていきたいですが，
 相談の上，保険として短期間で成果の出るテーマを並行しておこなってもらうことも可能です。
 
+学部生は，少なくとも1回は国内学会で発表をおこなってもらう予定です。
+[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/home)，[日本有機地球化学会](http://ogeochem.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)の発表申込は通常10月末・11月初めなので，十分間に合います。[日本土壌肥料学会](http://jssspn.jp/)は4月末，[日本陸水学会](http://www.jslim.jp/)は7月末なので，3年後期の配属直後からスムーズに研究を開始できていない場合は修士に進んでからの参加となります。
+
 修士の学生は学部・修士の研究内容を英語論文として執筆し，国際誌に投稿することを見据えて研究をおこなってもらいます。自分のためにも，社会のためにも，自分の研究をしっかりと二次利用される形で世の中に公表することは極めて大事です。木田グループのモットーは「[_**Interesting and unpublished is equivalent to non-existent**_](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767)」です。
 
 在学中の英語論文執筆は，日本学生支援機構の奨学金を借りている学生さんにとっては金銭的負担の軽減にも繋がります。日本の大学生は実に[4割近く](https://www.jasso.go.jp/about/jigyou_rikai/__icsFiles/afieldfile/2019/06/04/190604gorikai.pdf)が日本学生支援機構の返済が必要な奨学金を借りている現状があります。このうち第一種奨学金を貸与している学生は「特に優れた業績による返還免除」制度によって貸与額の[半額または全額を免除される](https://www.kobe-u.ac.jp/campuslife/finaid/scholarship/jasso_henkanmenjo.html)可能性があります。この評価において，筆頭著者としての英語論文の国際誌への投稿・受理は事実上必須です。
