@@ -18,7 +18,7 @@ cover-img: /assets/img/DSCF0505_1400.jpg
 
 修士の学生は学部・修士の研究内容を英語論文として執筆し，国際誌に投稿することを見据えて研究をおこなってもらいます。自分のためにも，社会のためにも，自分の研究をしっかりと二次利用される形で世の中に公表することは極めて大事です。木田グループのモットーは「[_**Interesting and unpublished is equivalent to non-existent**_](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767)」です。
 
-在学中の英語論文執筆は，日本学生支援機構の奨学金を借りている学生さんにとっては金銭的負担の軽減にも繋がります。日本の大学生は実に[4割近く](https://www.jasso.go.jp/about/jigyou_rikai/__icsFiles/afieldfile/2019/06/04/190604gorikai.pdf)が日本学生支援機構の返済が必要な奨学金を借りている現状があります。このうち第一種奨学金を貸与している学生は「特に優れた業績による返還免除」制度によって貸与額の[半額または全額を免除される](https://www.kobe-u.ac.jp/campuslife/finaid/scholarship/jasso_henkanmenjo.html)可能性があります。この評価において，筆頭著者としての英語論文の国際誌への投稿・受理は事実上必須です。
+在学中の英語論文執筆は，日本学生支援機構の奨学金を借りている学生さんにとっては金銭的負担の軽減にも繋がります。日本の大学生は実に[4割近く](https://www.jasso.go.jp/about/jigyou_rikai/__icsFiles/afieldfile/2019/06/04/190604gorikai.pdf)が，返済が必要な日本学生支援機構の奨学金を借りています。このうち第一種奨学金を貸与している学生は「特に優れた業績による返還免除」制度によって貸与額の[半額または全額を免除される](https://www.kobe-u.ac.jp/campuslife/finaid/scholarship/jasso_henkanmenjo.html)可能性があります。この評価において，筆頭著者としての英語論文の国際誌への投稿・受理は事実上必須です。
 
 最後に，土壌学研究室は他大学・研究機関との合同調査やプロジェクトの機会に恵まれており，外の世界を知るチャンスが沢山あります。
 他大の学生さんの頑張っている姿を見てもらうことも大事な経験だと思っています。
