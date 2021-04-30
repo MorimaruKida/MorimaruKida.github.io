@@ -80,7 +80,7 @@ All reagents are registered with barcodes and properly managed with an online sy
 ([used for the isolation of L. Biwa fulvic acid standard sample of JHSS](https://researchmap.jp/pika-315/published_papers/3063823/attachment_file.pdf))
 [(JHSS HP)](http://www.research.kobe-u.ac.jp/ans-soil/e_jhss/index.html)
 
-![isolation](/assets/img/Fig2_System_700.jpg)
+![isolation](/assets/img/Fig2_System_450.jpg)
 
 Large-scale Soxhlet extractor for DAX-8 purification (from old days)           | Large-scale water filtration system
 :-------------------------:|:-------------------------:
