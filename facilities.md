@@ -95,7 +95,7 @@ NMR (Avance-500, with priority access)           | NMR (JEOL 400)
 :-------------------------:|:-------------------------:
 ![Avance500/Coming soon]()  |  ![JEOL400/Coming soon]()
 
-HPLC-Orbitrap (LTQ Orbitrap XL/Discovery) with an auto-sampler           | ICP-AES (SPS3100)
+HPLC-Orbitrap         | ICP-AES
 :-------------------------:|:-------------------------:
 ![Orbitrap](/assets/img/Obitrap-300x225.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
 
