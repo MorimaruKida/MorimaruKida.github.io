@@ -93,7 +93,7 @@ And a complete set of soil sampling/preparation tools.
 
 NMR (Avance-500, with priority access)           | NMR (JEOL 400)
 :-------------------------:|:-------------------------:
-![Avance500](/assets/img/Avance500.jpg)  |  ![JEOL400/Coming soon]()
+![Avance500](/assets/img/AVANCE500.jpg)  |  ![JEOL400/Coming soon]()
 
 HPLC-Orbitrap         | ICP-AES
 :-------------------------:|:-------------------------:
