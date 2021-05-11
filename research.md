@@ -5,7 +5,7 @@ subtitle: Research themes in our lab
 ---
 ***
 ## Biogeochemistry in Asian mangroves
-by Kota Hamada
+by Kota Hamada  
 ![Fukido mangrove](/assets/img/Fukido.jpg)![Fukido soil](/assets/img/Fukidosoil.jpg)
 
 We have been working on Asian mangroves (currently Japan and Thailand) since 2015 in cooperation with scientists of different backgrounds such as [Ecosystem Ecology](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html), [Environmental Ecology](http://www.waseda.jp/sem-e2-lab/members.html), [Hydrology](https://hydro-takeon.jp/), and [Isotope Geochemistry](https://www.nies.go.jp/researchers-e/204664.html).
@@ -23,7 +23,7 @@ Another important aspect of mangroves is their high rate of material export to t
 
 ***
 ## Biogeochemistry in East Antarctica
-by Morimaru Kida
+by Morimaru Kida  
 ![L. Nyorai](/assets/img/DSCF6864_如来池.jpg)![Yukidori Valley moss](/assets/img/DSCF7253.jpg)
 
 We're studying the fundamental driver of the DOM concentration and composition in lakes and streams on Sôya Coast (Lützow-Holm Bay, East Dronning Maud Land, East Antarctica).
@@ -43,7 +43,7 @@ Studying the biotic and abiotic controls in the pedogenesis of Antarctic soils.
 
 ***
 ## Drivers of abundance and composition of mineral-associated organic matter in Japan
-by Ayuri Ohira
+by Ayuri Ohira  
 ![Soils](/assets/img/DSCF0003_350.jpg)!
 
 Mineral-associated organic matter (MAOM) is the most abundant and refractory fraction of soil organic matter.
