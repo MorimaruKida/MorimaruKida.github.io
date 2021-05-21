@@ -6,7 +6,7 @@ cover-img: /assets/img/DSCF0002.jpg
 ---
 
 Welcome! Kida Group in the Soil Science Laboratory at Kobe University is a brand new working group beginning in February 2021!
-We co-organize the Soil Science Laboratory together with [prof. Nobuhide Fujitake](http://www.research.kobe-u.ac.jp/ans-soil/) and
+We co-organize the Soil Science Laboratory together with [Prof. Nobuhide Fujitake](http://www.research.kobe-u.ac.jp/ans-soil/) and
 [Assistant Prof. Takeshi Suzuki](http://www.research.kobe-u.ac.jp/ans-soil/member.html), so a wealth of [laboratory infrastructure](https://morimarukida.github.io/facilities/) is already available.
 
 Research in my group is focused on studying organic carbon cycling in soil and water environments.
