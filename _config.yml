@@ -73,7 +73,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: scholar.google.com/citations?user=lG3N_EgAAAAJ&hl=en
+  google-scholar: https://scholar.google.com/citations?user=lG3N_EgAAAAJ&hl=en
 # ResearchGate: https://www.researchgate.net/profile/Morimaru-Kida
 
 # If you want to show a link to an RSS in the footer, add the site description here.
