@@ -8,7 +8,7 @@ subtitle: Research themes in our lab
 by Kota Hamada  
 ![Fukido mangrove](/assets/img/Fukido.jpg)![Fukido soil](/assets/img/Fukidosoil.jpg)
 
-We have been working on Asian mangroves (currently Japan and Thailand) since 2015 in cooperation with scientists of different backgrounds such as [Ecosystem Ecology](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html), [Environmental Ecology](http://www.waseda.jp/sem-e2-lab/members.html), [Hydrology](https://hydro-takeon.jp/), and [Isotope Geochemistry](https://www.nies.go.jp/researchers-e/204664.html).
+We have been working on Asian mangroves (currently Japan and Thailand) since 2013 in cooperation with scientists of different backgrounds such as [Ecosystem Ecology](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html), [Environmental Ecology](http://www.waseda.jp/sem-e2-lab/members.html), [Hydrology](https://hydro-takeon.jp/), and [Isotope Geochemistry](https://www.nies.go.jp/researchers-e/204664.html).
 
 Despite the recognized organic carbon (OC) sequestration potential of mangrove forests, the ongoing climate change and anthropogenic disturbances pose a great threat to these ecosystems. However, we currently lack the ability to mechanically understand and predict the consequences of such impacts, primarily because mechanisms underlying OC stabilization in these ecosystems remain elusive. Research into OC stabilization has focused on terrestrial soils and marine sediments for decades, overlooking the vegetated coastal ecosystems including mangroves. We aim to unravel the mechanisms how mangrove OC can persist for a long term.
 
