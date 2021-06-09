@@ -18,4 +18,4 @@ tools and multivariate statistics.
 
 Do you wanna be a part of early founding members of the group? Check [JOIN US!](https://morimarukida.github.io/joinus/)
 
-We are always happy to collaborate! Please don't hesitate to contact us (morimaru.kida@people.kobe-u.ac.jp).
+We are always happy to collaborate! Please don't hesitate to contact us (click the icons below).
