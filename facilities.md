@@ -91,20 +91,16 @@ And complete sets of soil sampling/preparation tools.
 ***
 ## Access in the campus (for a fee)
 
-NMR (Avance-500, with priority access)           | NMR (JEOL 400)
+NMR (Avance-500, with priority access)           | ICP-AES
 :-------------------------:|:-------------------------:
-![Avance500](/assets/img/AVANCE500.jpg)  |  ![JEOL400/Coming soon]()
-
-HPLC-Orbitrap         | ICP-AES
-:-------------------------:|:-------------------------:
-![Orbitrap](/assets/img/Obitrap-300x225.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
+![Avance500](/assets/img/AVANCE500.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
 
 XRF          | XRD
 :-------------------------:|:-------------------------:
 ![XRF](/assets/img/xrf.jpg)  |  ![XRD](/assets/img/xrd1.jpg)
 
 Other devices available at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
-EEM, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
+HPLC-Orbitrap, EEM, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 ***
 ## Access at Kyoto University
