@@ -100,7 +100,7 @@ XRF          | XRD
 ![XRF](/assets/img/xrf.jpg)  |  ![XRD](/assets/img/xrd1.jpg)
 
 Other devices available at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
-HPLC-Orbitrap, EEM, STEM, CIS, SEM, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
+HPLC-Orbitrap, TEM, STEM, SEM, CIS, FE-SEM, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 ***
 ## Access at Kyoto University
