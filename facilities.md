@@ -86,7 +86,7 @@ Large-scale Soxhlet extractor for DAX-8           | Large-scale water filtration
 :-------------------------:|:-------------------------:
 ![DAX-8](/assets/img/DSCF9969.jpg)  |  ![filtration](/assets/img/DSCF9995.jpg)
 
-And a complete set of soil sampling/preparation tools.
+And complete sets of soil sampling/preparation tools.
 
 ***
 ## Access in the campus (for a fee)
