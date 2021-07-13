@@ -14,8 +14,9 @@ Trat River and mangrove- Thailand (2016-present)
 Lützow-Holm Bay (Sôya Coast) & Amundsen Bay - East Antarctica (2016-2017)
 <iframe src="https://www.google.com/maps/d/embed?mid=1GRUhtBJdeLUTcuaMCG4bMXR4Wc9_fmSn" width="640" height="480"></iframe>
 #### Related publications
+* [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)
 * [Origin, Distributions, and Environmental Significance of Ubiquitous Humic-like Fluorophores in Antarctic Lakes and Streams](https://doi.org/10.1016/j.watres.2019.114901)
-* [Ammonia Oxidation Potentials and Ammonia Oxidizers of Lichen–Moss Vegetated Soils at Two Ice-free Areas in East Antarctica](https://www.jstage.jst.go.jp/article/jsme2/35/1/35_ME19126/_article)
+* [Ammonia Oxidation Potentials and Ammonia Oxidizers of Lichen–Moss Vegetated Soils at Two Ice-free Areas in East Antarctica](https://www.jstage.jst.go.jp/article/jsme2/35/1/35_ME19126/_article)  
 
 Fukido River mangrove - Japan (2013-2016)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-QUrVotiRrl61gkhurB_CW33jIyQYx_S" width="640" height="480"></iframe>
