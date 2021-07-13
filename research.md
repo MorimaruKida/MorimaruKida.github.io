@@ -19,7 +19,6 @@ Another important aspect of mangroves is their high rate of material export to t
 * [Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation](https://www.mdpi.com/1999-4907/11/10/1041)
 * [Molecular Composition and Decomposition Stages of Organic Matter in a Mangrove Mineral Soil with Time](https://doi.org/10.1016/j.ecss.2019.106478)
 * [Changes in Dissolved Organic Matter Composition and Dynamics in a Subtropical Mangrove River Driven by Rainfall](https://doi.org/10.1016/j.ecss.2019.04.029)
-* More in prep.
 
 ***
 ## Biogeochemistry in East Antarctica
@@ -32,14 +31,13 @@ On Sôya Coast, hundreds of lakes exist with astonishingly diverse water chemist
 This work was initiated at the 58th Japanese Antarctic Research Expedition (JARE58) in collaboration with the [Bioscience Group](https://www.nipr.ac.jp/english/research/group/biology.html) of National Institute of Polar Research in Japan. Molecular-level analysis of the Antarctic DOM samples by FT-ICR MS was conducted as a post-doctoral work of Morimaru in Thorsten Dittmar’s [ICBM-MPI Bridging Group for Marine Geochemistry](https://uol.de/en/icbm/marine-geochemistry), University of Oldenburg in Germany.
 
 Future work:  
-DOM downstream processing in Antarctic streams from glacier to the ocean, evaluated by UV-is, EEEM, 1H NMR, and FT-ICR-MS.
 Molecular-level analysis of the ~50 lake DOM composition by FT-ICR-MS.  
 Studying the biotic and abiotic controls in the pedogenesis of Antarctic soils.  
 
 #### Selected publications
 * [Origin, Distributions, and Environmental Significance of Ubiquitous Humic-like Fluorophores in Antarctic Lakes and Streams](https://doi.org/10.1016/j.watres.2019.114901)
 * [Ammonia Oxidation Potentials and Ammonia Oxidizers of Lichen–Moss Vegetated Soils at Two Ice-free Areas in East Antarctica](https://www.jstage.jst.go.jp/article/jsme2/35/1/35_ME19126/_article)
-* More in prep.
+* [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)
 
 ***
 ## Drivers of abundance and composition of mineral-associated organic matter in Japan
