@@ -10,7 +10,7 @@ _posted on 9 July 2021_
 
 Our first paper from the lab is out!  
 "Dissolved Organic Matter Processing in Pristine Antarctic Streams"  
-published at [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)
+published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)
 
 ***
 _posted on 15 April 2021_
