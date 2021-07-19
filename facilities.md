@@ -16,9 +16,9 @@ DOC/TDN (TOC-L)             |  DOC/TDN (TOC-V)
 :-------------------------:|:-------------------------:
 ![TOC-L](/assets/img/DSCF9964.jpg)  |  ![TOC-V](/assets/img/DSCF9965.jpg)
 
-UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM (with PARAFAC)
+UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM (F-7100)
 :-------------------------:|:-------------------------:|:-------------------------:
-![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | ![FluoroMax4](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  |  
+![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | ![F-7100](/assets/img/DSCF0009.jpg)  |  
 
 
 HPLC (UV/RID)           | Gas chromatography (FID)
@@ -34,13 +34,13 @@ And other basic instruments such as pH meters, EC meters, a moisture analyzer (w
 ***
 ### Preparation
 
-High-speed refrigerated centrifuge            |  with a range of rotors (10-800 mL)
-:-------------------------:|:-------------------------:
-![centrifuge](/assets/img/DSCF9957.jpg)    |  ![rotors](/assets/img/DSCF9958.jpg)
+High-speed refrigerated centrifuge         |  with a range of rotors (10-800 mL)  |  Small bentch-top centrifuge (1 mL)
+:-------------------------:|:-------------------------:|:-------------------------:
+![centrifuge](/assets/img/DSCF9957.jpg)    |  ![rotors](/assets/img/DSCF9958.jpg)  | ![mini centrifuge](/assets/img/DSCF9983.jpg)
 
-Small bentch-top centrifuge (1 mL)            | Automatic acid digestion system
+ Ultrasonic homogenizer           | Automatic acid digestion system
 :-------------------------:|:-------------------------:
-![mini centrifuge](/assets/img/DSCF9983.jpg)  |  ![acid digestion](/assets/img/DSCF9972.jpg)
+![sonication](/assets/img/DSCF0006.jpg)  |  ![acid digestion](/assets/img/DSCF9972.jpg)
 
 Muffle furnace for glasswear            | Small Muffle furnace for analyses
 :-------------------------:|:-------------------------:
