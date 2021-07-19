@@ -16,7 +16,7 @@ DOC/TDN (TOC-L)             |  DOC/TDN (TOC-V)
 :-------------------------:|:-------------------------:
 ![TOC-L](/assets/img/DSCF9964.jpg)  |  ![TOC-V](/assets/img/DSCF9965.jpg)
 
-UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM (F-7100)
+UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM (Hitachi F-7100)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | ![F-7100](/assets/img/DSCF0009.jpg)  |  
 
