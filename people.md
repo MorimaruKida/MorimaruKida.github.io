@@ -9,12 +9,11 @@ Morimaru Kida is an assistant professor of the Graduate School of Agricultural S
 While centered on Organic Geochemistry and Soil Science, he is keen to apply a range of analytical tools burrowed from different fields such as limnology, marine geochemistry, and statistical computing.   
 He is currently working on the polar regions (Antarctic lakes and streams, Arctic wetlands), Asian mangroves, and soil archive samples from all over Japan.
 
-Professional Memberships:  
-Japanese Society of Soil Science and Plant Nutrition  
-The Japanese Society of Limnology  
-The Japanese Humic Substances Society  
-International Humic Substances Society  
-Japanese Society of Biogeochemistry  
-
 ***
-Coming soon...
+### B4 students
+**Ayuri Ohira**  
+Theme: Environmental and mineralogical drivers of abundance of mineral-associated organic matter in soils collected all over Japan.  
+**Maho Oshimoda**  
+Theme: Molecular composition of mineral-associated organic matter in soils.  
+**Kota Hamada**  
+Theme: Abundance and origin of density fractions of soil organic matter in Fukido mangrove, Ishigaki Island, Japan.  
