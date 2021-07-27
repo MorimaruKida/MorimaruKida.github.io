@@ -12,7 +12,7 @@ He is currently working on the polar regions (Antarctic lakes and streams, Arcti
 ***
 ### B4 students
 **Ayuri Ohira**  
-Theme: Environmental and mineralogical drivers of abundance of mineral-associated organic matter in soils collected all over Japan.  
+Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan.  
 **Maho Oshimoda**  
 Theme: Molecular composition of mineral-associated organic matter in soils.  
 **Kota Hamada**  
