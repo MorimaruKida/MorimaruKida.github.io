@@ -12,7 +12,7 @@ I joined a JST/JICA-funded [**Blue CARES**](https://www.jst.go.jp/global/english
 
 ***
 _posted on 19 July 2021_
-## New project
+## New projects
 
 I started collaborative reseach with [Kenji Suetsugu](https://sites.google.com/site/suetsuguen/), Department of Biology, and [Wakana Azuma](https://forestry-kobe.jimdofree.com/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC/), Laboratory of forest resources, both Kobe University, to study influence of soil properties on arbuscular mycorrhizal fungi-mycoheterotroph associations (Dr. Suetsugu) and influnce of canopy soil properties on canopy plants on Yakushima cedar (*Cryptomeria japonica*) (Dr. Azuma).
 
