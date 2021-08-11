@@ -5,6 +5,18 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_posted on 11 August 2021_
+## New project
+
+I joined a JST/JICA-funded [**Blue CARES**](https://www.jst.go.jp/global/english/kadai/h2802_pilipinas.html) project as a member of Geochemistry group to help analyze molecular composition of sedimentary organic matter of mangroves in the Philippines. Collaboration with Toshihiro Miyajima and Raghab Ray from [AORI](http://bg.aori.u-tokyo.ac.jp/en/facultyandstaff/), the University of Tokyo.
+
+***
+_posted on 19 July 2021_
+## New project
+
+I started collaborative reseach with [Kenji Suetsugu](https://sites.google.com/site/suetsuguen/), Department of Biology, and [Wakana Azuma](https://forestry-kobe.jimdofree.com/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC/), Laboratory of forest resources, both Kobe University, to study influence of soil properties on arbuscular mycorrhizal fungi-mycoheterotroph associations (Dr. Suetsugu) and influnce of canopy soil properties on canopy plants on Yakushima cedar (*Cryptomeria japonica*) (Dr. Azuma).
+
+***
 _posted on 9 July 2021_
 ## New publication
 
