@@ -8,7 +8,7 @@ cover-img: /assets/img/DSCF8546.jpg
 _posted on 11 August 2021_
 ## New project
 
-I joined a JST/JICA-funded [**Blue CARES**](https://www.jst.go.jp/global/english/kadai/h2802_pilipinas.html) project as a member of Geochemistry group to help analyze molecular composition of sedimentary organic matter of mangroves in the Philippines. Collaboration with Toshihiro Miyajima and Raghab Ray from [AORI](http://bg.aori.u-tokyo.ac.jp/en/facultyandstaff/), the University of Tokyo.
+I joined a JST/JICA-funded [**Blue CARES**](https://www.jst.go.jp/global/english/kadai/h2802_pilipinas.html) project as a member of Geochemistry group to help analyze molecular composition of sedimentary organic matter of mangroves in the Philippines. Collaboration with Toshihiro Miyajima and Raghab Ray from [Marine Biogeochemistry Group](http://bg.aori.u-tokyo.ac.jp/en/), AORI, the University of Tokyo.
 
 ***
 _posted on 19 July 2021_
