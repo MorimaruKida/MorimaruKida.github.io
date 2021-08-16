@@ -5,6 +5,14 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_posted on 16 August 2021_
+## New publication
+
+Collaborative work on Trat mangrove SOC with Thai researchers was accepted!  
+"Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)"  
+Published in [Science of the Total Environment](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)
+
+***
 _posted on 11 August 2021_
 ## New project
 
