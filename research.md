@@ -15,6 +15,7 @@ Despite the recognized organic carbon (OC) sequestration potential of mangrove f
 Another important aspect of mangroves is their high rate of material export to the adjacent coastal ecosystem. The outwelling of mangrove-derived materials to the ocean depend heavily on the geomorphology and hydrology of mangroves. We have developed a hydrologic model that can quantify whole-ecosystem scale material exchange between the mangrove forest and the adjacent coastal water in the Fukido Mangrove forest, Okinawa, Japan. The outwelling of dissolved C alone from the mangrove forest greatly exceeded the leaf litter production, implying other major carbon sources such as belowground production and terrestrial inputs.
 
 #### Selected publications
+* [Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)
 * [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://doi.org/10.3390/f11090981)
 * [Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation](https://www.mdpi.com/1999-4907/11/10/1041)
 * [Molecular Composition and Decomposition Stages of Organic Matter in a Mangrove Mineral Soil with Time](https://doi.org/10.1016/j.ecss.2019.106478)
@@ -35,9 +36,9 @@ Molecular-level analysis of the ~50 lake DOM composition by FT-ICR-MS.
 Studying the biotic and abiotic controls in the pedogenesis of Antarctic soils.  
 
 #### Selected publications
+* [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)
 * [Origin, Distributions, and Environmental Significance of Ubiquitous Humic-like Fluorophores in Antarctic Lakes and Streams](https://doi.org/10.1016/j.watres.2019.114901)
 * [Ammonia Oxidation Potentials and Ammonia Oxidizers of Lichen–Moss Vegetated Soils at Two Ice-free Areas in East Antarctica](https://www.jstage.jst.go.jp/article/jsme2/35/1/35_ME19126/_article)
-* [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)
 
 ***
 ## Drivers of abundance and composition of mineral-associated organic matter in Japan
