@@ -12,7 +12,7 @@ LC-ICP-MS             |  Elemental analyzer
 ![LC-ICP-MS](/assets/img/DSCF9979.jpg)  |  ![TCTN](/assets/img/DSCF9977.jpg)
 
 
-DOC/TDN (TOC-L)             |  DOC/TDN (TOC-V)
+DOC/TDN (TOC-L)             |  DOC (TOC-V)
 :-------------------------:|:-------------------------:
 ![TOC-L](/assets/img/DSCF9964.jpg)  |  ![TOC-V](/assets/img/DSCF9965.jpg)
 
@@ -34,7 +34,7 @@ And other basic instruments such as pH meters, EC meters, a moisture analyzer (w
 ***
 ### Preparation
 
-High-speed refrigerated centrifuge         |  with a range of rotors (10-800 mL)  |  Small bentch-top centrifuge (1 mL)
+High-speed refrigerated centrifuge         |  Centrifuge rotors (10-800 mL)  |  Eppendorf centrifuge (1 mL)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![centrifuge](/assets/img/DSCF9957.jpg)    |  ![rotors](/assets/img/DSCF9958.jpg)  | ![mini centrifuge](/assets/img/DSCF9983.jpg)
 
