@@ -7,6 +7,7 @@ subtitle: Map of past and present study sites
 Trat River and mangrove- Thailand (2016-present)
 <iframe src="https://www.google.com/maps/d/embed?mid=17UN-pLtKjck_Sc0mdcrwiee8Cj4" width="640" height="480"></iframe>
 #### Related publications
+* [Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)
 * [Contribution of humic substances to dissolved organic matter optical properties and iron mobilization](https://link.springer.com/article/10.1007/s00027-018-0578-z)
 
 ***
