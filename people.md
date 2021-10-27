@@ -15,6 +15,6 @@ He is currently working on the polar regions (Antarctic lakes and streams, Arcti
 **Ayuri Ohira**  
 Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan.  
 **Maho Oshimoda**  
-Theme: Molecular composition of mineral-associated organic matter in soils.  
+Theme: Molecular composition of water extracted organic matter in Japanese Cambisols by FT-ICR-MS.  
 **Kota Hamada**  
 Theme: Abundance and origin of density fractions of soil organic matter in Fukido mangrove, Ishigaki Island, Japan.  
