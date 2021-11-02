@@ -21,7 +21,7 @@ UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM (Hit
 ![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | ![F-7100](/assets/img/DSCF0009.jpg)  |  
 
 
-HPLC (UV/RID)           | Gas chromatography (FID)
+HPLC (PDA)           | Gas chromatography (FID)
 :-------------------------:|:-------------------------:
 ![HPLC](/assets/img/DSCF9956.jpg)  |  ![GC-FID](/assets/img/DSCF9963.jpg)
 
