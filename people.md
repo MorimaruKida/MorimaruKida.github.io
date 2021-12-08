@@ -17,6 +17,6 @@ Review experince (in alphabetical order): Biogeosciences, Estuarine, Coastal and
 **Ayuri Ohira**  
 Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan.  
 **Maho Oshimoda**  
-Theme: Molecular composition of water extracted organic matter in Japanese Cambisols by FT-ICR-MS.  
+Theme: Molecular composition of water extracted organic matter in Japanese Andosols by FT-ICR-MS.  
 **Kota Hamada**  
 Theme: Abundance and origin of density fractions of soil organic matter in Fukido mangrove, Ishigaki Island, Japan.  
