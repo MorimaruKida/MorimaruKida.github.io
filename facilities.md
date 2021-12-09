@@ -95,7 +95,7 @@ NMR (Avance-500, with priority access)           | ICP-AES
 :-------------------------:|:-------------------------:
 ![Avance500](/assets/img/AVANCE500.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
 
-XRF          | XRD
+XRF          | SEM
 :-------------------------:|:-------------------------:
 ![XRF](/assets/img/xrf.jpg)  |  ![SEM](/assets/img/sem.jpg)
 
