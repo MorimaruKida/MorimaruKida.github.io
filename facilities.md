@@ -93,7 +93,7 @@ And complete sets of soil sampling/preparation tools.
 
 NMR (Avance-500, with priority access)           | ICP-AES
 :-------------------------:|:-------------------------:
-![Avance500](/assets/img/AVANCE500.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
+![Avance500](/assets/img/nmr.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
 
 XRF          | SEM
 :-------------------------:|:-------------------------:
