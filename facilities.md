@@ -97,10 +97,10 @@ NMR (Avance-500, with priority access)           | ICP-AES
 
 XRF          | XRD
 :-------------------------:|:-------------------------:
-![XRF](/assets/img/xrf.jpg)  |  ![XRD](/assets/img/xrd1.jpg)
+![XRF](/assets/img/xrf.jpg)  |  ![SEM](/assets/img/sem.jpg)
 
 Other devices available at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
-HPLC-Orbitrap, TEM, STEM, SEM, FE-SEM, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
+HPLC-Orbitrap, TEM, STEM, XRD, FE-SEM, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 ***
 ## Access at Kyoto University
