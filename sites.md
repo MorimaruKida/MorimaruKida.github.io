@@ -12,19 +12,25 @@ Fukido River mangrove - Japan (2013-present)
 * [Molecular Composition and Decomposition Stages of Organic Matter in a Mangrove Mineral Soil with Time](https://doi.org/10.1016/j.ecss.2019.106478)
 * [Changes in Dissolved Organic Matter Composition and Dynamics in a Subtropical Mangrove River Driven by Rainfall](https://doi.org/10.1016/j.ecss.2019.04.029)
 
-Trat River and mangrove - Thailand (2016-present)
-<iframe src="https://www.google.com/maps/d/embed?mid=17UN-pLtKjck_Sc0mdcrwiee8Cj4" width="640" height="480"></iframe>
-#### Related publications
-* [Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)
-* [Contribution of humic substances to dissolved organic matter optical properties and iron mobilization](https://link.springer.com/article/10.1007/s00027-018-0578-z)
-
 Bang Pu mangrove - Thailand (2022-present)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1mmQsaVawxUA4ycIE6TnuZsIoYU4zeyq4&ehbc=2E312F" width="640" height="480"></iframe>
 #### Related publications
 * Wait a moment!
 
+Lake Biwa - Japan (2022-Present)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dsFv_RUWN3FtPXnzpQ92e3i3a8vM5XWb&ehbc=2E312F" width="640" height="480"></iframe>
+#### Related publications
+* [Introduction of DEAE Sepharose for isolation of dissolved organic matter](https://link.springer.com/article/10.1007%2Fs10201-018-0561-3)
+* [Quantitative monitoring of aquatic humic substances in Lake Biwa, Japan, using the DAX-8 batch method based on carbon concentrations](https://www.sciencedirect.com/science/article/pii/S0146638015000819?via%3Dihub)
+
 ***
 ## Past sites
+Trat River and mangrove - Thailand (2015-2018)
+<iframe src="https://www.google.com/maps/d/embed?mid=17UN-pLtKjck_Sc0mdcrwiee8Cj4" width="640" height="480"></iframe>
+#### Related publications
+* [Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)
+* [Contribution of humic substances to dissolved organic matter optical properties and iron mobilization](https://link.springer.com/article/10.1007/s00027-018-0578-z)
+
 Lützow-Holm Bay (Sôya Coast) & Amundsen Bay - East Antarctica (2016-2017)
 <iframe src="https://www.google.com/maps/d/embed?mid=1GRUhtBJdeLUTcuaMCG4bMXR4Wc9_fmSn" width="640" height="480"></iframe>
 #### Related publications
