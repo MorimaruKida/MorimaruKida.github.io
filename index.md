@@ -5,6 +5,13 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_posted on 1 March 2022_
+## Grant proposal accepted
+A grant proposal was accepted! ["Grant-in-Aid for Scientific Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I, as a sole PI, will work on the mechanisms underlying persistence of dissolved organic matter in Lake Biwa, the largest lake in Japan, together with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) (Organic Geochemist) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html) (Microbiologist) for the fiscal years 2022-2025.  
+I also participate in another newly-funded program led by [Yasuro Fuse](https://www.hyokadb.jim.kit.ac.jp/profile/en.c532efa723328619125d40601d18f522.html) on the influence of anoxia on the elution of disolved organic matter from Lake Biwa sediment (2022-2025).  
+FT-ICR-MS and NMR will be major instruments used in these projects.
+
+***
 _posted on 08 October 2021_
 ## Grant proposal accepted
 A grant proposal was accepted! ["Fund for the Promotion of Joint International Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I join as an early career researcher who plays a core role in this type of funding. As a team, we will study a chronosequence of planted mangrove forests in Bangkok, Thailand for the next five years, in collaboration with Thai researchers, among them is [Dr. Sasitorn Poungparn](http://www.botany.sc.chula.ac.th/?p=973) from Chulalongkorn University.
