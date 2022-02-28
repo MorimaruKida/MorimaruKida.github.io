@@ -14,7 +14,7 @@ FT-ICR-MS and NMR will be major instruments used in these projects.
 ***
 _posted on 08 October 2021_
 ## Grant proposal accepted
-A grant proposal was accepted! ["Fund for the Promotion of Joint International Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I join as an early career researcher who plays a core role in this type of funding. As a team, we will study a chronosequence of planted mangrove forests in Bangkok, Thailand for the next five years, in collaboration with Thai researchers, among them is [Dr. Sasitorn Poungparn](http://www.botany.sc.chula.ac.th/?p=973) from Chulalongkorn University.
+A grant proposal was accepted! ["Fund for the Promotion of Joint International Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I join as an early career researcher who plays a core role in this type of funding. As a team, we will study a chronosequence of planted mangrove forests in Bangkok, Thailand for the next five years, in collaboration with Thai researchers, among them is [Sasitorn Poungparn](http://www.botany.sc.chula.ac.th/?p=973) from Chulalongkorn University.
 
 ***
 _posted on 16 August 2021_
