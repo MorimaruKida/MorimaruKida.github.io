@@ -8,7 +8,7 @@ subtitle: Scientific achievements in our lab
 Since 2021
 <ol reversed>
 <li>Kida, M.; Watanabe, I.; Kinjo, K.; Kondo, M.; Yoshitake, S.; Tomotsune, M.; Iimura, Y.; Umnouysin, S.; Suchewaboripont, V.; Poungparn, S.; Ohtsuka, T.; Fujitake, N. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574">Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand).</a> <i>
-Science of The Total Environment</i> 2021, 149682.</li>
+Science of The Total Environment</i> 2021, 801, 149682 (9p).</li>
 <li>Kida, M.; Fujitake, N.; Kojima, T.; Tanabe, Y.; Hayashi, K.; Sakae, K.; Dittmar, T. <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c03163">Dissolved Organic Matter Processing in Pristine Antarctic Streams.</a> <i>Environ. Sci. Technol.</i> 2021, 55, 14, 10175–10185.</li>
   </ol>
 
