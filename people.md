@@ -15,11 +15,11 @@ Review experince (in alphabetical order): Biogeosciences, Estuarine, Coastal and
 ***
 ### M1 students
 **Ayuri Ohira**  
-Theme: Coming soon.  
+Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
 **Maho Oshimoda**  
 Theme: Coming soon.  
 **Kota Hamada**  
-Theme: Coming soon.  
+Theme: Characterizing soil organic matter evolution along the chronosquence of mangrove plantation.  
 
 ### B4 students
 **Yuki Konishi**  
