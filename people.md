@@ -19,7 +19,7 @@ Theme: Elucidating the molecular heterogeneity of dissolved organic matter that 
 **Maho Oshimoda**  
 Theme: Coming soon.  
 **Kota Hamada**  
-Theme: Characterizing soil organic matter evolution along the chronosquence of mangrove plantation.  
+Theme: Characterizing soil organic matter evolution along the chronosequence of mangrove plantation.  
 
 ### B4 students
 **Yuki Konishi**  
