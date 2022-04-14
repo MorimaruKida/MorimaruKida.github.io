@@ -17,7 +17,7 @@ Review experince (in alphabetical order): Biogeosciences, Estuarine, Coastal and
 **Ayuri Ohira**  
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
 **Maho Oshimoda**  
-Theme: Coming soon.  
+Theme: Investigating black carbon dynamics in the soils after biochar amendment in a temperate secondary forest.  
 **Kota Hamada**  
 Theme: Characterizing soil organic matter evolution along the chronosequence of mangrove plantation.  
 
