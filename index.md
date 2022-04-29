@@ -5,6 +5,12 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_posted on 1 April 2022_
+## New members
+Ayuri, Maho, and Kota have all went onto the master course and they will continue working as group members.
+In addition, we welcomed Yuki Konishi as a new B4 student! He will expand Ayuri's undergrad study *downward*, i.e., below A horizons.
+
+***
 _posted on 1 March 2022_
 ## Grant proposal accepted
 A grant proposal was accepted! ["Grant-in-Aid for Scientific Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I, as a sole PI, will work on the mechanisms underlying persistence of dissolved organic matter in Lake Biwa, the largest lake in Japan, together with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) (Organic Geochemist) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html) (Microbiologist) for the fiscal years 2022-2025.  
