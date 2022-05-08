@@ -33,7 +33,7 @@ This is the final publication from my doctoral research (finally).
 
 ***
 _11 August 2021_
-## New project
+## ![JICA](/assets/img/JICA.jpg)New project
 I joined a JST/JICA-funded [**Blue CARES**](https://www.jst.go.jp/global/english/kadai/h2802_pilipinas.html) project as a member of Geochemistry group to help analyze molecular composition of sedimentary organic matter of mangroves in the Philippines. Collaboration with Toshihiro Miyajima and Raghab Ray from [Marine Biogeochemistry Group](http://bg.aori.u-tokyo.ac.jp/en/), AORI, the University of Tokyo.
 
 ***
