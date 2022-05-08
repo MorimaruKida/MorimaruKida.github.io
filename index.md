@@ -28,7 +28,8 @@ _16 August 2021_
 Collaborative work on Trat mangrove SOC with Thai researchers was accepted!  
 "Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)"  
 Published in [***Science of the Total Environment***](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574).
-This is the final publication from my doctoral research (finally).
+This is the final publication from my doctoral research (finally).  
+![TratSOM](/assets/img/TratSOM.jpg)
 
 ***
 _11 August 2021_
@@ -45,7 +46,8 @@ _9 July 2021_
 ## New publication
 Our first paper from the lab is out!  
 "Dissolved Organic Matter Processing in Pristine Antarctic Streams"  
-published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)
+published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.1c03163).  
+![Antarcticstream](/assets/img/Antarcticstream.jpg)
 
 ***
 _30 June 2021_
