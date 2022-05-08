@@ -6,7 +6,7 @@ cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
 _1 April 2022_
-## New members
+## ![KobeU](/assets/img/KobeU1.jpg) New members
 Ayuri, Maho, and Kota have all went onto the master course and they will continue working as group members.
 In addition, we welcomed Yuki Konishi as a new B4 student! He will expand Ayuri's undergrad study *downward*, i.e., below A horizons.
 
@@ -65,7 +65,7 @@ This instrument will be used for density fractionation of soils as well as gener
 
 ***
 _15 April 2021_
-## New members
+## ![KobeU](/assets/img/KobeU1.jpg) New members
 Ayuri Ohira, Maho Oshimoda, and Kota Hamada as B4 students joined our group!
 They will study soil organic matter in diverse Japanese soils and mangrove forests.
 Maho will work on FT-ICR-MS in collaboration with Institute for Chemical Research at Kyoto University.
