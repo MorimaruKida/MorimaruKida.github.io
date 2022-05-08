@@ -12,14 +12,14 @@ In addition, we welcomed Yuki Konishi as a new B4 student! He will expand Ayuri'
 
 ***
 _1 March 2022_
-## ![JSPS](/assets/img/JSPS.jpg)![JSPS](/assets/img/JSPS.jpg) Grant proposal accepted
+## ![JSPS](/assets/img/JSPS.jpg) Grant proposal accepted
 A grant proposal was accepted! ["Grant-in-Aid for Scientific Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I, as a sole PI, will work on the mechanisms underlying persistence of dissolved organic matter in Lake Biwa, the largest lake in Japan, together with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) (Organic Geochemist) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html) (Microbiologist) for the fiscal years 2022-2025.  
 I also participate in another newly-funded program led by [Yasuro Fuse](https://www.hyokadb.jim.kit.ac.jp/profile/en.c532efa723328619125d40601d18f522.html) on the influence of anoxia on the elution of disolved organic matter from Lake Biwa sediment (2022-2025).  
 FT-ICR-MS and NMR will be major instruments used in these projects.
 
 ***
 _8 October 2021_
-## ![JSPS](/assets/img/JSPS.jpg)![JSPS](/assets/img/JSPS1.jpg) Grant proposal accepted
+## ![JSPS](/assets/img/JSPS1.jpg) Grant proposal accepted
 A grant proposal was accepted! ["Fund for the Promotion of Joint International Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I join as an early career researcher who plays a core role in this type of funding. As a team, we will study a chronosequence of planted mangrove forests in Bangkok, Thailand for the next five years, in collaboration with Thai researchers, among them is [Sasitorn Poungparn](http://www.botany.sc.chula.ac.th/?p=973) from Chulalongkorn University.
 
 ***
@@ -33,12 +33,12 @@ This is the final publication from my doctoral research (finally).
 
 ***
 _11 August 2021_
-## ![JICA](/assets/img/JICA.jpg)![JST](/assets/img/JST.jpg)![JST](/assets/img/JST1.jpg)![JICA](/assets/img/JICA1.jpg) New project
+## ![JST](/assets/img/JST1.jpg)![JICA](/assets/img/JICA1.jpg) New project
 I joined a JST/JICA-funded [**Blue CARES**](https://www.jst.go.jp/global/english/kadai/h2802_pilipinas.html) project as a member of Geochemistry group to help analyze molecular composition of sedimentary organic matter of mangroves in the Philippines. Collaboration with Toshihiro Miyajima and Raghab Ray from [Marine Biogeochemistry Group](http://bg.aori.u-tokyo.ac.jp/en/), AORI, the University of Tokyo.
 
 ***
 _19 July 2021_
-## ![KobeU](/assets/img/KobeU.jpg)![KobeU](/assets/img/KobeU1.jpg) New projects
+## ![KobeU](/assets/img/KobeU1.jpg) New projects
 I started collaborative reseach with [Kenji Suetsugu](https://sites.google.com/site/suetsuguen/), Department of Biology, and [Wakana Azuma](https://forestry-kobe.jimdofree.com/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC/), Laboratory of forest resources, both Kobe University, to study influence of soil properties on arbuscular mycorrhizal fungi-mycoheterotroph associations (Dr. Suetsugu) and influnce of canopy soil properties on canopy plants on Yakushima cedar (*Cryptomeria japonica*) (Dr. Azuma).
 
 ***
