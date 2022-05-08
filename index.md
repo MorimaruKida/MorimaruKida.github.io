@@ -51,7 +51,7 @@ published in [***Environmental Science & Technology***](https://pubs.acs.org/doi
 _30 June 2021_
 ## New instrument
 **Fluorometer (Hitachi F-7100)**  
-This instrument will be used for fluorescence analysis of water/soil/sediment samples.  We chose F-7100 because of its high sensitivity and throughput and good S/N ratio for its price.  
+This instrument will be used for fluorescence analysis of water/soil/sediment samples.  We chose F-7100 because of its high sensitivity, throughput, and S/N ratio for its price.  
 ![F-7100](/assets/img/DSCF0009.jpg)
 
 ***
