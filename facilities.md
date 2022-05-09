@@ -89,7 +89,7 @@ Large-scale Soxhlet extractor for DAX-8           | Large-scale water filtration
 And complete sets of soil sampling/preparation tools.
 
 ***
-## Access in the campus (for a fee)
+## Access on the campus (for a fee)
 
 NMR (Avance-500, with priority access)           | ICP-AES
 :-------------------------:|:-------------------------:
