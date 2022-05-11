@@ -10,8 +10,10 @@ by Kota Hamada
 
 We have been working on Asian mangroves (currently Japan and Thailand) since 2013 in cooperation with scientists of different backgrounds such as [Ecosystem Ecology](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html), [Environmental Ecology](http://www.waseda.jp/sem-e2-lab/members.html), [Hydrology](https://hydro-takeon.jp/), and [Isotope Geochemistry](https://www.nies.go.jp/researchers-e/204664.html).
 
+**Soil organic carbon (SOC)**  
 Despite the recognized organic carbon (OC) sequestration potential of mangrove forests, the ongoing climate change and anthropogenic disturbances pose a great threat to these ecosystems. However, we currently lack the ability to mechanically understand and predict the consequences of such impacts, primarily because mechanisms underlying OC stabilization in these ecosystems remain elusive. Research into OC stabilization has focused on terrestrial soils and marine sediments for decades, overlooking the vegetated coastal ecosystems including mangroves. We aim to unravel the mechanisms how mangrove OC can persist for a long term.
 
+**Dissolved organic/inorganic carbon (DOC/DIC)**  
 Another important aspect of mangroves is their high rate of material export to the adjacent coastal ecosystem. The outwelling of mangrove-derived materials to the ocean depend heavily on the geomorphology and hydrology of mangroves. We have developed a hydrologic model that can quantify whole-ecosystem scale material exchange between the mangrove forest and the adjacent coastal water in the Fukido Mangrove forest, Okinawa, Japan. The outwelling of dissolved C alone from the mangrove forest greatly exceeded the leaf litter production, implying other major carbon sources such as belowground production and terrestrial inputs.
 
 #### Selected publications
@@ -31,7 +33,7 @@ On Sôya Coast, hundreds of lakes exist with astonishingly diverse water chemist
 
 This work was initiated at the 58th Japanese Antarctic Research Expedition (JARE58) in collaboration with the [Bioscience Group](https://www.nipr.ac.jp/english/research/group/biology.html) of National Institute of Polar Research in Japan. Molecular-level analysis of the Antarctic DOM samples by FT-ICR MS was conducted as a post-doctoral work of Morimaru in Thorsten Dittmar’s [ICBM-MPI Bridging Group for Marine Geochemistry](https://uol.de/en/icbm/marine-geochemistry), University of Oldenburg in Germany.
 
-Future work:  
+**Future work:**  
 Molecular-level analysis of the ~50 lake DOM composition by FT-ICR-MS.  
 Studying the biotic and abiotic controls in the pedogenesis of Antarctic soils.  
 
@@ -42,8 +44,18 @@ Studying the biotic and abiotic controls in the pedogenesis of Antarctic soils.
 
 ***
 ## Drivers of abundance and composition of mineral-associated organic matter in Japan
-by Ayuri Ohira  
-![Soils](/assets/img/DSCF0003_350.jpg)!
+by Ayuri Ohira and Yuki Konishi  
+![Soils](/assets/img/DSCF0003_350.jpg)
 
 Mineral-associated organic matter (MAOM) is the most abundant and refractory fraction of soil organic matter.
 Using ~1500 in-house soil archives collected from all over Japan (from Hokkaido to Okinawa), we seek to identify fundamental drivers of abundance and composition of MAOM.
+
+***
+## Drivers of soil organic carbon contents in global Andisols
+by Morimaru Kida  
+Coming soon...
+
+***
+## Black carbon dynamics after amendment of biochar in a Japanese temerate secondary deciduous forest
+by Maho Oshimoda  
+Coming soon...
