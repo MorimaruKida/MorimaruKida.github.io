@@ -56,6 +56,6 @@ by Morimaru Kida
 Coming soon...
 
 ***
-## Black carbon dynamics after amendment of biochar in a Japanese temperate secondary deciduous forest
+## Long-term black carbon dynamics after amendment of biochar in a Japanese temperate secondary deciduous forest
 by Maho Oshimoda  
 Coming soon...
