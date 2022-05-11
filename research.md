@@ -52,17 +52,17 @@ Using ~1500 in-house soil archives collected from all over Japan (from Hokkaido 
 
 ***
 ## Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence
-by Ayuri Ohira
-Coming soon...
+by Ayuri Ohira  
+Coming soon...  
 In cooperation with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html).
 
 ***
 ## Drivers of soil organic carbon contents in global Andisols
 by Morimaru Kida  
-Coming soon...
+Coming soon...  
 In cooperation with [Hirohiko Nagano](https://researchers.adm.niigata-u.ac.jp/html/200002466_en.html) and [Rota Wagai](https://scholar.google.co.jp/citations?user=iGdkNa4AAAAJ&hl=ja) and his group members.
 
 ***
 ## Long-term black carbon dynamics after amendment of biochar in a Japanese temperate secondary deciduous forest
 by Maho Oshimoda  
-Coming soon...
+Coming soon...  
