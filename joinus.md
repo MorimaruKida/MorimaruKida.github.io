@@ -9,7 +9,7 @@ Graduate students (Master and PhD) can be admitted through MA and PhD programs o
 There are a number of governmental and private scholarships available.
 This [pdf](https://www.studyinjapan.go.jp/en/_mt/2022/04/3500fb71fcef9dde65fe53c1baa1befd4743b371.pdf) is a comprehensive summary of scholarship for international students (incl. master and Ph.D.) in Japan for the fiscal year 2022-2023. You may also want to see [this](https://www.kobe-u.ac.jp/en/study_in_kobe/scholarships/index.html) summary of scholarship by Kobe University.
 Please note, however, that most of the scholarships are available _**only after**_ coming to Japan. [MEXT Scholarship](https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html) is one of few exceptions, but very competitive and requires lots of documents preparation. In addition, to issue visa, you're required to prove that you secure enough monthly income for the entire duration of your stay. This corresponds to at least 120k yen per month including housing.
-PhD students from Europe, North America, or India can apply to [Summer Program, Strategic Program, or Short-term Program](https://www.jsps.go.jp/english/e-fellow/index.html) of the Japan Society for the Promotion of Science (JSPS) to conduct joint research activities at our laboratory.
+PhD students from the Europe or North America can apply to [Summer Program, Strategic Program, or Short-term Program](https://www.jsps.go.jp/english/e-fellow/index.html) of the Japan Society for the Promotion of Science (JSPS) to conduct joint research activities at our laboratory.
 
 ## Postdoctoral fellows
 Our team is always welcoming talented, young researchers from the world!   
