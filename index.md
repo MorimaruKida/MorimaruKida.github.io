@@ -5,6 +5,13 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_25 May 2022_
+## New instrument
+**Muffle furnace (YAMATO FO310)**  
+The old muffle furnace was replaced with an almost brand-new furnace, thanks to a kind present from a colleague! The overall size is much smaller but equipped with a larger inner capacity. Yeah!  
+![muffle](/assets/img/DSCF0026.jpg)
+
+***
 _1 April 2022_
 ## ![KobeU](/assets/img/KobeU1.jpg) New members
 Ayuri, Maho, and Kota have all went onto the master course and they will continue working as group members.
