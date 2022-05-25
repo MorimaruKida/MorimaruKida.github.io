@@ -44,7 +44,7 @@ High-speed refrigerated centrifuge         |  Centrifuge rotors (10-800 mL)  |  
 
 Muffle furnace for glasswear            | Small Muffle furnace for analyses
 :-------------------------:|:-------------------------:
-![big furnace](/assets/img/DSCF9952.jpg)  |  ![small furnace](/assets/img/DSCF9950.jpg)
+![big furnace](/assets/img/DSCF0026.jpg)  |  ![small furnace](/assets/img/DSCF9950.jpg)
 
 Vacuum freeze dryer            | Fine pulverizer
 :-------------------------:|:-------------------------:
