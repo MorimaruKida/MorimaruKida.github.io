@@ -53,6 +53,8 @@ Using ~1500 in-house soil archives collected from all over Japan (from Hokkaido 
 ***
 ## Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence
 by Ayuri Ohira  
+![SPE-DOM](/assets/img/IMG_20191212_140645.jpg)![L. Biwa](/assets/img/IMG_20220617_095335.jpg)
+
 Coming soon...  
 In cooperation with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html).
 
@@ -65,4 +67,6 @@ In cooperation with [Hirohiko Nagano](https://researchers.adm.niigata-u.ac.jp/ht
 ***
 ## Long-term black carbon dynamics after amendment of biochar in a Japanese temperate secondary deciduous forest
 by Maho Oshimoda  
+![Biochar](/assets/img/IMG_5858.jpg)
+
 Coming soon...  
