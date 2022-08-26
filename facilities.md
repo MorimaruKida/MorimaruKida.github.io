@@ -106,7 +106,7 @@ HPLC-Orbitrap, TEM, STEM, XRD, FE-SEM, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS,
 ## Access at Kyoto University
 ### Collaborative research with [Nakamura Group](https://www.scl.kyoto-u.ac.jp/~elements/en/) at Institute for Chemical Research
 
-**FT-ICR MS (data processing by [ICBM-OCEAN](https://uol.de/icbm/icbm-ocean))**
+**FT-ICR MS (data processing by [ICBM-OCEAN](https://uol.de/en/icbm/marine-geochemistry/research/icbm-ocean)**
 
 ![solariX](/assets/img/IMG_20210330_173039.jpg)
 
