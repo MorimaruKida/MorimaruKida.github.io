@@ -5,6 +5,11 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_1 March 2022_
+## ![Nissei](/assets/img/hd_logo01.jpg) Grant proposal accepted
+A grant proposal was accepted! This is a one-year grant by a funding body from Nissay. I'll work on SOC stabilization mechanisms in mangrove soils on Ishigali Island.
+
+***
 _25 May 2022_
 ## New instrument
 **Muffle furnace (YAMATO FO310)**  
