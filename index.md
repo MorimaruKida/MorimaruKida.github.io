@@ -7,7 +7,7 @@ cover-img: /assets/img/DSCF8546.jpg
 ***
 _16 September 2022_
 ## ![Nissei](/assets/img/hd_logo01.jpg) Grant proposal accepted
-A grant proposal was accepted! This is a one-year grant for young researchers working on environmental sceince by a funding body from Nissay. I'll work on SOC stabilization mechanisms in mangrove soils on Ishigaki Island.
+A grant proposal was accepted! This is a one-year grant for young researchers working on environmental sceince by Nippon Life Insurance Foundation. I'll work on SOC stabilization mechanisms in mangrove soils on Ishigaki Island.
 
 ***
 _25 May 2022_
