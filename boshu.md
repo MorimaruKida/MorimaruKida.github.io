@@ -43,6 +43,7 @@ cover-img: /assets/img/DSCF0505_1400.jpg
 * 分担：SATREPS「コーラル・トライアングルにおけるブルーカーボン生態系とその多面的サービスの包括的評価と保全戦略」2021-2023（代表：[灘岡和夫](https://researchmap.jp/read0047241)）
 
 また，以下の共同研究を実施しています。
+* 代表：東京大学大気海洋研究所「[臨時共同利用研究](https://www.aori.u-tokyo.ac.jp/coop/kashiwa2022.html)」2022-2023
 * 代表：京都大学化学研究所「[国際共同利用・共同研究/施設・機器利用型研究/国際共同研究](https://www.icr-ijurc.jp/application/#a02-4)」2022-2023
 * 代表：京都大学生存圏研究所「[共同利用・共同研究/先進素材開発解析システム（ADAM）](https://www.rish.kyoto-u.ac.jp/joint_usage-research_center/facilities2022/adam2022/)」2022-2023
 * 代表：国立極地研究所「[一般共同研究](https://www.nipr.ac.jp/collaborative_research/koubo.html)」2021-2024
