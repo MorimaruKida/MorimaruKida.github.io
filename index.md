@@ -5,6 +5,13 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_11 Oct 2022_
+## New instrument
+**Freeze dryer (Taitec VD-550R)**  
+This instrument will be used for sample preparation for a BPCA analysis. It was chosen due to its (relatively) strong durability against acid.  
+![Taitec](/assets/img/IMG20221011125707.jpg)
+
+***
 _16 September 2022_
 ## ![Nissei](/assets/img/hd_logo01.jpg) Grant proposal accepted
 A grant proposal was accepted! This is a one-year grant for young researchers working on environmental sceince by Nippon Life Insurance Foundation. I'll work on SOC stabilization mechanisms in mangrove soils on Ishigaki Island.
