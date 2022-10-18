@@ -14,7 +14,7 @@ We have been working on Asian mangroves (currently Japan and Thailand) since 201
 Despite the recognized organic carbon (OC) sequestration potential of mangrove forests, the ongoing climate change and anthropogenic disturbances pose a great threat to these ecosystems. However, we currently lack the ability to mechanically understand and predict the consequences of such impacts, primarily because mechanisms underlying OC stabilization in these ecosystems remain elusive. Research into OC stabilization has focused on terrestrial soils and marine sediments for decades, overlooking the vegetated coastal ecosystems including mangroves. We aim to unravel the mechanisms how mangrove OC can persist for a long term.
 
 **Dissolved organic/inorganic carbon (DOC/DIC)**  
-Another important aspect of mangroves is their high rate of material export to the adjacent coastal ecosystem. The outwelling of mangrove-derived materials to the ocean depend heavily on the geomorphology and hydrology of mangroves. We have developed a hydrologic model that can quantify whole-ecosystem scale material exchange between the mangrove forest and the adjacent coastal water in the Fukido Mangrove forest, Okinawa, Japan. The outwelling of dissolved C alone from the mangrove forest greatly exceeded the leaf litter production, implying other major carbon sources such as belowground production and terrestrial inputs.
+Another important aspect of mangroves is their high rate of material export to the adjacent coastal ecosystem. The outwelling of mangrove-derived materials to the ocean depends heavily on the geomorphology and hydrology of mangroves. We have developed a hydrologic model that can quantify whole-ecosystem scale material exchange between the mangrove forest and the adjacent coastal water in the Fukido Mangrove forest, Okinawa, Japan. The outwelling of dissolved C alone from the mangrove forest greatly exceeded the leaf litter production, implying other major carbon sources such as belowground production and terrestrial inputs.
 
 #### Selected publications
 * [Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)
@@ -48,7 +48,7 @@ by Ayuri Ohira and Yuki Konishi
 ![Soils](/assets/img/DSCF0003_350.jpg)
 
 Mineral-associated organic matter (MAOM) is the most abundant and refractory fraction of soil organic matter.
-Using ~1500 in-house soil archives collected from all over Japan (from Hokkaido to Okinawa), we seek to identify fundamental drivers of abundance and composition of MAOM.
+Using in-house soil archives collected from all over Japan (from Hokkaido to Okinawa), we seek to identify fundamental drivers of abundance and composition of MAOM.
 
 ***
 ## Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence
