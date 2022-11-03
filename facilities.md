@@ -114,9 +114,9 @@ HPLC-Orbitrap, TEM, STEM, XRD, FE-SEM, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS,
 ## Access at The University of Tokyo
 ### Collaborative research with [Yokoyama Group](https://gpes.c.u-tokyo.ac.jp/faculty-staff/materials-systems-and-dynamics/yokoyamayusuke.html) at Atmosphere and Ocean Research Institute
 
-**Accelerator Mass Spectrometer**
+**Accelerator Mass Spectrometer (Single-stage)**
 
-![AMS](/assets/img/.jpg)
+![AMS](/assets/img/IMG20221101143457.jpg)![AMS](/assets/img/IMG20221031101406.jpg)
 
 ***
 ## Access at Gifu University
@@ -124,5 +124,5 @@ HPLC-Orbitrap, TEM, STEM, XRD, FE-SEM, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS,
 
 **EA-IRMS**
 
-![EA-IRMS](/assets/img/.jpg)
+![EA-IRMS](/assets/img/1639377833528.jpg)
 
