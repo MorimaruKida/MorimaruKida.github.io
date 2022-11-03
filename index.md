@@ -31,9 +31,9 @@ In addition, we welcomed Yuki Konishi as a new B4 student! He will expand Ayuri'
 
 ***
 _1 March 2022_
-## ![JSPS](/assets/img/JSPS.jpg) Grant proposal accepted
+## ![JSPS](/assets/img/JSPS.jpg) Grant proposals accepted
 A grant proposal was accepted! ["Grant-in-Aid for Scientific Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I, as a sole PI, will work on the mechanisms underlying persistence of dissolved organic matter in Lake Biwa, the largest lake in Japan, together with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) (Organic Geochemist) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html) (Microbiologist) for the fiscal years 2022-2025.  
-I also participate in another newly-funded program led by [Yasuro Fuse](https://www.hyokadb.jim.kit.ac.jp/profile/en.c532efa723328619125d40601d18f522.html) on the influence of anoxia on the elution of disolved organic matter from Lake Biwa sediment (2022-2025).  
+I also participate in another newly-funded program led by [Yasuro Fuse](https://www.hyokadb.jim.kit.ac.jp/profile/en.c532efa723328619125d40601d18f522.html) on the influence of anoxia on the elution of disolved organic matter from Lake Biwa sediment (2022-2025), and one more project by [Toshihiro Miyajima](https://co.aori.u-tokyo.ac.jp/sc2/) on SOC stabilization mechanisms (especially abiotic sulfurization) in coastal vegetated ecosystems.  
 FT-ICR-MS and NMR will be major instruments used in these projects.
 
 ***
