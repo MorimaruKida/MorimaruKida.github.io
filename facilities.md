@@ -111,5 +111,18 @@ HPLC-Orbitrap, TEM, STEM, XRD, FE-SEM, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS,
 ![solariX](/assets/img/IMG_20210330_173039.jpg)
 
 ***
-Carbon isotopes (δ13C, Δ14C) will be measured at other institutes.
+## Access at The University of Tokyo
+### Collaborative research with [Yokoyama Group](https://gpes.c.u-tokyo.ac.jp/faculty-staff/materials-systems-and-dynamics/yokoyamayusuke.html) at Atmosphere and Ocean Research Institute
+
+**Accelerator Mass Spectrometer**
+
+![AMS](/assets/img/.jpg)
+
+***
+## Access at Gifu University
+### Collaborative research with [Ohtsuka Group](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html) at River Basin Research Center
+
+**EA-IRMS**
+
+![EA-IRMS](/assets/img/.jpg)
 
