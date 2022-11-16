@@ -9,7 +9,9 @@ _16 November 2022_
 ## ![KobeU](/assets/img/KobeU1.jpg) New members
 Misato Hashi, Miho Yamahsita, Yuta Watanabe, and Ryu Sumioka as B3 students joined our group!
 They will learn lab research themes and experiments from graduate students in the lab untill next March.
-From next April, they will work on their own undergrad research themes for one year.
+From next April, they will work on their own undergrad research themes for one year.  
+Yes, in Kobe U and in most Japanese universities, students spend 1-1.5 yrs as an undergrad and 2 yrs as a master's student in the lab,
+thus they'll have longer experiences before starting the doctoral course compared to most European universities.
 
 ***
 _11 Oct 2022_
