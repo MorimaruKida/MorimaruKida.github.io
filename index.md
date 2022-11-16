@@ -72,7 +72,7 @@ I started collaborative reseach with [Kenji Suetsugu](https://sites.google.com/s
 ***
 _9 July 2021_
 ## New publication
-Our first paper from the lab is out!  
+The first paper from my postdoctoral work is finally out!  
 "Dissolved Organic Matter Processing in Pristine Antarctic Streams"  
 published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.1c03163).  
 ![Antarcticstream](/assets/img/Antarcticstream.jpg)
