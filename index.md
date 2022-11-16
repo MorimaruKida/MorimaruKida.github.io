@@ -5,6 +5,13 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_16 November 2022_
+## ![KobeU](/assets/img/KobeU1.jpg) New members
+Misato Hashi, Miho Yamahsita, Yuta Watanabe, and Ryu Sumioka as B3 students joined our group!
+They will learn lab research themes and experiments from graduate students in the lab untill next March.
+From next April, they will work on their own undergrad research themes for one year.
+
+***
 _11 Oct 2022_
 ## New instrument
 **Freeze dryer (Taitec VD-550R)**  
