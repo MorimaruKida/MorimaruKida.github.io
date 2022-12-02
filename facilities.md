@@ -7,7 +7,7 @@ subtitle: Instruments in our lab
 ## Own instruments
 ### Analysis
 
-LC-ICP-MS             |  Atomic Absorption Spectrophotometer
+LC-ICP-MS             |  Atomic absorption spectrophotometer
 :-------------------------:|:-------------------------:
 ![LC-ICP-MS](/assets/img/DSCF9979.jpg)  |  ![Hitachi z-2010](/assets/img/DSCF0031.jpg)
 
