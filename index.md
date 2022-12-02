@@ -5,7 +5,7 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
-_11 Oct 2022_
+_21 November 2022_
 ## New instrument
 **CHNS(O) Elemental analyzer (Elementer Vario EL Cube)**  
 This instrument will be used for general soil elemental analysis. The vario EL cube is designed for simultaneous C, H, N, and S analysis, and an additional option for the determination of O.　We are happy to have introduced this German-made instrument with low-maintenance design but wtih high performance and versatility.  
@@ -21,7 +21,7 @@ Yes, in Kobe U and in most Japanese universities, students spend 1-1.5 yrs as an
 thus they'll have longer experiences before starting the doctoral course compared to most European universities.
 
 ***
-_11 Oct 2022_
+_11 October 2022_
 ## New instrument
 **Freeze dryer (Taitec VD-550R)**  
 This instrument will be used for sample preparation for a BPCA analysis. It was chosen due to its (relatively) strong durability against acid.  
