@@ -9,7 +9,7 @@ _11 Oct 2022_
 ## New instrument
 **CHNS(O) Elemental analyzer (Elementer Vario EL Cube)**  
 This instrument will be used for general soil elemental analysis. The vario EL cube is designed for simultaneous C, H, N, and S analysis, offering additional options for the determination of O.　We are happy to have introduced this German-made instrument with low-maintenance design but wtih high performance and versatility.  
-![Elementer](/assets/img/DSCF0028.JPG)
+![Elementer](/assets/img/DSCF0028.jpg)
 
 ***
 _16 November 2022_
