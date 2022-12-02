@@ -25,3 +25,13 @@ Theme: Characterizing soil organic matter evolution along the chronosequence of 
 ### B4 students
 **Yuki Konishi**  
 Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan. 
+
+### B3 students
+**Misato Hashi**  
+Theme: Coming soon...  
+**Miho Yamahsita**  
+Theme: Coming soon...  
+**Yuta Watanabe**  
+Theme: Coming soon...  
+**Ryu Sumioka**  
+Theme: Coming soon... 
