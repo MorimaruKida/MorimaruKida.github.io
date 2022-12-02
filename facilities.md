@@ -7,9 +7,14 @@ subtitle: Instruments in our lab
 ## Own instruments
 ### Analysis
 
-LC-ICP-MS             |  Elemental analyzer
+LC-ICP-MS             |  Atomic Absorption Spectrophotometer
 :-------------------------:|:-------------------------:
-![LC-ICP-MS](/assets/img/DSCF9979.jpg)  |  ![TCTN](/assets/img/DSCF9977.jpg)
+![LC-ICP-MS](/assets/img/DSCF9979.jpg)  |  ![Hitachi z-2010](/assets/img/DSCF0031.jpg)
+
+
+Elemental analyzer (Elementer Vario EL Cube)        |  Elemental analyzer (PerkinElmer 2400II)
+:-------------------------:|:-------------------------:
+![Elementer](/assets/img/DSCF0028.jpg)  |  ![PerkinElmer](/assets/img/DSCF9977.jpg)
 
 
 DOC/TDN (TOC-L)             |  DOC (TOC-V)
