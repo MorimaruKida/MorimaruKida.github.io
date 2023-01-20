@@ -5,6 +5,11 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_20 January 2023_
+## ![KobeU](/assets/img/KobeU1.jpg) Funding
+I received a grant from [Kobe University Institute for Advanced Study](https://www.research.kobe-u.ac.jp/gksh-web/iar/) which financially suports Early Career tenure-track faculties in Kobe University, over the next four years.
+
+***
 _21 November 2022_
 ## New instrument
 **CHNS(O) Elemental analyzer (Elementer Vario EL Cube)**  
