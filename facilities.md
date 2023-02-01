@@ -60,7 +60,7 @@ And other basic instruments such as water filtration systems (glass/plastic/meta
 ***
 ### Infrastructure
 
-Growth chamber (Big one with lights)            | Small one without light
+Growth chamber (Big)            | Growth chamber (small)
 :-------------------------:|:-------------------------:
 ![big growth chamber](/assets/img/DSCF9971.jpg)  |  ![small growth chamber](/assets/img/DSCF9973.jpg)
 
