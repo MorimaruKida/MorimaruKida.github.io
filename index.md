@@ -9,7 +9,7 @@ _14 February 2023_
 ## Topic
 I co-lead a MDPI Topic entitled "[New Advances in Vegetation Dynamics and Soil Systems Related to Biogeochemical Cycles](https://www.mdpi.com/topics/N20D1EED2Y)".  
 Please submit your interesting paper! Five free waivers are available in total to aid your submission.  
-![](/assets/img/2023-02-14_Topics banner H.jpg)
+![banner](/assets/img/2023-02-14_Topics_banner_H.jpg)
 
 
 ***
