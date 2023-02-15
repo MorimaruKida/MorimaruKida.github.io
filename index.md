@@ -5,6 +5,14 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_14 February 2023_
+## Topic
+I co-lead a MDPI Topic entitled "[New Advances in Vegetation Dynamics and Soil Systems Related to Biogeochemical Cycles](https://www.mdpi.com/topics/N20D1EED2Y)".  
+Please submit your interesting paper! Five free waivers are available in total to aid your submission.  
+![](/assets/img/2023-02-14_Topics banner H.jpg)
+
+
+***
 _20 January 2023_
 ## ![KobeU](/assets/img/KobeU1.jpg) Funding
 I received a four-year grant from [Kobe University Institute for Advanced Study](https://www.research.kobe-u.ac.jp/gksh-web/iar/) which financially suports Early Career tenure-track faculties of Kobe University.
