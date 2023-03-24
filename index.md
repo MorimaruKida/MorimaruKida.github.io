@@ -8,9 +8,8 @@ cover-img: /assets/img/DSCF8546.jpg
 _24 March 2023_
 ## New publication
 The second paper from my postdoctoral work is finally out! It's open-access.  
-"Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes"  
-published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.3c00249).   
-We revealed that the molecular diveristy of DOM was driven by environmental dissimilarity rather than the spatial distance, contrarily to distance-decay of similarity in ecology.  
+"Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes" published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.3c00249).   
+We revealed that the molecular diveristy of DOM was driven by environmental dissimilarity rather than the spatial distance, contrarily to distance-decay of similarity usually observed in community ecology.  
 <img src="/assets/img/images_large_es3c00249_0006.jpg" alt="image">
 
 ***
@@ -82,8 +81,7 @@ A grant proposal was accepted! ["Fund for the Promotion of Joint International R
 _16 August 2021_
 ## New publication
 Collaborative work on Trat mangrove SOC with Thai researchers was accepted!  
-"Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)"  
-Published in [***Science of the Total Environment***](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574).
+"Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)" published in [***Science of the Total Environment***](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574).
 This is the final publication from my doctoral research (finally).  
 ![TratSOM](/assets/img/TratSOM.jpg)
 
@@ -101,8 +99,7 @@ I started collaborative reseach with [Kenji Suetsugu](https://sites.google.com/s
 _9 July 2021_
 ## New publication
 The first paper from my postdoctoral work is finally out!  
-"Dissolved Organic Matter Processing in Pristine Antarctic Streams"  
-published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.1c03163).  
+"Dissolved Organic Matter Processing in Pristine Antarctic Streams" published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.1c03163).  
 ![Antarcticstream](/assets/img/Antarcticstream.jpg)
 
 ***
