@@ -5,6 +5,15 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_24 March 2023_
+## New publication
+The second paper from my postdoctoral work is finally out! It's open-access.  
+"Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes"  
+published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.3c00249).   
+We revealed that the molecular diveristy of DOM was driven by environmental dissimilarity rather than the spatial distance, contrarily to distance-decay of similarity in ecology.  
+<img src="/assets/img/images_large_es3c00249_0006.jpg" alt="image">
+
+***
 _14 February 2023_
 ## Topic
 I co-lead a MDPI Topic entitled "[New Advances in Vegetation Dynamics and Soil Systems Related to Biogeochemical Cycles](https://www.mdpi.com/topics/N20D1EED2Y)".  
