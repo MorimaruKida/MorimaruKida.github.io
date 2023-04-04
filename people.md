@@ -14,24 +14,27 @@ He is broadly interested in cycling and fate of organic matter in terrestrial an
 Review experince (in alphabetical order): Biogeosciences, Communications Earth & Environment, Estuarine, Coastal and Shelf Science, Frontiers in*, Limnology, Limnology & Oceanography, Marine Chemistry, Nature Reviews Earth & Environment, Organic Geochemistry, Scientific Reports, Science of the Total Environment
 
 ***
-### M1 students
+### M2 students
 **Ayuri Ohira**  
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
 **Maho Oshimoda**  
 Theme: Investigating black carbon dynamics in the soils after biochar amendment in a temperate secondary forest.  
 **Kota Hamada**  
-Theme: Characterizing soil organic matter evolution along the chronosequence of mangrove plantation.  
+Theme: Identifying mechanisms of soil organic matter stabilization in mangrove soils.  
 
 ### B4 students
-**Yuki Konishi**  
-Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan. 
+**Miho Yamashita**  
+Theme: Quantitaitve assesment of black carbon contribution to aromaticity of diverse soil humic acids  
+**Yuta Watanabe**  
+Theme: Characterizing soil organic matter evolution along the chronosequence of mangrove plantation, Bang Pu (Thailand).  
+**Ryu Sumioka**  
+Theme: Characterizing porewater dissolved organic matter evolution along the chronosequence of mangrove plantation, Bang Pu (Thailand). 
 
 ### B3 students
 **Misato Hashi**  
 Theme: Coming soon...  
-**Miho Yamahsita**  
-Theme: Coming soon...  
-**Yuta Watanabe**  
-Theme: Coming soon...  
-**Ryu Sumioka**  
-Theme: Coming soon... 
+
+### Past students
+**2022-2023**  
+**Yuki Konishi**  
+Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan. 
