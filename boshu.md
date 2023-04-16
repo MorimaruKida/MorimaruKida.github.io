@@ -13,7 +13,7 @@ cover-img: /assets/img/DSCF0505_1400.jpg
 相談の上，保険として短期間で成果の出るテーマを並行しておこなってもらうことも可能です。
 
 学部生は，少なくとも1回は国内学会で発表をおこなってもらう予定です。
-[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/home)，[日本有機地球化学会](http://ogeochem.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)の発表申込は通常10月末・11月初めなので余裕をもって予定を立てられます。[日本土壌肥料学会](http://jssspn.jp/)は4月末，[日本陸水学会](http://www.jslim.jp/)は7月末なので，3年時後期の配属直後からスムーズに研究を開始できていない場合は修士に進んでからの参加となります。
+[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/%E6%A6%82%E8%A6%81)，[日本有機地球化学会](http://ogeochem.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)の発表申込は通常10月末・11月初めなので余裕をもって予定を立てられます。[日本土壌肥料学会](http://jssspn.jp/)は4月末，[日本陸水学会](http://www.jslim.jp/)は7月末なので，3年時後期の配属直後からスムーズに研究を開始できていない場合は修士に進んでからの参加となります。
 
 修士の学生は学部・修士の研究内容を英語論文として執筆し，国際誌に投稿することを見据えて研究をおこなってもらいます。自分のためにも，社会のためにも，自分の研究をしっかりと二次利用される形で世の中に公表することは極めて大事です。木田グループのモットーは「[_**Interesting and unpublished is equivalent to non-existent**_](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767)」です。
 
