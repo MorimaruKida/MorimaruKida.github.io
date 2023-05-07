@@ -34,21 +34,13 @@ On Sôya Coast, hundreds of lakes exist with astonishingly diverse water chemist
 This work was initiated at the 58th Japanese Antarctic Research Expedition (JARE58) in collaboration with the [Bioscience Group](https://www.nipr.ac.jp/english/research/group/biology.html) of National Institute of Polar Research in Japan. Molecular-level analysis of the Antarctic DOM samples by FT-ICR MS was conducted as a post-doctoral work of Morimaru in Thorsten Dittmar’s [ICBM-MPI Bridging Group for Marine Geochemistry](https://uol.de/en/icbm/marine-geochemistry), University of Oldenburg in Germany.
 
 **Future work:**  
-Molecular-level analysis of the ~50 lake DOM composition by FT-ICR-MS.  
 Studying the biotic and abiotic controls in the pedogenesis of Antarctic soils.  
 
 #### Selected publications
+* [Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes](https://pubs.acs.org/doi/10.1021/acs.est.3c00249)
 * [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)
 * [Origin, Distributions, and Environmental Significance of Ubiquitous Humic-like Fluorophores in Antarctic Lakes and Streams](https://doi.org/10.1016/j.watres.2019.114901)
 * [Ammonia Oxidation Potentials and Ammonia Oxidizers of Lichen–Moss Vegetated Soils at Two Ice-free Areas in East Antarctica](https://www.jstage.jst.go.jp/article/jsme2/35/1/35_ME19126/_article)
-
-***
-## Drivers of abundance and composition of mineral-associated organic matter in Japan
-by Ayuri Ohira and Yuki Konishi  
-![Soils](/assets/img/DSCF0003_350.jpg)
-
-Mineral-associated organic matter (MAOM) is the most abundant and refractory fraction of soil organic matter.
-Using in-house soil archives collected from all over Japan (from Hokkaido to Okinawa), we seek to identify fundamental drivers of abundance and composition of MAOM.
 
 ***
 ## Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence
@@ -59,14 +51,22 @@ Coming soon...
 In cooperation with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html).
 
 ***
+## Long-term black carbon dynamics after amendment of biochar in a Japanese temperate secondary deciduous forest
+by Maho Oshimoda  
+![Biochar](/assets/img/IMG_5858.jpg)
+
+Coming soon...  
+
+***
 ## Drivers of soil organic carbon contents in global Andisols
 by Morimaru Kida  
 Coming soon...  
 In cooperation with [Hirohiko Nagano](https://researchers.adm.niigata-u.ac.jp/html/200002466_en.html) and [Rota Wagai](https://scholar.google.co.jp/citations?user=iGdkNa4AAAAJ&hl=ja) and his group members.
 
 ***
-## Long-term black carbon dynamics after amendment of biochar in a Japanese temperate secondary deciduous forest
-by Maho Oshimoda  
-![Biochar](/assets/img/IMG_5858.jpg)
+## Drivers of abundance and composition of mineral-associated organic matter in Japan
+by Ayuri Ohira and Yuki Konishi  
+![Soils](/assets/img/DSCF0003_350.jpg)
 
-Coming soon...  
+Mineral-associated organic matter (MAOM) is the most abundant and refractory fraction of soil organic matter.
+Using in-house soil archives collected from all over Japan (from Hokkaido to Okinawa), we seek to identify fundamental drivers of abundance and composition of MAOM.
