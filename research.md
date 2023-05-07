@@ -60,6 +60,8 @@ Coming soon...
 ***
 ## Drivers of soil organic carbon contents in global Andisols
 by Morimaru Kida  
+![Global Andisols map](/assets/img/Map.jpg)
+
 Coming soon...  
 In cooperation with [Hirohiko Nagano](https://researchers.adm.niigata-u.ac.jp/html/200002466_en.html) and [Rota Wagai](https://scholar.google.co.jp/citations?user=iGdkNa4AAAAJ&hl=ja) and his group members.
 
