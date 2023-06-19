@@ -5,6 +5,11 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_16 June 2023_
+## ![KobeU](/assets/img/KobeU1.jpg) Award
+I received [Outstanding Young Researcher Award](https://www.kobe-u.ac.jp/NEWS/info/2023_06_16_01.html) from Kobe University.
+
+***
 _24 March 2023_
 ## New publication
 The second paper from my postdoctoral work is finally out! It's open-access.  
