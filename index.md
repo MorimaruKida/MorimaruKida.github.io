@@ -7,7 +7,7 @@ cover-img: /assets/img/DSCF8546.jpg
 ***
 _10 July 2023_
 ## Award
-I received Young Researcher's Award (Taguchi Award) from The Japanese Association of Organic Geochemists.
+I received Young Researcher Award (Taguchi Award) from The Japanese Association of Organic Geochemists.
 
 ***
 _16 June 2023_
