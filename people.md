@@ -15,7 +15,7 @@ Review experience (in alphabetical order): ACS Earth and Space Chemistry, Biogeo
 
 ***
 ### M2 students
-**Ayuri Ohira**  
+**Ayuri Ohira (Best oral presentation at 40th symposium of The Japanese Association of Organic Geochemists)**  
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
 **Maho Oshimoda**  
 Theme: Investigating black carbon dynamics in the soils after biochar amendment in a temperate secondary forest.  
@@ -24,7 +24,7 @@ Theme: Identifying mechanisms of soil organic matter stabilization in mangrove s
 
 ### B4 students
 **Miho Yamashita**  
-Theme: Quantitaitve assessment of black carbon contribution to aromaticity of diverse soil humic acids  
+Theme: Quantitative assessment of black carbon contribution to aromaticity of diverse soil humic acids  
 **Yuta Watanabe**  
 Theme: Characterizing soil organic matter evolution along the chronosequence of a mangrove plantation, Bang Pu (Thailand).  
 **Ryu Sumioka**  
