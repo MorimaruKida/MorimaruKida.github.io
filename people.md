@@ -16,7 +16,6 @@ Review experience (in alphabetical order): ACS Earth and Space Chemistry, Biogeo
 Recipient of the following prestigious awards:  
 2023 Young Researcher Award (Taguchi Award) from The Japanese Association of Organic Geochemists  
 2023 Outstanding Young Researcher Award from Kobe University  
-2018 Travel Support Award from the International Humic Substances Society  
 And several best oral/poster presentation awards at conferences
 
 ***
