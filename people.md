@@ -11,7 +11,7 @@ Morimaru Kida is an Assistant Professor for Soil Science at the Graduate School 
 While centered on Aquatic Organic Geochemistry and Soil Science, he is keen to apply various analytical and statistical tools from different fields such as Limnology, Marine Geochemistry, and Ecology.
 He is broadly interested in the cycling and fate of natural organic matter in terrestrial and aquatic environments. His favourite site is mangrove forests because (obviously) he can collect both soil and water samples. 
 
-Review experience (in alphabetical order): ACS Earth and Space Chemistry, Biogeosciences, Communications Earth & Environment, Estuarine, Coastal and Shelf Science, Frontiers in*, Limnology, Limnology & Oceanography, Marine Chemistry, Nature Reviews Earth & Environment, Organic Geochemistry, Scientific Reports, Science of the Total Environment
+Review experience (in alphabetical order): ACS Earth and Space Chemistry, Biogeosciences, Communications Earth & Environment, Estuarine, Coastal and Shelf Science, Frontiers in*, Geochemical Journal, Limnology, Limnology & Oceanography, Marine Chemistry, Nature Reviews Earth & Environment, Organic Geochemistry, Scientific Reports, Science of the Total Environment
 
 Recipient of the following prestigious awards:  
 * 2023 Young Researcher Award (Taguchi Award) from The Japanese Association of Organic Geochemists
