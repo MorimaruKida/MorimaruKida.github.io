@@ -37,15 +37,14 @@ cover-img: /assets/img/DSCF0505_1400.jpg
 
 現在，以下の競争的資金を獲得しています。
 * 代表：神戸大学 ⾼等学術研究院テニュアトラック教員⽀援制度（B制度）2022.10～2027.9
-* 代表：ニッセイ財団環境問題研究助成（若手研究・奨励研究）「マングローブ林の豊富な土壌有機物を支える保存機構の解明」2022.10-2023.9
 * 代表：科研費基盤研究（B）「溶存有機物の長期残存性を規定する分子複雑性とその規定要因の解明」2022-2025
 * 分担：科研費基盤研究（B）「地球温暖化により生じた貧酸素水塊における酸素消費システムの解明」2022-2025（代表：[布施泰朗](https://environ.kit.ac.jp/about/staff/)）
 * 分担：科研費基盤研究（B）「浅海域植生帯堆積物における有機炭素長期貯留評価と難分解化機構の解明」2022-2026（代表：[宮島利宏](https://researchmap.jp/miyajima)）
 * 若手研究者枠：科研費国際共同研究強化（B）「荒廃地へのマングローブの植林は生態系炭素貯留量をどのくらい増大させるか」2021-2026（代表：[大塚俊之](https://researchmap.jp/read0166246)）
 
 また，以下の共同研究を実施しています。
-* 代表：東京大学大気海洋研究所「[共同利用研究](https://www.aori.u-tokyo.ac.jp/coop/kashiwa2022.html)」2022.10-2024
-* 代表：京都大学生存圏研究所「[共同利用・共同研究/先進素材開発解析システム（ADAM）](https://www.rish.kyoto-u.ac.jp/joint_usage-research_center/facilities2022/adam2022/)」2022-2024
+* 代表：東京大学大気海洋研究所「[共同利用研究](https://www.aori.u-tokyo.ac.jp/coop/kashiwa2022.html)」2022.10-2025
+* 代表：京都大学生存圏研究所「[共同利用・共同研究/先進素材開発解析システム（ADAM）](https://www.rish.kyoto-u.ac.jp/joint_usage-research_center/facilities2022/adam2022/)」2022-2025
 * 代表：国立極地研究所「[一般共同研究](https://www.nipr.ac.jp/research/general-collaboration-project/)」2021-2024
 
 ただし木田は現時点ではテニュアトラック制助教で博士学生の主指導権限がありませんので，形式上は[藤嶽教授](https://kobesoillab.github.io/member/)に主指導教官になってもらい，木田は副指導教官として指導にあたります。
