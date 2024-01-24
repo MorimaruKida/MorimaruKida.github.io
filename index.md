@@ -5,7 +5,7 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
-_24 March 2023_
+_24 Jan 2023_
 ## New publication
 The first paper from my group is finally out! It's open-access.  
 "Functional organic matter components in mangrove soils revealed by density fractionation" published in [***Soil Science and Plant Nutrition***](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761).   
