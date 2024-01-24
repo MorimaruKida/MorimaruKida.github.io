@@ -5,6 +5,13 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_24 March 2023_
+## New publication
+The first paper from my group is finally out! It's open-access.  
+"Functional organic matter components in mangrove soils revealed by density fractionation" published in [***Soil Science and Plant Nutrition***](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761).   
+We introduce density fractionation to mangrove soils to identify the distribution and properties of the functional components of SOM regarding degradation state, stability, and origin.  
+
+***
 _10 July 2023_
 ## Award
 I received Young Researcher Award (Taguchi Award) from The Japanese Association of Organic Geochemists for my research on Factors Influencing the Molecular Composition and Diversity of Dissolved Organic Matter in Aquatic Environments.
@@ -92,18 +99,18 @@ _16 August 2021_
 ## New publication
 Collaborative work on Trat mangrove SOC with Thai researchers was accepted!  
 "Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)" published in [***Science of the Total Environment***](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574).
-This is the final publication from my doctoral research (finally).  
+This is the final publication of my doctoral research (finally).  
 ![TratSOM](/assets/img/TratSOM.jpg)
 
 ***
 _11 August 2021_
 ## ![JST](/assets/img/JST1.jpg)![JICA](/assets/img/JICA1.jpg) New project
-I joined a JST/JICA-funded [**Blue CARES**](https://www.jst.go.jp/global/english/kadai/h2802_pilipinas.html) project as a member of Geochemistry group to help analyze molecular composition of sedimentary organic matter of mangroves in the Philippines. Collaboration with Toshihiro Miyajima and Raghab Ray from [Marine Biogeochemistry Group](http://bg.aori.u-tokyo.ac.jp/en/), AORI, the University of Tokyo.
+I joined a JST/JICA-funded [**Blue CARES**](https://www.jst.go.jp/global/english/kadai/h2802_pilipinas.html) project as a member of the Geochemistry group to help analyze the molecular composition of sedimentary organic matter of mangroves in the Philippines. Collaboration with Toshihiro Miyajima and Raghab Ray from [Marine Biogeochemistry Group](http://bg.aori.u-tokyo.ac.jp/en/), AORI, the University of Tokyo.
 
 ***
 _19 July 2021_
 ## ![KobeU](/assets/img/KobeU1.jpg) New projects
-I started collaborative reseach with [Kenji Suetsugu](https://sites.google.com/site/suetsuguen/), Department of Biology, and [Wakana Azuma](https://forestry-kobe.jimdofree.com/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC/), Laboratory of forest resources, both Kobe University, to study influence of soil properties on arbuscular mycorrhizal fungi-mycoheterotroph associations (Dr. Suetsugu) and influnce of canopy soil properties on canopy plants on Yakushima cedar (*Cryptomeria japonica*) (Dr. Azuma).
+I started collaborative research with [Kenji Suetsugu](https://sites.google.com/site/suetsuguen/), Department of Biology, and [Wakana Azuma](https://forestry-kobe.jimdofree.com/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC/), Laboratory of forest resources, both Kobe University, to study the influence of soil properties on arbuscular mycorrhizal fungi-mycoheterotroph associations (Dr. Suetsugu) and influence of canopy soil properties on canopy plants on Yakushima cedar (*Cryptomeria japonica*) (Dr. Azuma).
 
 ***
 _9 July 2021_
