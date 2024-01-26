@@ -5,7 +5,7 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
-_24 Jan 2023_
+_24 Jan 2024_
 ## New publication
 The first paper from my group is finally out! It's open-access.  
 "Functional organic matter components in mangrove soils revealed by density fractionation" published in [***Soil Science and Plant Nutrition***](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761).   
@@ -26,7 +26,7 @@ _24 March 2023_
 ## New publication
 The second paper from my postdoctoral work is finally out! It's open-access.  
 "Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes" published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.3c00249).   
-We revealed that the molecular diveristy of DOM was driven by environmental dissimilarity rather than the spatial distance, contrarily to distance-decay of similarity usually observed in community ecology.  
+We revealed that the molecular diversity of DOM was driven by environmental dissimilarity rather than the spatial distance, contrary to the distance-decay of similarity usually observed in community ecology.  
 <img src="/assets/img/images_large_es3c00249_0006.jpg" alt="image">
 
 ***
@@ -40,20 +40,20 @@ Please submit your interesting paper! Five free waivers are available in total t
 ***
 _20 January 2023_
 ## ![KobeU](/assets/img/KobeU1.jpg) Funding
-I received a four-year grant from [Kobe University Institute for Advanced Study](https://www.research.kobe-u.ac.jp/gksh-web/iar/) which financially suports Early Career tenure-track faculties of Kobe University.
+I received a four-year grant from [Kobe University Institute for Advanced Study](https://www.research.kobe-u.ac.jp/gksh-web/iar/) which financially supports Early Career tenure-track faculties of Kobe University.
 
 ***
 _21 November 2022_
 ## New instrument
 **CHNS(O) Elemental analyzer (Elementer Vario EL Cube)**  
-This instrument will be used for general soil elemental analysis. The vario EL cube is designed for simultaneous C, H, N, and S analysis, and an additional option for the determination of O. We are happy to have introduced this German-made instrument with low-maintenance design but wtih high performance and versatility.  
+This instrument will be used for general soil elemental analysis. The vario EL cube is designed for simultaneous C, H, N, and S analysis, and an additional option for the determination of O. We are happy to have introduced this German-made instrument with a low-maintenance design but with high performance and versatility.  
 ![Elementer](/assets/img/DSCF0028.jpg)
 
 ***
 _16 November 2022_
 ## ![KobeU](/assets/img/KobeU1.jpg) New members
-Misato Hashi, Miho Yamahsita, Yuta Watanabe, and Ryu Sumioka as B3 students joined our group!
-They will learn lab research themes and experiments from graduate students in the lab untill next March.
+Misato Hashi, Miho Yamashita, Yuta Watanabe, and Ryu Sumioka as B3 students joined our group!
+They will learn lab research themes and experiments from graduate students in the lab until next March.
 From next April, they will work on their own undergrad research themes for one year.  
 Yes, in Kobe U and in most Japanese universities, students spend 1-1.5 yrs as undergrads and 2 yrs as master's students in the lab, thus they'll have longer experiences before starting the doctoral course compared to most European universities.
 
@@ -79,14 +79,14 @@ The old muffle furnace was replaced with an almost brand-new furnace, thanks to 
 ***
 _1 April 2022_
 ## ![KobeU](/assets/img/KobeU1.jpg) New members
-Ayuri, Maho, and Kota have all went onto the master course and they will continue working as group members.
+Ayuri, Maho, and Kota have all gone onto the master course and they will continue working as group members.
 In addition, we welcomed Yuki Konishi as a new B4 student! He will expand Ayuri's undergrad study *downward*, i.e., below A horizons.
 
 ***
 _1 March 2022_
 ## ![JSPS](/assets/img/JSPS.jpg) Grant proposals accepted
 A grant proposal was accepted! ["Grant-in-Aid for Scientific Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I, as a sole PI, will work on the mechanisms underlying persistence of dissolved organic matter in Lake Biwa, the largest lake in Japan, together with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) (Organic Geochemist) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html) (Microbiologist) for the fiscal years 2022-2025.  
-I also participate in another newly-funded program led by [Yasuro Fuse](https://www.hyokadb.jim.kit.ac.jp/profile/en.c532efa723328619125d40601d18f522.html) on the influence of anoxia on the elution of disolved organic matter from Lake Biwa sediment (2022-2025), and one more project by [Toshihiro Miyajima](https://co.aori.u-tokyo.ac.jp/sc2/) on SOC stabilization mechanisms (especially abiotic sulfurization) in coastal vegetated ecosystems (2022-2026).  
+I also participate in another newly-funded program led by [Yasuro Fuse](https://www.hyokadb.jim.kit.ac.jp/profile/en.c532efa723328619125d40601d18f522.html) on the influence of anoxia on the elution of dissolved organic matter from Lake Biwa sediment (2022-2025), and one more project by [Toshihiro Miyajima](https://co.aori.u-tokyo.ac.jp/sc2/) on SOC stabilization mechanisms (especially abiotic sulfurization) in coastal vegetated ecosystems (2022-2026).  
 FT-ICR-MS and NMR will be major instruments used in these projects.
 
 ***
