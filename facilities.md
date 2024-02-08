@@ -60,6 +60,9 @@ And other basic instruments such as water filtration systems (glass/plastic/meta
 ***
 ### Infrastructure
 
+Fume hood (One is perchloric acid-durable)  
+![fume hood](/assets/img/IMG20240208160833.jpg)
+
 Growth chamber (Big)            | Growth chamber (small)
 :-------------------------:|:-------------------------:
 ![big growth chamber](/assets/img/DSCF9971.jpg)  |  ![small growth chamber](/assets/img/DSCF9973.jpg)
