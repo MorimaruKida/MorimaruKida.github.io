@@ -5,6 +5,13 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_7 February 2024_
+## New instrument
+**HPLC-DAD (Hitachi Primade)**  
+This instrument will be used for benzene polycarboxylic acid (BPCA) analysis. This series is a basic one but has been known for its durability and stable performance.  
+![HPLC](/assets/img/.jpg)
+
+***
 _24 Jan 2024_
 ## New publication
 The first paper from my group is finally out! It's open-access.  
