@@ -9,7 +9,7 @@ _7 February 2024_
 ## New instrument
 **HPLC-DAD (Hitachi Primade)**  
 This instrument will be used for benzene polycarboxylic acid (BPCA) analysis. This series is a basic one but has been known for its durability and stable performance.  
-![HPLC](/assets/img/.jpg)
+![HPLC](/assets/img/IMG20240208155034.jpg)
 
 ***
 _24 Jan 2024_
