@@ -26,9 +26,9 @@ UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM (Hit
 ![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | ![F-7100](/assets/img/DSCF0009.jpg)  |  
 
 
-HPLC (PDA)           | Gas chromatography (FID)
+HPLC-DAD (One is also for GPC)           | Gas chromatography (FID)
 :-------------------------:|:-------------------------:
-![HPLC](/assets/img/DSCF9956.jpg)  |  ![GC-FID](/assets/img/DSCF9963.jpg)
+![HPLC](/assets/img/IMG20240208155034.jpg)  |  ![GC-FID](/assets/img/DSCF9963.jpg)
 
 Ion chromatography            | Potentiometric titrator
 :-------------------------:|:-------------------------:
@@ -47,13 +47,13 @@ High-speed refrigerated centrifuge         |  Centrifuge rotors (10-800 mL)  |  
 :-------------------------:|:-------------------------:
 ![sonication](/assets/img/DSCF0006.jpg)  |  ![acid digestion](/assets/img/DSCF9972.jpg)
 
-Muffle furnace for glasswear            | Small Muffle furnace for analyses
+Muffle furnace for glassware            | Small Muffle furnace for analyses
 :-------------------------:|:-------------------------:
 ![big furnace](/assets/img/DSCF0026.jpg)  |  ![small furnace](/assets/img/DSCF9950.jpg)
 
 Vacuum freeze dryer            | Fine pulverizer
 :-------------------------:|:-------------------------:
-![big/small freeze dryer](/assets/img/DSCF9954.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
+![big/small freeze dryer](/assets/img/IMG20240208155212.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
 
 And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, magnetic stirrers, Soxhlet extractors, drying ovens (vacume/ventilation/windless), peristaltic pumps, ultrasonic baths, an ultrafiltration system, ...
 
