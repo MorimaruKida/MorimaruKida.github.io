@@ -20,24 +20,37 @@ Recipient of the following prestigious awards:
 
 ***
 ### M2 students
-**Ayuri Ohira (Best oral presentation at 40th symposium of The Japanese Association of Organic Geochemists)**  
+**Ayuri Ohira**  
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
+**Best oral presentation at 40th symposium of The Japanese Association of Organic Geochemists**  
+
 **Maho Oshimoda**  
 Theme: Investigating black carbon dynamics in soils after biochar amendment in a temperate secondary forest.  
+
 **Kota Hamada**  
 Theme: Identifying mechanisms of soil organic matter stabilization in mangrove soils.  
+**Published following papers:**  
+[Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
 
 ### B4 students
 **Miho Yamashita**  
 Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions  
+
 **Yuta Watanabe**  
 Theme: Characterizing soil organic matter evolution along the chronosequence of a mangrove plantation, Bang Pu (Thailand).  
+
 **Ryu Sumioka**  
 Theme: Characterizing porewater dissolved organic matter evolution along the chronosequence of a mangrove plantation, Bang Pu (Thailand). 
 
 ### B3 students
 **Misato Hashi**  
-Theme: Elucidating co-variation of dissolved organic matter and bacteria in Lake Biwa, Japan.
+Theme: Elucidating co-variation of dissolved organic matter and bacteria in Lake Biwa, Japan.  
+
+**Ayaka Nishikawa**  
+Theme: Efficient characterization of mangrove soil organic matter by high-throughput 1H NMR spectroscopy.  
+
+**Masahiro Shimotani**  
+Theme: Evaluation of early-stage soil genesis under moss colonies in the Yukidori Valley, East Antarctica.  
 
 ### Past students
 **2022-2023**  
