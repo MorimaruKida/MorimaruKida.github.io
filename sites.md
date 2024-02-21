@@ -17,6 +17,7 @@ subtitle: Map of past and present study sites
 ### Fukido River mangrove - Japan (2013-present)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-QUrVotiRrl61gkhurB_CW33jIyQYx_S" width="640" height="480"></iframe>
 #### Related publications
+* [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
 * [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://doi.org/10.3390/f11090981)
 * [Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation](https://www.mdpi.com/1999-4907/11/10/1041)
 * [Molecular Composition and Decomposition Stages of Organic Matter in a Mangrove Mineral Soil with Time](https://doi.org/10.1016/j.ecss.2019.106478)
