@@ -25,14 +25,14 @@ Coming soon...
 ### M2 students
 **Ayuri Ohira**  
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
-**Best oral presentation at 40th symposium of The Japanese Association of Organic Geochemists**  
+**Best oral presentation at the 40th symposium of The Japanese Association of Organic Geochemists**  
 
 **Maho Oshimoda**  
 Theme: Investigating black carbon dynamics in soils after biochar amendment in a temperate secondary forest.  
 
 **Kota Hamada**  
 Theme: Identifying mechanisms of soil organic matter stabilization in mangrove soils.  
-**Published following papers:**  
+**Published the following papers:**  
 [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
 
 ### B4 students
