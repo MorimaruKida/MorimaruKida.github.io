@@ -14,7 +14,7 @@ Please note, however, that most of the scholarships are available _**only after*
 PhD students from Europe or North America can apply to [Summer Program, Strategic Program, or Short-term Program](https://www.jsps.go.jp/english/e-fellow/index.html) of the Japan Society for the Promotion of Science (JSPS) to conduct joint research activities at our laboratory.
 
 ### Recruitment alert!
-Graduate School of Agricultural Science (GSAS) obtained a 5-year MEXT funding that supports students from Southeast or Southwest Asian countries to pursue their master's and doctoral studies in our department. With this grant, up to 3 students per year can obtain the MEXT scholarship from GSAS alone. Southeast Asian countries will give the highest priority in the application selection. Prospective students should contact me well in advance, preferably before October.
+Graduate School of Agricultural Science (GSAS) obtained a 5-year MEXT funding that supports students from Southeast or Southwest Asian countries to pursue their master's and doctoral studies in our department. With this grant, up to 3 students per year can obtain the MEXT scholarship from GSAS alone. Southeast Asian countries will be given the highest priority in the application selection. Prospective students should contact me well in advance, preferably before October.
 
 ## Postdoctoral fellows
 Our team is always welcoming talented, young researchers from around the world!   
