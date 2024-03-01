@@ -35,6 +35,12 @@ Theme: Identifying mechanisms of soil organic matter stabilization in mangrove s
 **Published the following papers:**  
 [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
 
+### M1 students
+Coming soon...   
+
+### Research apprentice
+Coming soon...   
+
 ### B4 students
 **Miho Yamashita**  
 Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions  
