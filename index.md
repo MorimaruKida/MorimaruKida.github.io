@@ -5,6 +5,12 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_1 March 2024_
+## ![JSPS](/assets/img/JSPS.jpg) Grant proposals accepted
+A grant proposal was accepted! [Publicky Offered Research for "Grant-in-Aid for Transformative Research Areas (A)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS (2024-2026). I will join a research area called ["Digital biosphere: integrated biospheric science for mitigating global environment change"](https://digital-biosphere.jp/en/about-us). I, as a sole PI, will work on the mechanisms underlying the stabilization of soil organic matter in the chronosequence of planted mangrove forests in Bangkok, Thailand. Studying the evolution of the dissolved organic matter pool in the porewater of the mangrove sediments is also within the scope.  
+I also participate in another newly funded program led by [Kazuhide Hayakawa](https://researchmap.jp/read0006894?lang=en) on modeling biodegradation of dissolved organic matter in Lake Biwa using SEC-TOC (2024-2027)
+
+***
 _7 February 2024_
 ## New instrument
 **HPLC-DAD (Hitachi Primade)**  
@@ -52,7 +58,7 @@ I received a four-year grant from [Kobe University Institute for Advanced Study]
 ***
 _21 November 2022_
 ## New instrument
-**CHNS(O) Elemental analyzer (Elementer Vario EL Cube)**  
+**CHNS(O) Elemental analyzer (Elementar Vario EL Cube)**  
 This instrument will be used for general soil elemental analysis. The vario EL cube is designed for simultaneous C, H, N, and S analysis, and an additional option for the determination of O. We are happy to have introduced this German-made instrument with a low-maintenance design but with high performance and versatility.  
 ![Elementer](/assets/img/DSCF0028.jpg)
 
@@ -74,7 +80,7 @@ This instrument will be used for sample preparation for a BPCA analysis. It was 
 ***
 _16 September 2022_
 ## ![Nissei](/assets/img/hd_logo01.jpg) Grant proposal accepted
-A grant proposal was accepted! This is a one-year grant for young researchers working on environmental sceince by Nippon Life Insurance Foundation. I'll work on SOC stabilization mechanisms in mangrove soils on Ishigaki Island.
+A grant proposal was accepted! This is a one-year grant for young researchers working on environmental science by Nippon Life Insurance Foundation. I'll work on SOC stabilization mechanisms in mangrove soils on Ishigaki Island.
 
 ***
 _25 May 2022_
@@ -92,8 +98,8 @@ In addition, we welcomed Yuki Konishi as a new B4 student! He will expand Ayuri'
 ***
 _1 March 2022_
 ## ![JSPS](/assets/img/JSPS.jpg) Grant proposals accepted
-A grant proposal was accepted! ["Grant-in-Aid for Scientific Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I, as a sole PI, will work on the mechanisms underlying persistence of dissolved organic matter in Lake Biwa, the largest lake in Japan, together with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) (Organic Geochemist) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html) (Microbiologist) for the fiscal years 2022-2025.  
-I also participate in another newly-funded program led by [Yasuro Fuse](https://www.hyokadb.jim.kit.ac.jp/profile/en.c532efa723328619125d40601d18f522.html) on the influence of anoxia on the elution of dissolved organic matter from Lake Biwa sediment (2022-2025), and one more project by [Toshihiro Miyajima](https://co.aori.u-tokyo.ac.jp/sc2/) on SOC stabilization mechanisms (especially abiotic sulfurization) in coastal vegetated ecosystems (2022-2026).  
+A grant proposal was accepted! ["Grant-in-Aid for Scientific Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS. I, as a sole PI, will work on the mechanisms underlying the persistence of dissolved organic matter in Lake Biwa, the largest lake in Japan, together with [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) (Organic Geochemist) and [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html) (Microbiologist) for the fiscal years 2022-2025.  
+I also participate in another newly funded program led by [Yasuro Fuse](https://www.hyokadb.jim.kit.ac.jp/profile/en.c532efa723328619125d40601d18f522.html) on the influence of anoxia on the elution of dissolved organic matter from Lake Biwa sediment (2022-2025), and one more project by [Toshihiro Miyajima](https://co.aori.u-tokyo.ac.jp/sc2/) on SOC stabilization mechanisms (especially abiotic sulfurization) in coastal vegetated ecosystems (2022-2026).  
 FT-ICR-MS and NMR will be major instruments used in these projects.
 
 ***
