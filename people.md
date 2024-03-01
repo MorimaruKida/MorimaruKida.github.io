@@ -38,7 +38,7 @@ Theme: Identifying mechanisms of soil organic matter stabilization in mangrove s
 ### M1 students
 Coming soon...   
 
-### Research apprentice
+### Research apprentices
 Coming soon...   
 
 ### B4 students
