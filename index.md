@@ -7,7 +7,7 @@ cover-img: /assets/img/DSCF8546.jpg
 ***
 _1 March 2024_
 ## ![JSPS](/assets/img/JSPS.jpg) Grant proposals accepted
-A grant proposal was accepted! [Publicky Offered Research for "Grant-in-Aid for Transformative Research Areas (A)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS (2024-2026). I will join a research area called ["Digital biosphere: integrated biospheric science for mitigating global environment change"](https://digital-biosphere.jp/en/about-us). I, as a sole PI, will work on the mechanisms underlying the stabilization of soil organic matter in the chronosequence of planted mangrove forests in Bangkok, Thailand. Studying the evolution of the dissolved organic matter pool in the porewater of the mangrove sediments is also within the scope.  
+A grant proposal was accepted! [Publicly Offered Research for "Grant-in-Aid for Transformative Research Areas (A)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS (2024-2026). I will join a research area called ["Digital biosphere: integrated biospheric science for mitigating global environment change"](https://digital-biosphere.jp/en/about-us). I, as a sole PI, will work on the mechanisms underlying the stabilization of soil organic matter in the chronosequence of planted mangrove forests in Bangkok, Thailand. Studying the evolution of the dissolved organic matter pool in the porewater of the mangrove sediments is also within the scope.  
 I also participate in another newly funded program led by [Kazuhide Hayakawa](https://researchmap.jp/read0006894?lang=en) on modeling biodegradation of dissolved organic matter in Lake Biwa using SEC-TOC (2024-2027).
 
 ***
