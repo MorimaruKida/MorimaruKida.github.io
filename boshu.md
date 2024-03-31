@@ -53,6 +53,8 @@ cover-img: /assets/img/DSCF0505_1400.jpg
 また，以下の共同研究を実施しています。
 * 代表：東京大学大気海洋研究所「[共同利用研究](https://www.aori.u-tokyo.ac.jp/coop/kashiwa2022.html)」2022.10-2025
 * 代表：京都大学生存圏研究所「[共同利用・共同研究/先進素材開発解析システム（ADAM）](https://www.rish.kyoto-u.ac.jp/joint_usage-research_center/facilities2022/adam2022/)」2022-2025
+
+終了済みの共同研究  
 * 代表：国立極地研究所「[一般共同研究](https://www.nipr.ac.jp/research/general-collaboration-project/)」2021-2024
 
 木田は現時点ではテニュアトラック制助教で博士学生の主指導権限がありませんので，形式上は[藤嶽教授](https://kobesoillab.github.io/member/)に主指導教官になってもらい，木田は副指導教官として指導にあたります。
