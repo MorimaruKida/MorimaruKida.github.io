@@ -19,39 +19,17 @@ Recipient of the following prestigious awards:
 * And several best oral/poster presentation awards and travel awards at conferences
 
 ***
-### Post-docs
-Coming soon...  
-
-### M2 students
-**Ayuri Ohira**  
-Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
-**Best oral presentation at the 40th symposium of The Japanese Association of Organic Geochemists**  
-
-**Maho Oshimoda**  
-Theme: Investigating black carbon dynamics in soils after biochar amendment in a temperate secondary forest.  
-
-**Kota Hamada**  
-Theme: Identifying mechanisms of soil organic matter stabilization in mangrove soils.  
-**Published the following papers:**  
-[Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
-
 ### M1 students
-Coming soon...   
-
-### Research apprentices
-Coming soon...   
-
-### B4 students
-**Miho Yamashita**  
-Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions  
-
 **Yuta Watanabe**  
 Theme: Characterizing soil organic matter evolution along the chronosequence of a mangrove plantation, Bang Pu (Thailand).  
 
 **Ryu Sumioka**  
 Theme: Characterizing porewater dissolved organic matter evolution along the chronosequence of a mangrove plantation, Bang Pu (Thailand). 
 
-### B3 students
+### Research apprentices
+Coming soon...   
+
+### B4 students
 **Misato Hashi**  
 Theme: Elucidating co-variation of dissolved organic matter and bacteria in Lake Biwa, Japan.  
 
@@ -62,6 +40,23 @@ Theme: Efficient characterization of mangrove soil organic matter by high-throug
 Theme: Evaluation of early-stage soil genesis under moss colonies in the Yukidori Valley, East Antarctica.  
 
 ### Past students
+**2021-2024**  
+**Ayuri Ohira**  
+Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
+**Best oral presentation at the 40th symposium of The Japanese Association of Organic Geochemists**  
+
+**Maho Oshimoda**  
+Theme: Investigating black carbon dynamics in soils after biochar amendment in a temperate secondary forest.  
+
+**Kota Hamada**  
+Theme: Identifying mechanisms of soil organic matter stabilization in mangrove soils.  
+**Published the following papers:**  
+[Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)  
+
+**2023-2024**  
+**Miho Yamashita**  
+Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions  
+
 **2022-2023**  
 **Yuki Konishi**  
 Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan. 
