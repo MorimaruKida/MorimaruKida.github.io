@@ -3,7 +3,6 @@ layout: page
 title: Study sites
 subtitle: Map of past and present study sites 
 ---
-test  
 ## Ongoing sites
 ### Gaburumata River mangrove - Japan (2022-present)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1auRVqyb0ZV-w5m425N36XMNqxwVBLDQ&ehbc=2E312F" width="640" height="480"></iframe>
