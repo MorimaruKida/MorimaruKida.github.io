@@ -51,7 +51,7 @@ cover-img: /assets/img/DSCF0505_1400.jpg
 * 若手研究者枠：科研費国際共同研究強化（B）「荒廃地へのマングローブの植林は生態系炭素貯留量をどのくらい増大させるか」2021-2026（代表：[大塚俊之](https://researchmap.jp/read0166246)）
 
 また，以下の共同研究を実施しています。
-* 代表：東京大学大気海洋研究所「[共同利用研究](https://www.aori.u-tokyo.ac.jp/coop/kashiwa2022.html)」2022.10-2025
+* 代表：東京大学大気海洋研究所「[共同利用研究](https://www.aori.u-tokyo.ac.jp/coop/)」2022.10-2025
 * 代表：京都大学生存圏研究所「[共同利用・共同研究/先進素材開発解析システム（ADAM）](https://www.rish.kyoto-u.ac.jp/joint_usage-research_center/facilities2022/adam2022/)」2022-2025
 
 終了済みの共同研究  
