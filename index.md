@@ -5,6 +5,11 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_25 June 2024_
+## ![JST](/assets/img/JST1.jpg) Grant proposal accepted
+A (big) grant proposal was accepted! [FOREST (Fusion Oriented REsearch for disruptive Science and Technology) program](https://www.jst.go.jp/souhatsu/en/index.html) of JST. This is a 7.5-year funding that supports "unrestricted, challenging and fusion-oriented diverse research not bound by the existing frameworks". Under this long-term funding, I'll continue studying associations of DOM and microbes in freshwater lakes, focused on Lake Biwa. This is a continued project from Grant-in-Aid for Scientific Research (B) that was funded in 2022.
+
+***
 _1 March 2024_
 ## ![JSPS](/assets/img/JSPS.jpg) Grant proposals accepted
 A grant proposal was accepted! [Publicly Offered Research for "Grant-in-Aid for Transformative Research Areas (A)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS (2024-2026). I will join a research area called ["Digital biosphere: integrated biospheric science for mitigating global environment change"](https://digital-biosphere.jp/en/about-us). I, as a sole PI, will work on the mechanisms underlying the stabilization of soil organic matter in the chronosequence of planted mangrove forests in Bangkok, Thailand. Studying the evolution of the dissolved organic matter pool in the porewater of the mangrove sediments is also within the scope.  
