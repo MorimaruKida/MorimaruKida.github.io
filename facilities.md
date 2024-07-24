@@ -7,7 +7,7 @@ subtitle: Instruments in our lab
 ## Own instruments
 ### Analysis
 
-LC-ICP-MS             |  Atomic absorption spectrophotometer
+LC-ICP-MS (PerkinElmer)             |  Atomic absorption spectrophotometer
 :-------------------------:|:-------------------------:
 ![LC-ICP-MS](/assets/img/DSCF9979.jpg)  |  ![Hitachi z-2010](/assets/img/DSCF0031.jpg)
 
@@ -21,14 +21,14 @@ DOC/TDN (TOC-L)             |  DOC (TOC-V)
 :-------------------------:|:-------------------------:
 ![TOC-L](/assets/img/DSCF9964.jpg)  |  ![TOC-V](/assets/img/DSCF9965.jpg)
 
-UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) | EEM (Hitachi F-7100)
-:-------------------------:|:-------------------------:|:-------------------------:
-![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | ![F-7100](/assets/img/DSCF0009.jpg)  |  
-
-
-HPLC-DAD (One is also for GPC)           | Gas chromatography (FID)
+UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) 
 :-------------------------:|:-------------------------:
-![HPLC](/assets/img/IMG20240208155034.jpg)  |  ![GC-FID](/assets/img/DSCF9963.jpg)
+![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | 
+
+
+ EEM (Hitachi F-7100)         | HPLC-DAD (One is also for GPC) 
+:-------------------------:|:-------------------------:
+ ![F-7100](/assets/img/DSCF0009.jpg)  |  ![HPLC](/assets/img/IMG20240208155034.jpg)
 
 Ion chromatography            | Potentiometric titrator
 :-------------------------:|:-------------------------:
@@ -81,20 +81,6 @@ Experimental field            | Net house
 
 And other basic instruments such as IEW/ultrapure water systems, an autoclave, deep freezers...  
 All reagents are registered with barcodes and properly managed with an online system.
-
-***
-### Field equipment
-**Large-scale DOM isolation system**
-([used for the isolation of L. Biwa fulvic acid standard sample of JHSS](https://researchmap.jp/pika-315/published_papers/3063823/attachment_file.pdf))
-[(JHSS HP)](http://www.research.kobe-u.ac.jp/ans-soil/e_jhss/index.html)
-
-![isolation](/assets/img/Fig2_System_450.jpg)
-
-Large-scale Soxhlet extractor for DAX-8           | Large-scale water filtration system
-:-------------------------:|:-------------------------:
-![DAX-8](/assets/img/DSCF9969.jpg)  |  ![filtration](/assets/img/DSCF9995.jpg)
-
-And complete sets of soil sampling/preparation tools.
 
 ***
 ## Access on the campus (for a fee)
