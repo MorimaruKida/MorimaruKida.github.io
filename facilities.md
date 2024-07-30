@@ -98,7 +98,7 @@ FE(electron gun)-SEM-EDS (JSM-IT800)           | Bentchtop SEM-EDS (JCM-7000 Neo
 ![FE-SEM](/assets/img/fesem.jpg)  |  ![SEM-EDS](/assets/img/IMG20240711162951.jpg)
 
 Other devices available at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
-HPLC-Orbitrap, TEM, STEM, XRD, FE-SEM, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
+TEM, STEM, XRD, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 ***
 ## Access at Kyoto University
