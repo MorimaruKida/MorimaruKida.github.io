@@ -79,20 +79,23 @@ Experimental field            | Net house
 :-------------------------:|:-------------------------:
 ![field](/assets/img/DSCF9984.jpg)  |  ![Net house](/assets/img/DSCF9943.jpg)
 
-And other basic instruments such as IEW/ultrapure water systems, an autoclave, deep freezers...  
+And other basic instruments including IEW/ultrapure water systems, an autoclave, deep freezers...  
 All reagents are registered with barcodes and properly managed with an online system.
 
 ***
 ## Access on the campus (for a fee)
 
-NMR (Avance-500, with priority access)           | ICP-AES
+NMR (Avance-500, with priority access)           |  HPLC-Orbitrap (Exploris 240)
 :-------------------------:|:-------------------------:
-![Avance500](/assets/img/nmr.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
+![Avance500](/assets/img/nmr.jpg)  |  ![HPLC-Orbitrap](/assets/img/Exploris.jpg)
 
-XRF          | SEM
+XRF (NANOHUNTER)          | ICP-AES
 :-------------------------:|:-------------------------:
-![XRF](/assets/img/xrf.jpg)  |  ![SEM](/assets/img/sem.jpg)
+![XRF](/assets/img/xrf.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
 
+FE(electron gun)-SEM-EDS (JSM-IT800)           | Bentchtop SEM-EDS (JCM-7000 NeoScope)
+:-------------------------:|:-------------------------:
+![FE-SEM](/assets/img/fesem.jpg)  |  ![SEM-EDS](/assets/img/IMG20240711162951.jpg)
 Other devices available at the [Research Facility Center for Science and Technology](http://www.csrea.kobe-u.ac.jp/kiki_service.html) of Kobe University include:  
 HPLC-Orbitrap, TEM, STEM, XRD, FE-SEM, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
