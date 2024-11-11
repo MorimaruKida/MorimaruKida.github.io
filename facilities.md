@@ -91,7 +91,7 @@ NMR (Avance-500, with priority access)           |  HPLC-Orbitrap (Exploris 240)
 
 XRF (NANOHUNTER)          | ICP-AES
 :-------------------------:|:-------------------------:
-![XRF](/assets/img/xrf.jpg)  |  ![SPS3100](/assets/img/icp.jpg)
+![XRF](/assets/img/xrf.jpg)  |  ![SPS3100](/assets/img/IMG20241107114115.jpg)
 
 FE(electron gun)-SEM-EDS (JSM-IT800)           | Bentchtop SEM-EDS (JCM-7000 NeoScope)
 :-------------------------:|:-------------------------:
