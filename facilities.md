@@ -12,7 +12,7 @@ LC-ICP-MS (PerkinElmer)             |  Atomic absorption spectrophotometer
 ![LC-ICP-MS](/assets/img/DSCF9979.jpg)  |  ![Hitachi z-2010](/assets/img/DSCF0031.jpg)
 
 
-Elemental analyzer (Elementer Vario EL Cube)        |  Elemental analyzer (PerkinElmer 2400II)
+Elemental analyzer (Elementar Vario EL Cube)        |  Elemental analyzer (PerkinElmer 2400II)
 :-------------------------:|:-------------------------:
 ![Elementer](/assets/img/DSCF0028.jpg)  |  ![PerkinElmer](/assets/img/DSCF9977.jpg)
 
@@ -89,7 +89,7 @@ NMR (Avance-500, with priority access)           |  HPLC-Orbitrap (Exploris 240)
 :-------------------------:|:-------------------------:
 ![Avance500](/assets/img/nmr.jpg)  |  ![HPLC-Orbitrap](/assets/img/Exploris.jpg)
 
-XRF (NANOHUNTER)          | ICP-AES
+XRF (NANOHUNTER)          | ICP-AES (Agilent 5900)
 :-------------------------:|:-------------------------:
 ![XRF](/assets/img/xrf.jpg)  |  ![SPS3100](/assets/img/IMG20241107114115.jpg)
 
