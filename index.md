@@ -5,6 +5,11 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_16 January 2025_
+## ![KobeU](/assets/img/KobeU1.jpg) New member
+Reika Nishida as a B3 student joined our group!
+
+***
 _25 June 2024_
 ## ![JST](/assets/img/JST1.jpg) Grant proposal accepted
 A (big) grant proposal was accepted! [FOREST (Fusion Oriented REsearch for disruptive Science and Technology) program](https://www.jst.go.jp/souhatsu/en/index.html) of JST. This is a 7.5-year funding that supports "unrestricted, challenging and fusion-oriented diverse research not bound by the existing frameworks". Under this long-term funding, I'll continue studying associations of DOM and microbes in freshwater lakes, focused on Lake Biwa. This is a continued project from Grant-in-Aid for Scientific Research (B) that was funded in 2022.
@@ -28,6 +33,11 @@ _24 Jan 2024_
 The first paper from my group is finally out! It's open-access.  
 "Functional organic matter components in mangrove soils revealed by density fractionation" published in [***Soil Science and Plant Nutrition***](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761).   
 We introduce density fractionation to mangrove soils to identify the distribution and properties of the functional components of SOM regarding degradation state, stability, and origin.  
+
+***
+_December 2023_
+## ![KobeU](/assets/img/KobeU1.jpg) New members
+Ayaka Nishikawa and Masahiro Shimotani as B3 students joined our group!
 
 ***
 _10 July 2023_
