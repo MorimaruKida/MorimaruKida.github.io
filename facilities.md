@@ -51,9 +51,12 @@ Muffle furnace for glassware            | Small Muffle furnace for analyses
 :-------------------------:|:-------------------------:
 ![big furnace](/assets/img/DSCF0026.jpg)  |  ![small furnace](/assets/img/DSCF9950.jpg)
 
-Vacuum freeze dryer            | Fine pulverizer
+Fine pulverizer (multi)            | Fine pulverizer
 :-------------------------:|:-------------------------:
-![big/small freeze dryer](/assets/img/IMG20240208155212.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
+![ShakeMaster](/assets/img/IMG20250127124011.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
+
+Vacuum freeze dryer            
+![big/small freeze dryer](/assets/img/IMG20240208155212.jpg) 
 
 And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, magnetic stirrers, Soxhlet extractors, drying ovens (vacuum/ventilation/windless), peristaltic pumps, ultrasonic baths, an ultrafiltration system, ...
 
@@ -63,9 +66,9 @@ And other basic instruments such as water filtration systems (glass/plastic/meta
 Fume hood (One is perchloric acid-durable)  
 ![fume hood](/assets/img/IMG20240208160833.jpg)
 
-Growth chamber (Big)            | Growth chamber (small)
+Growth chamber (Custom)            | Growth chamber (small)
 :-------------------------:|:-------------------------:
-![big growth chamber](/assets/img/DSCF9971.jpg)  |  ![small growth chamber](/assets/img/DSCF9973.jpg)
+![big growth chamber](/assets/img/IMG20250127124034.jpg)  |  ![small growth chamber](/assets/img/DSCF9973.jpg)
 
 Low-temperature incubator            | Clean bench
 :-------------------------:|:-------------------------:
