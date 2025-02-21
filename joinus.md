@@ -16,7 +16,7 @@ Ph.D. students from Europe or North America can apply to [Summer Program or Shor
 1. MEXT  
 Graduate School of Agricultural Science (GSAS) obtained a 3-year MEXT funding that supports students from Southeast or Southwest Asian countries to pursue their master's and doctoral studies in our department. With this grant, up to 3 students per year can obtain the MEXT scholarship from GSAS alone. Southeast Asian countries will be given the highest priority in the application selection. Prospective students should contact me well in advance, at the latest before October. Application this year (enrollment October 2025) is the last opportunity to apply for this scholarship. GSAS is going to apply for the continuation of this funding for the coming years, but it's not guaranteed that the application will be accepted. See the last year's [call for application (pdf)](http://www.ans.kobe-u.ac.jp/english/nougakubu/pdf/2024_MEXT_guideline231120.pdf) for now.
 
-2. JST FOREST
+2. JST FOREST  
 I obtained a 7.5-year grant from JST through the [FOREST program](https://www.jst.go.jp/souhatsu/en/index.html). Under this program, I can hire up to two master's and two PhD students. Planning a consecutive master-doctor application is also possible. You can do whatever research you want, as long as it is linked to DOM-microbe interaction (project theme) and aligns with my group's overall activity.
 
 ## Postdoctoral fellows
