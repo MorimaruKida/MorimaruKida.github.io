@@ -26,15 +26,14 @@ Theme: Characterizing soil organic matter evolution along the chronosequence of 
 **Ryu Sumioka**  
 Theme: Characterizing porewater dissolved organic matter evolution along the chronosequence of a mangrove plantation, Bang Pu (Thailand). 
 
-### Research apprentices
-Coming soon...   
-
 ### B4 students
 **Misato Hashi**  
 Theme: Elucidating co-variation of dissolved organic matter and bacteria in Lake Biwa, Japan.  
+She introduced network analysis of MF-ASV associations.
 
 **Ayaka Nishikawa**  
 Theme: Efficient characterization of mangrove soil organic matter by high-throughput 1H NMR spectroscopy.  
+She set up high-throughput 1H NMR analysis of soil alkali extracts and investigated possible improvements in the selective dissolution of reactive minerals.  
 
 **Masahiro Shimotani**  
 Theme: Evaluation of early-stage soil genesis under moss colonies in the Yukidori Valley, East Antarctica.  
@@ -58,7 +57,7 @@ He introduced pyrophosphate-dithionite extraction and GAMM analysis.
 **Ayuri Ohira**  
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
 **Best oral presentation at the 40th symposium of The Japanese Association of Organic Geochemists**  
-She set up FT-ICR MS analysis and compiled the lab soil archive database.
+She set up FT-ICR MS analysis, introduced canonical correlation analysis of principal coordinates (CAP), and compiled the lab soil archive database.
 
 **Maho Oshimoda**  
 Theme: Investigating black carbon dynamics in soils after biochar amendment in a temperate secondary forest.  
