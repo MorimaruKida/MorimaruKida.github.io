@@ -68,5 +68,5 @@ She set up BPCA analysis.
 Theme: Identifying mechanisms of soil organic matter stabilization in mangrove soils.  
 **Published the following papers:**  
 * [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
-* [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.biorxiv.org/content/10.1101/2025.02.15.638410v2.abstract)
+* [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.biorxiv.org/content/10.1101/2025.02.15.638410v2.abstract)  
 He set up density fractionation and stable isotope analysis.
