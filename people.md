@@ -44,6 +44,14 @@ Theme: Evaluation of early-stage soil genesis under moss colonies in the Yukidor
 Theme: Coming soon...  
 
 ### Past students
+**2023-2024**  
+**Miho Yamashita**  
+Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions  
+
+**2022-2023**  
+**Yuki Konishi**  
+Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan. 
+
 **2021-2024**  
 **Ayuri Ohira**  
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
@@ -55,12 +63,5 @@ Theme: Investigating black carbon dynamics in soils after biochar amendment in a
 **Kota Hamada**  
 Theme: Identifying mechanisms of soil organic matter stabilization in mangrove soils.  
 **Published the following papers:**  
-[Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)  
-
-**2023-2024**  
-**Miho Yamashita**  
-Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions  
-
-**2022-2023**  
-**Yuki Konishi**  
-Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan. 
+* [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
+* [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.biorxiv.org/content/10.1101/2025.02.15.638410v2.abstract)
