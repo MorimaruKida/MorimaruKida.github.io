@@ -8,12 +8,12 @@ subtitle: Map of past and present study sites
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1auRVqyb0ZV-w5m425N36XMNqxwVBLDQ&ehbc=2E312F" width="640" height="480"></iframe>
 #### Related publications
 * [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://doi.org/10.3390/f11090981)
+* [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.biorxiv.org/content/10.1101/2025.02.15.638410v2)
 
 ### Bang Pu mangrove - Thailand (2021-present)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1mmQsaVawxUA4ycIE6TnuZsIoYU4zeyq4&ehbc=2E312F" width="640" height="480"></iframe>
 #### Related publications
 * [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://doi.org/10.3390/f11090981)
-* [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.biorxiv.org/content/10.1101/2025.02.15.638410v2)
 
 ### Fukido River mangrove - Japan (2013-present)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-QUrVotiRrl61gkhurB_CW33jIyQYx_S" width="640" height="480"></iframe>
