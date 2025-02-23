@@ -56,8 +56,8 @@ He introduced pyrophosphate-dithionite extraction and GAMM analysis.
 **2021-2024**  
 **Ayuri Ohira**  
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
+She set up FT-ICR MS analysis, introduced canonical correlation analysis of principal coordinates (CAP), compiled the lab soil archive database, and is a recipient of the following award:  
 **Best oral presentation at the 40th symposium of The Japanese Association of Organic Geochemists**  
-She set up FT-ICR MS analysis, introduced canonical correlation analysis of principal coordinates (CAP), and compiled the lab soil archive database.
 
 **Maho Oshimoda**  
 Theme: Investigating black carbon dynamics in soils after biochar amendment in a temperate secondary forest.  
@@ -65,7 +65,6 @@ She set up BPCA analysis.
 
 **Kota Hamada**  
 Theme: Identifying mechanisms of soil organic matter stabilization in mangrove soils.  
-**Published the following papers:**  
+He set up density fractionation and stable isotope analysis and **published the following papers:**  
 * [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
-* [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.biorxiv.org/content/10.1101/2025.02.15.638410v2.abstract)  
-He set up density fractionation and stable isotope analysis.
+* [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.biorxiv.org/content/10.1101/2025.02.15.638410v2.abstract)
