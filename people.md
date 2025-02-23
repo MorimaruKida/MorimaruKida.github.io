@@ -46,22 +46,27 @@ Theme: Coming soon...
 ### Past students
 **2023-2024**  
 **Miho Yamashita**  
-Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions  
+Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions.  
+She compiled the lab humic substances archive database.
 
 **2022-2023**  
 **Yuki Konishi**  
-Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan. 
+Theme: Environmental and mineralogical drivers of mineral-associated organic matter abundance in soils collected all over Japan.  
+He introduced pyrophosphate-dithionite extraction and GAMM analysis.
 
 **2021-2024**  
 **Ayuri Ohira**  
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
 **Best oral presentation at the 40th symposium of The Japanese Association of Organic Geochemists**  
+She set up FT-ICR MS analysis and compiled the lab soil archive database.
 
 **Maho Oshimoda**  
 Theme: Investigating black carbon dynamics in soils after biochar amendment in a temperate secondary forest.  
+She set up BPCA analysis.
 
 **Kota Hamada**  
 Theme: Identifying mechanisms of soil organic matter stabilization in mangrove soils.  
 **Published the following papers:**  
 * [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
 * [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.biorxiv.org/content/10.1101/2025.02.15.638410v2.abstract)
+He set up density fractionation and stable isotope analysis.
