@@ -47,7 +47,7 @@ Theme: Coming soon...
 **2023-2024**  
 **Miho Yamashita**  
 Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions.  
-She compiled the lab humic substances archive database.
+She finished compiling the lab WEOM/humic substances archive database.
 
 **2022-2023**  
 **Yuki Konishi**  
