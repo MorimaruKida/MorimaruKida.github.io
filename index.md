@@ -5,6 +5,12 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_28 February 2025_
+## ![JSPS](/assets/img/JSPS.jpg) Grant proposals accepted
+Another major grant proposal was accepted! ["Grant-in-Aid for Scientific Research (B)"](https://www.jsps.go.jp/english/e-grants/grants01.html) of JSPS, with a special remark on the internationality of the proposed topic (proposed budget 100% funded). I, as the sole PI, will work on the stabilization mechanisms of organic matter in mangrove soils in multiple Asian countries and their differences, together with [Toshihiro Miyajima]((https://researchmap.jp/miyajima?lang=en)) (Marine Biogeochemist), [Yusuke Yokoyama]((https://researchmap.jp/read0123371?lang=en)) (Geochemist, Paleoclimatologist), and [Xue Chu](https://researchmap.jp/chuxue_501) (Mass spectrometrist) for the fiscal years 2025-2028.  
+I also participate in a continuing project led by [Yasuro Fuse](https://researchmap.jp/yasurofuse?lang=en) on the influence of anoxia-produced radicals on the fate of sedimentary organic matter of Lake Biwa (2025-2028)
+
+***
 _16 January 2025_
 ## ![KobeU](/assets/img/KobeU1.jpg) New member
 Reika Nishida as a B3 student joined our group!
