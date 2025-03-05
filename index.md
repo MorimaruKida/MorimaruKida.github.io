@@ -8,7 +8,7 @@ cover-img: /assets/img/DSCF8546.jpg
 _5 March 2025_
 ## Instrument update
 **PAL autosampler for FT-ICR MS**  
-This installation will drastically boost the analytical capacity of solariX FT-ICR MS. This is the first installation of an autosampler for FT-ICR MS across Japan. Happy analysis!  
+This installation will drastically boost the analytical capacity of solariX FT-ICR MS. This is the first installation of an autosampler for FT-ICR MS in Japan and one of few across the world. Happy analysis!  
 ![HPLC](/assets/img/IMG202503051353321.jpg)
 
 ***
