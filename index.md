@@ -26,7 +26,7 @@ Reika Nishida as a B3 student joined our group!
 _23 August 2024_
 ## New instrument
 **Multi-sample pulverizer (bms Shake Master Auto)**  
-This multi-sample cell disruption equipment can be used as a fine pulverizer for processing dozens of soils simultaneously! It comes with a variety of capsules with different materials and sizes to match the aim.  
+This multi-sample cell disruption equipment can be used as a fine pulverizer for processing dozens of soils simultaneously! It comes with a variety of capsules with different materials and sizes to match the aim. Using zirconia balls, soil is pulverized to pass through a 140-mesh sieve (opening 0.1 mm) in 10 min.   
 ![HPLC](/assets/img/IMG20250127124011.jpg)
 
 ***
