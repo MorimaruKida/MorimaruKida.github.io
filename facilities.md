@@ -105,17 +105,18 @@ TEM, STEM, XRD, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 
 ***
 ## Access at Kyoto University
-### Collaborative research with [Nishimura Group](https://www.rish.kyoto-u.ac.jp/lbc/?lang=en) at Laboratory of Biomass Conversion, Research Institute for Sustainable Humanospere
+### Collaborative research with [Nishimura Group](https://www.rish.kyoto-u.ac.jp/lbc/?lang=en) at Laboratory of Biomass Conversion, Research Institute for Sustainable Humanosphere
 
-**FT-ICR MS (data processing by [ICBM-OCEAN](https://uol.de/en/icbm/marine-geochemistry/research/icbm-ocean))**
+**FT-ICR MS (Bruker solariX 7T) with PAL RSI autosampler**  
+data processing by [ICBM-OCEAN](https://uol.de/en/icbm/marine-geochemistry/research/icbm-ocean)
 
-![solariX](/assets/img/IMG_20210330_173039.jpg)
+![solariX](/assets/img/IMG20250422142625.jpg)
 
 ***
 ## Access at The University of Tokyo
 ### Collaborative research with [Yokoyama Group](https://gpes.c.u-tokyo.ac.jp/faculty-staff/materials-systems-and-dynamics/yokoyamayusuke.html) at Atmosphere and Ocean Research Institute
 
-**AMS (Single-stage)**
+**Single-stage AMS (NEC)**
 
 ![AMS](/assets/img/IMG20221101143457.jpg)![AMS](/assets/img/IMG20221031101406.jpg)
 
@@ -123,7 +124,7 @@ TEM, STEM, XRD, CIS, SPES (ESCA), AFM, RAMAN, ELLIP, CMS, ESR, and EPMA
 ## Access at Gifu University
 ### Collaborative research with [Ohtsuka Group](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html) at River Basin Research Center
 
-**EA-IRMS**
+**EA-IRMS (Thermo Finngan DELTA plus)**
 
 ![EA-IRMS](/assets/img/1639377833528.jpg)
 
