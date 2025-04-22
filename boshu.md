@@ -59,6 +59,3 @@ cover-img: /assets/img/DSCF0505_1400.jpg
 終了済みの共同研究 
 * 分担：科研費基盤研究（B）「地球温暖化により生じた貧酸素水塊における酸素消費システムの解明」2022-2025（代表：[布施泰朗](https://environ.kit.ac.jp/about/staff/)）
 * 代表：国立極地研究所「[一般共同研究](https://www.nipr.ac.jp/research/general-collaboration-project/)」2021-2024
-
-木田は現時点では博士学生の主指導権限がありませんので，形式上は[藤嶽教授](https://kobesoillab.github.io/member/)に主指導教官になってもらい，木田は副指導教官として指導にあたります。
-
