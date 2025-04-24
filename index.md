@@ -4,6 +4,12 @@ title: Kida Group
 subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe University!
 cover-img: /assets/img/DSCF8546.jpg
 ---
+_24 Feb 2025_
+## New publication
+The second paper from my group is out! It's open-access.  
+"**Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil**" published in [*CATENA*](https://www.sciencedirect.com/science/article/pii/S0341816225003777).   
+This was a continuing study from the [first paper](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761) and investigated the roles of reactive minerals and metals in organic carbon content in mangrove soil. An efficient incorporation of mangrove-derived modern C into mineral-associated organic matter was also suggested by 14C analysis.  
+
 ***
 _5 March 2025_
 ## Instrument update
@@ -51,7 +57,7 @@ This instrument will be used for benzene polycarboxylic acid (BPCA) analysis. Th
 _24 Jan 2024_
 ## New publication
 The first paper from my group is finally out! It's open-access.  
-"Functional organic matter components in mangrove soils revealed by density fractionation" published in [***Soil Science and Plant Nutrition***](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761).   
+"**Functional organic matter components in mangrove soils revealed by density fractionation**" published in [*Soil Science and Plant Nutrition*](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761).   
 We introduce density fractionation to mangrove soils to identify the distribution and properties of the functional components of SOM regarding degradation state, stability, and origin.  
 
 ***
@@ -73,7 +79,7 @@ I received [Outstanding Young Researcher Award](https://www.kobe-u.ac.jp/NEWS/in
 _24 March 2023_
 ## New publication
 The second paper from my postdoctoral work is finally out! It's open-access.  
-"Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes" published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.3c00249).   
+"**Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes**" published in [*Environmental Science & Technology*](https://pubs.acs.org/doi/10.1021/acs.est.3c00249).   
 We revealed that the molecular diversity of DOM was driven by environmental dissimilarity rather than the spatial distance, contrary to the distance-decay of similarity usually observed in community ecology.  
 <img src="/assets/img/images_large_es3c00249_0006.jpg" alt="image">
 
@@ -156,7 +162,7 @@ I started collaborative research with [Kenji Suetsugu](https://sites.google.com/
 _9 July 2021_
 ## New publication
 The first paper from my postdoctoral work is finally out!  
-"Dissolved Organic Matter Processing in Pristine Antarctic Streams" published in [***Environmental Science & Technology***](https://pubs.acs.org/doi/10.1021/acs.est.1c03163).  
+"**Dissolved Organic Matter Processing in Pristine Antarctic Streams**" published in [*Environmental Science & Technology*](https://pubs.acs.org/doi/10.1021/acs.est.1c03163).  
 ![Antarcticstream](/assets/img/Antarcticstream.jpg)
 
 ***
