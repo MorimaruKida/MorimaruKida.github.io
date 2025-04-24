@@ -23,7 +23,7 @@ Despite the recognized organic carbon (OC) sequestration potential of mangrove f
 
 ***
 ## Linking the molecular diversity of dissolved organic matter to its persistence and ecosystem functioning
-by Ryu Sumioka and Reika Nishida 
+by Ryu Sumioka and Reika Nishida  
 ![SPE-DOM](/assets/img/IMG_20191212_140645.jpg)![L. Biwa](/assets/img/IMG_20220617_095335.jpg)
 
 DOM is interesting because it is complex and each molecule has its structure and function. It seems a daunting task to fully understand its complexity if such is possible at all. Diversification of DOM is mediated by a complex interplay with microbes in water. It is now possible to study this close relationship between DOM and microbes through a combination of high-resolution techniques such as FT-ICR MS and metagenomics. We have been working on this theme in Lake Biwa, the largest lake in Japan, since 2022, in collaboration with aquatic organic geochemist [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) and aquatic microbiologist [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html).
