@@ -19,30 +19,31 @@ Recipient of the following prestigious awards:
 * And several best oral/poster presentation awards and travel awards at conferences
 
 ***
-### M1 students
+### M2 students
 **Yuta Watanabe**  
 Theme: Characterizing soil organic matter evolution along the chronosequence of a mangrove plantation, Bang Pu (Thailand).  
 
 **Ryu Sumioka**  
-Theme: Characterizing porewater dissolved organic matter evolution along the chronosequence of a mangrove plantation, Bang Pu (Thailand). 
+Theme: Elucidating mechanisms influencing dissolved organic matter decomposition and diversification in incubation studies. 
+
+### M1 students
+**Masahiro Shimotani**  
+Theme: Coming soon...  
 
 ### B4 students
-**Misato Hashi**  
-Theme: Elucidating co-variation of dissolved organic matter and bacteria in Lake Biwa, Japan.  
-She introduced network analysis of MF-ASV associations.
+**Reika Nishida**  
+Theme: FT-ICR MS analysis of dissolved metabolites for elucidation of microbial community functions
 
+### Past students
+**2024-2025**  
 **Ayaka Nishikawa**  
 Theme: Efficient characterization of mangrove soil organic matter by high-throughput 1H NMR spectroscopy.  
 She set up high-throughput 1H NMR analysis of soil alkali extracts and investigated possible improvements in the selective dissolution of reactive minerals.  
 
-**Masahiro Shimotani**  
-Theme: Evaluation of early-stage soil genesis under moss colonies in the Yukidori Valley, East Antarctica.  
+**Misato Hashi**  
+Theme: Elucidating the co-variation of dissolved organic matter and bacteria in Lake Biwa, Japan.  
+She introduced network analysis of MF-ASV associations.  
 
-### B3 students
-**Reika Nishida**  
-Theme: Coming soon...  
-
-### Past students
 **2023-2024**  
 **Miho Yamashita**  
 Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions.  
