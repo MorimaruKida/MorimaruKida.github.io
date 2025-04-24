@@ -3,11 +3,11 @@ layout: page
 title: Research
 subtitle: Research themes in our lab 
 ---
-Last updated on 26 May 2024  
+Last updated on 24 April 2025  
 
 ***
 ## Biogeochemistry in Asian mangroves
-by Yuta Watanabe and Ayaka Nishikawa  
+by Yuta Watanabe and Masahiro Shimotani  
 ![Fukido mangrove](/assets/img/Fukido.jpg)![Fukido soil](/assets/img/Fukidosoil.jpg)
 
 We have been working on Asian mangroves (currently Japan, Thailand, and the Philippines) since 2013 in cooperation with scientists of different backgrounds such as [Ecosystem Ecology](https://researchmap.jp/read0166246?lang=en), [Environmental Ecology](https://researchmap.jp/synp?lang=en), [Hydrology](https://researchmap.jp/read0057438?lang=en), [Bioeochemistry](https://researchmap.jp/miyajima/?lang=en), and [Radioisotpoe Geochemistry](https://researchmap.jp/read0123371?lang=en).
@@ -15,6 +15,7 @@ We have been working on Asian mangroves (currently Japan, Thailand, and the Phil
 Despite the recognized organic carbon (OC) sequestration potential of mangrove forests, the ongoing climate change and anthropogenic disturbances pose a great threat to these ecosystems. However, we currently lack the ability to mechanically understand and predict the consequences of such impacts, primarily because mechanisms underlying OC stabilization in these ecosystems remain elusive. We aim to unravel the mechanisms of how mangrove OC can persist for the long term using ideas and techniques borrowed from soil science and marine geochemistry.
 
 #### Selected publications
+* [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.sciencedirect.com/science/article/pii/S0341816225003777)
 * [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)
 * [Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)
 * [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://doi.org/10.3390/f11090981)
@@ -22,10 +23,13 @@ Despite the recognized organic carbon (OC) sequestration potential of mangrove f
 
 ***
 ## Linking the molecular diversity of dissolved organic matter to its persistence and ecosystem functioning
-by Ryu Sumioka and Misato Hashi  
+by Ryu Sumioka and Reika Nishida 
 ![SPE-DOM](/assets/img/IMG_20191212_140645.jpg)![L. Biwa](/assets/img/IMG_20220617_095335.jpg)
 
 DOM is interesting because it is complex and each molecule has its structure and function. It seems a daunting task to fully understand its complexity if such is possible at all. Diversification of DOM is mediated by a complex interplay with microbes in water. It is now possible to study this close relationship between DOM and microbes through a combination of high-resolution techniques such as FT-ICR MS and metagenomics. We have been working on this theme in Lake Biwa, the largest lake in Japan, since 2022, in collaboration with aquatic organic geochemist [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) and aquatic microbiologist [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html).
+
+#### Selected publications
+* Coming soon...
 
 ***
 ## Biogeochemistry in East Antarctica
