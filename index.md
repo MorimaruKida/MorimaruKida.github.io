@@ -4,7 +4,7 @@ title: Kida Group
 subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe University!
 cover-img: /assets/img/DSCF8546.jpg
 ---
-_24 Feb 2025_
+_24 April 2025_
 ## New publication
 The second paper from my group is out! It's open-access.  
 "**Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil**" published in [*CATENA*](https://www.sciencedirect.com/science/article/pii/S0341816225003777).   
