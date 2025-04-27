@@ -13,6 +13,7 @@ subtitle: Map of past and present study sites
 ### Bang Pu mangrove - Thailand (2021-present)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1mmQsaVawxUA4ycIE6TnuZsIoYU4zeyq4&ehbc=2E312F" width="640" height="480"></iframe>
 #### Related publications
+* [Biomass recovery of coastal young mangrove plantations in Central Thailand](https://www.nature.com/articles/s41598-024-61979-3)
 * [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://doi.org/10.3390/f11090981)
 
 ### Fukido River mangrove - Japan (2013-present)
