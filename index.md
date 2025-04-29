@@ -37,7 +37,7 @@ This multi-sample cell disruption equipment can be used as a fine pulverizer for
 
 ***
 _25 June 2024_
-## ![JST](/assets/img/JST1.jpg) Grant proposal accepted
+## ![JST](/assets/img/JST1.jpg)(/assets/img/創発.jpg) Grant proposal accepted
 A (big) grant proposal was accepted! [FOREST (Fusion Oriented REsearch for disruptive Science and Technology) program](https://www.jst.go.jp/souhatsu/en/index.html) of JST. This is a 7.5-year funding that supports "unrestricted, challenging and fusion-oriented diverse research not bound by the existing frameworks". Under this long-term funding, I'll continue studying associations of DOM and microbes in freshwater lakes, focused on Lake Biwa. This is a continued project from Grant-in-Aid for Scientific Research (B) that was funded in 2022.
 
 ***
