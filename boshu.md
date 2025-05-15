@@ -61,3 +61,4 @@ cover-img: /assets/img/DSCF0505_1400.jpg
 終了済みの共同研究 
 * 分担：科研費基盤研究（B）「地球温暖化により生じた貧酸素水塊における酸素消費システムの解明」2022-2025（代表：[布施泰朗](https://environ.kit.ac.jp/about/staff/)）
 * 代表：国立極地研究所「[一般共同研究](https://www.nipr.ac.jp/research/general-collaboration-project/)」2021-2024
+* 代表：[京都大学化学研究所 国際共同利用・共同研究拠点（施設・機器利用型研究）](https://www.icr-ijurc.jp/)「Analyzing chemical properties and origins of dissolved organic matter in lakes and soils by FT-ICR-MS」2022-2023
