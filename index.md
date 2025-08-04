@@ -4,6 +4,13 @@ title: Kida Group
 subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe University!
 cover-img: /assets/img/DSCF8546.jpg
 ---
+_4 August 2025_
+## New instrument
+**BET Surface Area Analyzer (BELSORP MR1)**  
+This instrument will be used to measure the specific surface area of solid samples, especially mangrove soils.  
+![MR1](/assets/img/IMG20250804171132.jpg)
+
+***
 _24 April 2025_
 ## New publication
 The second paper from my group is out! It's open-access.  
