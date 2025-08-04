@@ -26,7 +26,7 @@ UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis)  | EEM (Hi
 ![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) |   ![F-7100](/assets/img/DSCF0009.jpg) 
 
 
- HPLC-DAD (One is also for GPC) | BET Surface Area Analyzer (BELSORP MR 1)  
+ HPLC-DAD (One is also for GPC) | Surface area analyzer (BELSORP MR 1)  
 :-------------------------:|:-------------------------:
 ![HPLC](/assets/img/IMG20240208155034.jpg) | ![MR1](/assets/img/IMG20250804171132.jpg)
 
