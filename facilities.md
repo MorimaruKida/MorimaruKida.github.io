@@ -21,18 +21,18 @@ DOC/TDN (TOC-L)             |  DOC (TOC-V)
 :-------------------------:|:-------------------------:
 ![TOC-L](/assets/img/DSCF9964.jpg)  |  ![TOC-V](/assets/img/DSCF9965.jpg)
 
-UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis) 
-:-------------------------:|:-------------------------:
-![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) | 
+UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis)  | EEM (Hitachi F-7100)
+:-------------------------:|:-------------------------:|:-------------------------:
+![JASCO](/assets/img/DSCF9947.jpg)  |  ![GENESIS](/assets/img/DSCF9948.jpg) |   ![F-7100](/assets/img/DSCF0009.jpg) 
 
 
- EEM (Hitachi F-7100)         | HPLC-DAD (One is also for GPC) 
+ HPLC-DAD (One is also for GPC) | BET Surface Area Analyzer (BELSORP MR 1)  
 :-------------------------:|:-------------------------:
- ![F-7100](/assets/img/DSCF0009.jpg)  |  ![HPLC](/assets/img/IMG20240208155034.jpg)
+![HPLC](/assets/img/IMG20240208155034.jpg) | ![MR1](/assets/img/IMG20250804171132.jpg)
 
-Ion chromatography            | Potentiometric titrator
+Potentiometric titrator | Ion chromatography
 :-------------------------:|:-------------------------:
-![IC](/assets/img/DSCF9962.jpg)  |  ![titrator](/assets/img/DSCF9967.jpg)
+![titrator](/assets/img/DSCF9967.jpg) | ![IC](/assets/img/DSCF9962.jpg) 
 
 And other basic instruments such as pH meters, EC meters, a moisture analyzer (with halogen heating), a soil three-phase analyzer, a soil actual volumenometer, ...
 
