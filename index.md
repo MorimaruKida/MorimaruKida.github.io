@@ -4,6 +4,12 @@ title: Kida Group
 subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe University!
 cover-img: /assets/img/DSCF8546.jpg
 ---
+_21 August 2025_
+## Instrument update
+**Autosampler for TOC-V**  
+The old TOC-V is now equipped with an autosampler, replacing an 8-port sampler! This autosampler is no longer commercially available. Yeah!  
+![TOC-V](/assets/img/IMG20250821110611.jpg)
+
 _4 August 2025_
 ## New instrument
 **BET Surface Area Analyzer (BELSORP MR1)**  
