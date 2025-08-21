@@ -19,7 +19,7 @@ Elemental analyzer (Elementar Vario EL Cube)        |  Elemental analyzer (Perki
 
 DOC/TDN (TOC-L)             |  DOC (TOC-V)
 :-------------------------:|:-------------------------:
-![TOC-L](/assets/img/DSCF9964.jpg)  |  ![TOC-V](/assets/img/DSCF9965.jpg)
+![TOC-L](/assets/img/IMG20250821111326.jpg)  |  ![TOC-V](/assets/img/IMG20250821110611.jpg)
 
 UV-vis (JASCO V-630)            |  UV-vis (Thermo GENESIS 10S UV-vis)  | EEM (Hitachi F-7100)
 :-------------------------:|:-------------------------:|:-------------------------:
