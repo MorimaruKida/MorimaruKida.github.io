@@ -4,6 +4,11 @@ title: Kida Group
 subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe University!
 cover-img: /assets/img/DSCF8546.jpg
 ---
+_18 September 2025_
+## ![JST](/assets/img/JST1.jpg)![CREST](/assets/img/CREST.jpg) Grant proposal accepted
+A (big) grant proposal was accepted! [CREST (Core Research for Evolutionary Science and Technology) program](https://www.jst.go.jp/kisoken/crest/en/index.html) of JST. This is a 5.5-year research consortium-type funding under a specified Rsearch Area. Under the area of Carbon-Blue X, we will enable quantification of refractory marine humic-like FDOM by carbon concentration. Led by [Youhei Yamashita](https://researchmap.jp/youheiyamashita?lang=en), CO-PIs are me, [Akira Ijiri](https://researchmap.jp/iji), and [Masahito Shigemitsu](https://researchmap.jp/_shige).
+
+***
 _21 August 2025_
 ## Instrument update
 **Autosampler for TOC-V**  
