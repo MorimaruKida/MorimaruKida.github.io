@@ -24,11 +24,16 @@ Recipient of the following prestigious awards:
 Theme: Characterizing soil organic matter evolution along the chronosequence of a mangrove plantation, Bang Pu (Thailand).  
 
 **Ryu Sumioka**  
-Theme: Elucidating mechanisms influencing dissolved organic matter decomposition and diversification in incubation studies. 
+Theme: Elucidating mechanisms influencing dissolved organic matter decomposition and diversification in incubation studies.  
+recipient of the following award:  
+**International Exchange Encouragement Award, The Japanese Society of Limnology** 
 
 ### M1 students
 **Masahiro Shimotani**  
-Theme: Coming soon...  
+Theme: Investigating major soil organic carbon stabilization mechanisms in different mangrove settings
+
+**Poltanya Raekkhwan (MEXT student)**  
+Theme: Comparison of soil organic carbon stabilization mechanisms in different mangrove stands
 
 ### B4 students
 **Reika Nishida**  
@@ -46,7 +51,7 @@ She introduced network analysis of MF-ASV associations.
 
 **2023-2024**  
 **Miho Yamashita**  
-Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weight and extraction pH conditions.  
+Theme: Quantitative assessment of black carbon contribution to aromaticity of soil humic acids with different molecular weights and extraction pH conditions.  
 She finished compiling the lab WEOM/humic substances archive database.
 
 **2022-2023**  
