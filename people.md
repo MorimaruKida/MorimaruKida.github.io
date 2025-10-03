@@ -64,6 +64,8 @@ He introduced pyrophosphate-dithionite extraction and GAMM analysis.
 Theme: Elucidating the molecular heterogeneity of dissolved organic matter that governs its long-term persistence.  
 She set up FT-ICR MS analysis, introduced canonical correlation analysis of principal coordinates (CAP), compiled the lab soil archive database, and is a recipient of the following award:  
 **Best oral presentation at the 40th symposium of The Japanese Association of Organic Geochemists**  
+**She also published the following paper:**  
+* [Couples in the deep: dissolved organic and microbial communities in the oxygenated hypolimnion of a deep freshwater lake](https://www.biorxiv.org/content/10.1101/2025.09.23.678040v1)
 
 **Maho Oshimoda**  
 Theme: Investigating black carbon dynamics in soils after biochar amendment in a temperate secondary forest.  
