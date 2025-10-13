@@ -5,6 +5,14 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_14 October 2025_
+## New publications
+Excited to share that three very important research lines from my group have been made open as preprints!
+* [Testing reactive metal control on soil carbon storage using global Andisol dataset: the role of organo-aluminum complexation and pedogenic implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5518303)
+* [Couples in the deep: dissolved organic and microbial communities in the oxygenated hypolimnion of a deep freshwater lake](https://www.biorxiv.org/content/10.1101/2025.09.23.678040v1.abstract)
+* [Reframing natural organic matter research through compositional data analysis]( https://doi.org/10.31223/X51X7P )
+
+***
 _1 October 2025_
 ## ![KobeU](/assets/img/KobeU1.jpg) New member
 Poltanya Raekkhwan joined our group as a MEXT scholarship student! He will do mangrove research in a 5-year master's-doctoral project.
