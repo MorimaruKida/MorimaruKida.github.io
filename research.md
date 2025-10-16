@@ -29,7 +29,8 @@ by Ryu Sumioka and Reika Nishida
 DOM is interesting because it is complex and each molecule has its structure and function. It seems a daunting task to fully understand its complexity if such is possible at all. Diversification of DOM is mediated by a complex interplay with microbes in water. It is now possible to study this close relationship between DOM and microbes through a combination of high-resolution techniques such as FT-ICR MS and metagenomics. We have been working on this theme in Lake Biwa, the largest lake in Japan, since 2022, in collaboration with aquatic organic geochemist [Yasuhiko Yamaguchi](https://sites.google.com/view/y-t-yamaguchi/home-english/about-me?authuser=0) and aquatic microbiologist [Yusuke Okazaki](https://yusukeokazaki.weebly.com/profile-english.html).
 
 #### Selected publications
-* Coming soon...
+* [Couples in the deep: dissolved organic and microbial communities in the oxygenated hypolimnion of a deep freshwater lake](https://www.biorxiv.org/content/10.1101/2025.09.23.678040v1.abstract)
+* [Reframing natural organic matter research through compositional data analysis](https://eartharxiv.org/repository/view/10506/)
 
 ***
 ## Biogeochemistry in East Antarctica
@@ -57,7 +58,7 @@ by Morimaru Kida
 Increasing evidence suggests that storage and persistence of SOC are controlled by the contents of reactive metal phases, such as organically complexed aluminum (Al) and iron (Fe) and short-range-order (SRO) minerals, in soil at local and regional scales. Yet the global significance of the metal-SOC relationship and the specific metal phases controlling SOC storage remain unclear due to the high variation in geological parent materials and rock-climate-SOC interactions. Andisol is the soil type developed from the most homogenous parent material (volcanoclastic materials), characterized by high contents of SOC and reactive metal phases, and thus ideal to examine the metal-SOC relationships that would develop during soil formation under varying environmental conditions. We have been working on the global synthesis of metal-SOC data in Andisols since 2021, in collaboration with [Hirohiko Nagano](https://researchers.adm.niigata-u.ac.jp/html/200002466_en.html) and [Rota Wagai](https://scholar.google.co.jp/citations?user=iGdkNa4AAAAJ&hl=ja) and his group members.
 
 #### Selected publications
-* Coming soon...
+* [Testing reactive metal control on soil carbon storage using global Andisol dataset: the role of organo-aluminum complexation and pedogenic implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5518303)
 
 ***
 ## Drivers of abundance and composition of mineral-associated organic matter in Japan
