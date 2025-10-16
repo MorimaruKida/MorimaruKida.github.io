@@ -32,7 +32,7 @@ recipient of the following award:
 **Masahiro Shimotani**  
 Theme: Investigating major soil organic carbon stabilization mechanisms in different mangrove settings
 
-**Poltanya Raekkhwan (MEXT student)**  
+**Raekkhwan Poltanya (MEXT student)**  
 Theme: Comparison of soil organic carbon stabilization mechanisms in different mangrove stands
 
 ### B4 students
