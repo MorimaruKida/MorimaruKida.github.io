@@ -61,17 +61,6 @@ Increasing evidence suggests that storage and persistence of SOC are controlled 
 * [Testing reactive metal control on soil carbon storage using global Andisol dataset: the role of organo-aluminum complexation and pedogenic implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5518303)
 
 ***
-## Drivers of abundance and composition of mineral-associated organic matter in Japan
-by Morimaru Kida  
-![Soils](/assets/img/DSCF0003_350.jpg)
-
-Mineral-associated organic matter (MAOM) is the most abundant and refractory fraction of soil organic matter.
-Using our in-house soil archive collected from all over Japan (~1500 samples), we seek to identify fundamental drivers of the abundance and composition of MAOM.
-
-#### Selected publications
-* Coming soon...
-
-***
 ## Long-term black carbon dynamics after amendment of biochar in a Japanese temperate secondary deciduous forest
 by Maho Oshimoda  
 ![Biochar](/assets/img/IMG_5858.jpg)
