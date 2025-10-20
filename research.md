@@ -61,7 +61,7 @@ Increasing evidence suggests that storage and persistence of SOC are controlled 
 * [Testing reactive metal control on soil carbon storage using global Andisol dataset: the role of organo-aluminum complexation and pedogenic implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5518303)
 
 ***
-## Long-term black carbon dynamics after amendment of biochar in a Japanese temperate secondary deciduous forest
+## Long-term black carbon dynamics post biochar amendment in a Japanese temperate secondary deciduous forest
 by Maho Oshimoda and Lorena Goretti  
 ![Biochar](/assets/img/IMG_5858.jpg)
 
