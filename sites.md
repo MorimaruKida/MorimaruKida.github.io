@@ -29,7 +29,7 @@ subtitle: Map of past and present study sites
 ### Lake Biwa - Japan (2022-Present)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dsFv_RUWN3FtPXnzpQ92e3i3a8vM5XWb&ehbc=2E312F" width="640" height="480"></iframe>
 #### Related publications
-** [Couples in the deep: dissolved organic and microbial communities in the oxygenated hypolimnion of a deep freshwater lake](https://www.biorxiv.org/content/10.1101/2025.09.23.678040v1.abstract)
+* [Couples in the deep: dissolved organic and microbial communities in the oxygenated hypolimnion of a deep freshwater lake](https://www.biorxiv.org/content/10.1101/2025.09.23.678040v1.abstract)
 * [Reframing natural organic matter research through compositional data analysis]( https://doi.org/10.31223/X51X7P )
 * [Introduction of DEAE Sepharose for isolation of dissolved organic matter](https://link.springer.com/article/10.1007%2Fs10201-018-0561-3)
 * [Quantitative monitoring of aquatic humic substances in Lake Biwa, Japan, using the DAX-8 batch method based on carbon concentrations](https://www.sciencedirect.com/science/article/pii/S0146638015000819?via%3Dihub)
