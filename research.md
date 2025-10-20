@@ -7,7 +7,7 @@ Last updated on 24 April 2025
 
 ***
 ## Biogeochemistry in Asian mangroves
-by Yuta Watanabe and Masahiro Shimotani  
+by Yuta Watanabe, Masahiro Shimotani, and Raekkhwan Poltanya  
 ![Fukido mangrove](/assets/img/Fukido.jpg)![Fukido soil](/assets/img/Fukidosoil.jpg)
 
 We have been working on Asian mangroves (currently Japan, Thailand, and the Philippines) since 2013 in cooperation with scientists of different backgrounds such as [Ecosystem Ecology](https://researchmap.jp/read0166246?lang=en), [Environmental Ecology](https://researchmap.jp/synp?lang=en), [Hydrology](https://researchmap.jp/read0057438?lang=en), [Bioeochemistry](https://researchmap.jp/miyajima/?lang=en), and [Radioisotpoe Geochemistry](https://researchmap.jp/read0123371?lang=en).
@@ -62,7 +62,7 @@ Increasing evidence suggests that storage and persistence of SOC are controlled 
 
 ***
 ## Long-term black carbon dynamics after amendment of biochar in a Japanese temperate secondary deciduous forest
-by Maho Oshimoda  
+by Maho Oshimoda and Lorena Goretti  
 ![Biochar](/assets/img/IMG_5858.jpg)
 
 Coming soon...  
