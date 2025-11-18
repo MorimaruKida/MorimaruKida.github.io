@@ -15,7 +15,7 @@ Excited to share that three very important research lines from my group have bee
 ***
 _1 October 2025_
 ## ![KobeU](/assets/img/KobeU1.jpg) New member
-Raekkhwan Poltanya joined our group as a MEXT scholarship student! He will do mangrove research in a 5-year master's-doctoral project.
+Raekkhwan Polthanya joined our group as a MEXT scholarship student! He will do mangrove research in a 5-year master's-doctoral project.
 
 ***
 _18 September 2025_
