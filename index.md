@@ -5,6 +5,12 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_24 April 2025_
+## New publication
+The third paper from my group is out!
+"**Refined estimates of organic carbon stocks in global Andisols**" published in [*SSPN*](https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931#abstract). In this global compilation, we synthesized the largest global dataset of Andisols (volcanic ash soils) and refined their OC stock.
+
+***
 _14 October 2025_
 ## New publications
 Excited to share that three very important research lines from my group have been made open as preprints!
