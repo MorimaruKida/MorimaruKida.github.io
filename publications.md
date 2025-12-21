@@ -7,7 +7,7 @@ subtitle: Scientific achievements in our lab
 ***
 Since 2021
 <ol reversed>
-         <li>Kida, M.; Shimada, H.; Nagano, H.; Fukumasu, J.; Wagai, R.<a href="https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931">Refined estimates of organic carbon stocks in global Andisols.</a> <i>Soil Science and Plant Nutrition</i> 2025
+         <li>Kida, M.; Shimada, H.; Nagano, H.; Fukumasu, J.; Wagai, R. <a href="https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931">Refined estimates of organic carbon stocks in global Andisols.</a> <i>Soil Science and Plant Nutrition</i> 2025
         <li>Hamada, K.; Yimatsa, N.; Ohtsuka, T.; Fujitake, N.; Miyajima, T.; Yokoyama, Y.; Miyairi, Y.; Kida, M. <a href="https://www.sciencedirect.com/science/article/pii/S0341816225003777">Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil.</a> <i>CATENA</i> 2025, 256, 109075</li>
     <li>Ohtsuka, T.; Umnouysin, S.; Suchewaboripont, V.; Yimatsa, N.; Rodtassana, C.; Kida, M.; Iimura, Y.; Yoshitake, S.; Fujitake, N.; Poungparn, P. <a href="https://www.nature.com/articles/s41598-024-61979-3">Biomass recovery of coastal young mangrove plantations in Central Thailand.</a> <i>Scientific Reports</i> 2024, 14, 11359.</li>
     <li>Hamada, K.; Ohtsuka, T.; Fujitake, N.; Miyajima, T.; Yokoyama, Y.; Miyairi, Y.; Kida, M. <a href="https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761">Functional organic matter components in mangrove soils revealed by density fractionation.</a> <i>Soil Science and Plant Nutrition</i> 2024, 70, 2, 88-99.</li>
