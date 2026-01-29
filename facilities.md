@@ -55,8 +55,9 @@ Fine pulverizer (multi)            | Fine pulverizer
 :-------------------------:|:-------------------------:
 ![ShakeMaster](/assets/img/IMG20250127124011.jpg)  |  ![pulverizer](/assets/img/DSCF9941.jpg)
 
-Vacuum freeze dryer            
-![big/small freeze dryer](/assets/img/IMG20240208155212.jpg) 
+3× Vacuum freeze dryer        | Ultramicro balance
+:-------------------------:|:-------------------------:
+![big/small freeze dryer](/assets/img/IMG20240208155212.jpg) |  ![Sartorius](/assets/img/IMG20260129155210.jpg) 
 
 And other basic instruments such as water filtration systems (glass/plastic/metal), analytical balances, rotary evaporators, reciprocal (water bath) shakers, magnetic stirrers, Soxhlet extractors, drying ovens (vacuum/ventilation/windless), peristaltic pumps, ultrasonic baths, an ultrafiltration system, ...
 
