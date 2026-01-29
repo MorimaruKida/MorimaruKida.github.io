@@ -5,6 +5,13 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_29 January 2026_
+## New instrument
+**Ultramicro balance (Sartorius Cubis II)**  
+This ultramicro balance will be used for routine micro-scale weighing of small samples such as for elemental analysis.  
+![MR1](/assets/img/IMG20260129155210.jpg)
+
+***
 _17 December 2025_
 ## New publication
 The third paper from my group is out!
