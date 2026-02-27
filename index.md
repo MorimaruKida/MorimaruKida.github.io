@@ -7,7 +7,7 @@ cover-img: /assets/img/DSCF8546.jpg
 ***
 _27 February 2026_
 ## New publication
-The third paper from my group is out!  
+The third paper from my group is out! It's open-access.  
 "**Organo-aluminum complexation as a dominant metal control on soil carbon storage in Andisols: Global evidence across pedogenic and pH gradients**" published in [*Geoderma*](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115). It took nearly five years for us to realize this paper and we're very proud of the outcome. Please read it!  
 
 ***
