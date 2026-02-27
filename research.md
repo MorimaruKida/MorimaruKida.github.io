@@ -58,7 +58,8 @@ by Morimaru Kida
 Increasing evidence suggests that storage and persistence of SOC are controlled by the contents of reactive metal phases, such as organically complexed aluminum (Al) and iron (Fe) and short-range-order (SRO) minerals, in soil at local and regional scales. Yet the global significance of the metal-SOC relationship and the specific metal phases controlling SOC storage remain unclear due to the high variation in geological parent materials and rock-climate-SOC interactions. Andisol is the soil type developed from the most homogenous parent material (volcanoclastic materials), characterized by high contents of SOC and reactive metal phases, and thus ideal to examine the metal-SOC relationships that would develop during soil formation under varying environmental conditions. We have been working on the global synthesis of metal-SOC data in Andisols since 2021, in collaboration with [Hirohiko Nagano](https://researchers.adm.niigata-u.ac.jp/html/200002466_en.html) and [Rota Wagai](https://scholar.google.co.jp/citations?user=iGdkNa4AAAAJ&hl=ja) and his group members.
 
 #### Selected publications
-* [Testing reactive metal control on soil carbon storage using global Andisol dataset: the role of organo-aluminum complexation and pedogenic implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5518303)
+* [Refined estimates of organic carbon stocks in global Andisols](https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931#abstract)
+* [Organo-aluminum complexation as a dominant metal control on soil carbon storage in Andisols: Global evidence across pedogenic and pH gradients](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115)
 
 ***
 ## Long-term black carbon dynamics post biochar amendment in a Japanese temperate secondary deciduous forest
