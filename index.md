@@ -5,6 +5,23 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_1 April 2026_
+## Promotion
+As of 1 April 2026, I've been promoted to Associate Professor of Soil Science Laboratory at Graduate School of Agricultural Science, Kobe University. I hold a concurrent position as Distinguished Associate Professor at Kobe University Institute for Advanced Research.  
+
+***
+_1 April 2026_
+## New publication
+A new paper is made open.  
+"**Global hotspots of particulate organic carbon losses under climate change**" published in [*Nature Communications*](https://www.nature.com/articles/s41467-026-71321-2). This is a collaborative work with Ji Chen at State Key Laboratory of Loess Science, Institute of Earth Environment, CAS, China.  
+
+***
+_25 March 2026_
+## New publication
+The fourth paper from my group is out! It's open-access.  
+"**Reframing natural organic matter research through compositional data analysis**" published in [*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full). It also took time and effort to make this paper take shape, but finally it's here. We're looking forward to hearing your thoughs on compositional data analysis.  
+
+***
 _27 February 2026_
 ## New publication
 The third paper from my group is out! It's open-access.  
