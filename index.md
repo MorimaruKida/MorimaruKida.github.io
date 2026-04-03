@@ -18,13 +18,13 @@ A new paper is made open.
 ***
 _25 March 2026_
 ## New publication
-The fourth paper from my group is out! It's open-access.  
+The fifth paper from my group is out! It's open-access.  
 "**Reframing natural organic matter research through compositional data analysis**" published in [*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full). It also took time and effort to make this paper take shape, but finally it's here. We're looking forward to hearing your thoughs on compositional data analysis.  
 
 ***
 _27 February 2026_
 ## New publication
-The third paper from my group is out! It's open-access.  
+The fourth paper from my group is out! It's open-access.  
 "**Organo-aluminum complexation as a dominant metal control on soil carbon storage in Andisols: Global evidence across pedogenic and pH gradients**" published in [*Geoderma*](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115). It took nearly five years for us to realize this paper and we're very proud of the outcome. Please read it!  
 
 ***
