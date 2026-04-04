@@ -7,6 +7,8 @@ subtitle: Scientific achievements in our lab
 ***
 Since 2021
 <ol reversed>
+          <li>Sumioka, R.; Rodtassana, C.; Poungparn, S.; Nishimura, H.; Shinozuka, K.; Ohtsuka, T.; Fujitake, N.; Kida, M. <a href="https://www.sciencedirect.com/science/article/pii/S0146638026000835">Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS
+.</a> <i>Organic Geocheemistry</i> 2026, 105208</li>
           <li>Sun, S.; Cotrufo, MF.; . Viscarra Rossel, RA.; Mueller, CW; Kida, M. et al. <a href="https://www.nature.com/articles/s41467-026-71321-2">Global hotspots of particulate organic carbon losses under climate change.</a> <i>Nature Communications</i> 2026</li>
          <li>Kida, M.; Merder, J.; Dittmar, T.; Pawlowsky-Glahn, V.; Egozcue, JJ. <a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full">Reframing natural organic matter research through compositional data analysis.</a> <i>Front. Environ. Sci.</i> 2026, 14</li>
          <li>Kida, M.; Nagano, H.; Shimada, H.; Fukumasu, J.; Wagai, R. <a href="https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115">Organo-aluminum complexation as a dominant metal control on soil carbon storage in Andisols: Global evidence across pedogenic and pH gradients.</a> <i>Geoderma</i> 2026, 467, 117740</li>
