@@ -5,6 +5,12 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_4 April 2026_
+## New publication
+The sixth paper from my group is out! It's open-access.  
+"**Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS**" published in [*Organic Geochemistry*](https://www.sciencedirect.com/science/article/pii/S0146638026000835). We studied the succession of porewater-DOM concentration and compostion in a planted mangrove chronosequence in Bang Pu, Thailand. This is the first paper of my stundet Ryu SUmioka, congrats! 
+
+***
 _1 April 2026_
 ## Promotion
 As of 1 April 2026, I've been promoted to Associate Professor of Soil Science Laboratory at Graduate School of Agricultural Science, Kobe University. I hold a concurrent position as Distinguished Associate Professor at Kobe University Institute for Advanced Research.  
