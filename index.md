@@ -7,8 +7,8 @@ cover-img: /assets/img/DSCF8546.jpg
 ***
 _4 April 2026_
 ## New publication
-The sixth paper from my group is out! It's open-access.  
-"**Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS**" published in [*Organic Geochemistry*](https://www.sciencedirect.com/science/article/pii/S0146638026000835). We studied the succession of porewater-DOM concentration and compostion in a planted mangrove chronosequence in Bang Pu, Thailand. This is the first paper of my stundet Ryu SUmioka, congrats! 
+The sixth paper from my group is out!  
+"**Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS**" published in [*Organic Geochemistry*](https://www.sciencedirect.com/science/article/pii/S0146638026000835). We studied the succession of porewater-DOM concentration and compostion in a planted mangrove chronosequence in Bang Pu, Thailand. This is the first paper of my stundet Ryu Sumioka, congrats! 
 
 ***
 _1 April 2026_
