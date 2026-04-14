@@ -47,6 +47,8 @@ Theme: Elucidating mechanisms influencing dissolved organic matter decomposition
 He is a recipient of the following award:  
 **Rikuso Outstanding Stundet Award, Rikusokai**  
 **International Exchange Encouragement Award, The Japanese Society of Limnology**  
+He also **published the following paper:**  
+* [Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS](https://www.sciencedirect.com/science/article/pii/S0146638026000835)
 
 **2024-2025**  
 **Ayaka Nishikawa**  
