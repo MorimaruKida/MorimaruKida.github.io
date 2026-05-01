@@ -8,7 +8,7 @@ cover-img: /assets/img/DSCF8546.jpg
 _27 April 2026_
 ## New publication
 The seventh paper from my group is out!  
-"**Couples in the deep: Dissolved organic matter–microbial linkages in the oxygenated hypolimnion of a deep freshwater lake**" published in [*Limnology and Oceanography*](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.70374). This is the first paper of our DOM diversity project and is the first that investigated annual DOM-microbe interactions in the hypolimnion of a deep freshwater lake.
+"**Couples in the deep: Dissolved organic matter–microbial linkages in the oxygenated hypolimnion of a deep freshwater lake**" published in [*Limnology and Oceanography*](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.70374). This is the first paper of our DOM diversity project and is the first that investigated annual DOM-microbe interactions in the hypolimnion of a deep freshwater lake. More to come!
 
 ***
 _4 April 2026_
