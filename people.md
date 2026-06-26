@@ -4,7 +4,7 @@ title: People
 subtitle: Who is behind the papers? 
 ---
 ***
-![Kida](/assets/img/Prof_250.png)  
+![Kida](/assets/img/77788sq350pixel.jpg)  
 
 **Dr. Morimaru Kida ([Google Scholar](https://scholar.google.com/citations?user=lG3N_EgAAAAJ&hl=en))**  
 Morimaru Kida is an Associate Professor of Soil Science at the Graduate School of Agricultural Science, Kobe University, and Distinguished Associate Professor at Kobe University Institute for Advanced Research.
