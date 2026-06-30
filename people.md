@@ -21,21 +21,21 @@ Recipient of the following prestigious awards:
 ***
 ### M2 students
 **Masahiro Shimotani**  
-Theme: Investigating major soil organic carbon stabilization mechanisms in different mangrove settings
+Theme: Molecular composition of physically fractionated organic matter in deltaic mangrove soils and its controlling factors
 
 ### M1 students
 **Raekkhwan Polthanya (MEXT student)**  
-Theme: Comparison of soil organic carbon stabilization mechanisms in different mangrove stands
+Theme: Microhabitat-scale controls on organic carbon stabilization in mangrove soil  
 
 **Reika Nishida**  
-Theme: TBD
+Theme: Seasonal variability and degradation-related molecular transformation of sediment-derived dissolved organic matter in Lake Biwa  
 
 ### B4 students
 **Akihisa Hashimoto**  
-Theme: TBD
+Theme: Characterization of organic matter in lake sediments in the ice-free area of the Soya Coast, East Antarctica  
 
 **Meguri Setoda**  
-Theme: TBD
+Theme: Complementary characterization of dissolved organic matter in Lake Biwa by FT-ICR MS and 2D NMR  
 
 ### Past students
 **2022-2025**  
