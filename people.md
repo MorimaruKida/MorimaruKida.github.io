@@ -6,7 +6,7 @@ subtitle: Who is behind the papers?
 ***
 <img src="/assets/img/77788sq350pixel.jpg" alt="image" width="200" height="200">  
 
-**Dr. Morimaru Kida ([Google Scholar](https://scholar.google.com/citations?user=lG3N_EgAAAAJ&hl=en))**  
+**Dr. Morimaru Kida ([Google Scholar](https://scholar.google.com/citations?user=lG3N_EgAAAAJ&hl=en)/[ResearchGate](https://www.researchgate.net/profile/Morimaru-Kida?ev=hdr_xprf))**  
 Morimaru Kida is an Associate Professor of Soil Science at the Graduate School of Agricultural Science, Kobe University, and Distinguished Associate Professor at Kobe University Institute for Advanced Research.
 While centered on Aquatic Organic Geochemistry and Soil Science, he is keen to apply various analytical and statistical tools from different fields such as Limnology, Marine Geochemistry, and Ecology.
 He is broadly interested in the cycling and fate of natural organic matter in terrestrial and aquatic environments. His favourite site is mangrove forests because (obviously) he can collect both soil and water samples. 
