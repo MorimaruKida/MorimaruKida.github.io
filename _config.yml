@@ -20,7 +20,7 @@ navbar-links:
   People: "people"
   Facilities: "facilities"
   Research: "research"
-  Publications: "publications"
+  #Publications: "publications"
   Teaching: "teaching"
   Study sites: "sites"
   Join Us!: "joinus"
