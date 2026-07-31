@@ -8,7 +8,7 @@ cover-img: /assets/img/DSCF8546.jpg
 _31 July 2026_
 ## New instrument
 **EA-IRMS (Elementar isoprime visION)**  
-This EA-IRMS was the first newly installed instrument of its kind in western Japan and will be used for isotope (d13C, d15N, and d34S) analysis of environmental ssamples. Isotope analyis of H and O is also possible.  
+This EA-IRMS was the first newly installed instrument of its kind in western Japan and will be used for isotope (d13C, d15N, and d34S) analysis of environmental samples. Isotope analyis of H and O is also possible.  
 ![EA-IRMS](/assets/img/IMG20260731135238.jpg)
 
 ***
