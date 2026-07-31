@@ -20,7 +20,7 @@ Elemental analyzer (Elementar Vario EL Cube)        |  Elemental analyzer (Perki
 ![Elementer](/assets/img/DSCF0028.jpg)  |  ![PerkinElmer](/assets/img/DSCF9977.jpg)
 
 
-DOC/TDN (TOC-L)             |  DOC (TOC-V)
+DOC/TDN (Shimadzu TOC-L)             |  DOC (Shimadzu TOC-V)
 :-------------------------:|:-------------------------:
 ![TOC-L](/assets/img/IMG20250821111326.jpg)  |  ![TOC-V](/assets/img/IMG20250821110611.jpg)
 
