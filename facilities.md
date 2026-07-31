@@ -7,6 +7,9 @@ subtitle: Instruments in our lab
 ## Own instruments
 ### Analysis
 
+**EA-IRMS (Elementar isoprime visION)**  
+![EA-IRMS](/assets/img/IMG20260731135238.jpg)  
+
 LC-ICP-MS (PerkinElmer)             |  Atomic absorption spectrophotometer
 :-------------------------:|:-------------------------:
 ![LC-ICP-MS](/assets/img/DSCF9979.jpg)  |  ![Hitachi z-2010](/assets/img/DSCF0031.jpg)
