@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 subtitle: Classes at Kobe University 
 ---
-### Soil Science Laboratory Coursse I&II
+### Soil Science Laboratory Course I&II
 I teach this hands-on, compulsory class every April and November together with Assist. Prof. Takeshi Suzuki for ~30 undergraduate students from our department.
 
 ### Intermediate/Comprehensive Course on Research Proposal Writing and Oral Presentation
