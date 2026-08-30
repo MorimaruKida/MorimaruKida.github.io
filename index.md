@@ -12,6 +12,11 @@ This EA-IRMS was the first newly installed instrument of its kind in western Jap
 ![EA-IRMS](/assets/img/IMG20260731135238.jpg)
 
 ***
+_11 June 2026_
+## New project
+The COST (European Cooperation in Science and Technology) Action, Multidisciplinary Adaptations of GAMLSS NETwork ([MAGNET](https://www.cost.eu/actions/CA25124/)) has been officially approved and selected for funding. I'm involved as a sole member from Japan in the Working Group "Public and One Health"
+
+***
 _27 April 2026_
 ## New publication
 The seventh paper from my group is out!  
