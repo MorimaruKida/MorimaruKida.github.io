@@ -5,6 +5,19 @@ subtitle: Welcome to the Kida Group in Soil Science Laboratory at Kobe Universit
 cover-img: /assets/img/DSCF8546.jpg
 ---
 ***
+_14 September 2026_
+## Lab event
+**Seminar by Prof. Dr. Thorsten Dittmar**  
+Thorsten visited our group and gave a talk on marine DOM, titled "The Future of the Ocean’s Dissolved Organic Carbon Reservoir:
+Ecological Controls Beyond Recalcitrance". Thank you, Thorsten!  
+![Thorsten](/assets/img/IMG20260914142556.jpg)
+
+***
+_11 September 2026_
+## Lab event
+Reika left Japan to the US for a 2-month exchange program. She will learn thermodynamic modeling of DOM at the Hyun-Seob Song's group at University of Nebraska–Lincoln (UNL). Good luck!
+
+***
 _31 July 2026_
 ## New instrument
 **EA-IRMS (Elementar isoprime visION)**  
