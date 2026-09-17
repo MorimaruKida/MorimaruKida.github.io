@@ -9,7 +9,7 @@ _14 September 2026_
 ## Lab event
 **Seminar by Prof. Dr. Thorsten Dittmar**  
 Thorsten visited our group and gave a talk on marine DOM, titled "The Future of the Ocean’s Dissolved Organic Carbon Reservoir:
-Ecological Controls Beyond Recalcitrance". Thank you, Thorsten!  
+Ecological Controls Beyond Recalcitrance". We also had multiple talks by students and collaborators. Thank you, Thorsten!  
 ![Thorsten](/assets/img/IMG20260914142556.jpg)
 
 ***
