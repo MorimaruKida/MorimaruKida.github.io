@@ -15,7 +15,7 @@ Ecological Controls Beyond Recalcitrance". We also had multiple talks by student
 ***
 _11 September 2026_
 ## Lab event
-Reika left Japan to the US for a 2-month exchange program. She will learn thermodynamic modeling of DOM at the Hyun-Seob Song's group at University of Nebraska–Lincoln (UNL). Good luck!
+Reika left Japan to the US for a 2-month exchange program. She will learn thermodynamic modeling of DOM at the [Hyun-Seob Song](https://bse.unl.edu/person/hyun-seob-song/)'s group at University of Nebraska–Lincoln (UNL). Good luck!
 
 ***
 _31 July 2026_
