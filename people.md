@@ -21,7 +21,9 @@ Recipient of the following prestigious awards:
 ***
 ### M2 students
 **Masahiro Shimotani**  
-Theme: Molecular composition of physically fractionated organic matter in deltaic mangrove soils and its controlling factors
+Theme: Molecular composition of physically fractionated organic matter in deltaic mangrove soils and its controlling factors  
+He is a recipient of the following awards:  
+**Best oral presentation at the 2025 symposium of the Kinki Branch of the Japan Society of Soil Science and Plant Nutrition**  
 
 ### M1 students
 **Raekkhwan Polthanya (MEXT student)**  
@@ -44,11 +46,11 @@ Theme: Characterizing soil organic matter evolution along the chronosequence of 
 
 **Ryu Sumioka**  
 Theme: Elucidating mechanisms influencing dissolved organic matter decomposition and diversification in incubation studies.  
-He is a recipient of the following award:  
+He is a recipient of the following awards:  
 **Rikuso Outstanding Stundet Award, Rikusokai**  
 **International Exchange Encouragement Award, The Japanese Society of Limnology**  
 **Half exemption of the repayment of scholarship for particularly outstanding achievements, JASSO**  
-He also **published the following paper:**  
+**He also published the following paper:**  
 * [Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS](https://www.sciencedirect.com/science/article/pii/S0146638026000835)
 
 **2024-2025**  
