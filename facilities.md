@@ -6,13 +6,9 @@ subtitle: Instruments in our lab
 ***
 ## Own instruments
 ### Analysis
-
-**EA-IRMS (Elementar isoprime visION)**  
-![EA-IRMS](/assets/img/IMG20260731135238.jpg)  
-
-LC-ICP-MS (PerkinElmer)             |  Atomic absorption spectrophotometer
+EA-IRMS (Elementar isoprime visION)             |  LC-ICP-MS (PerkinElmer)
 :-------------------------:|:-------------------------:
-![LC-ICP-MS](/assets/img/DSCF9979.jpg)  |  ![Hitachi z-2010](/assets/img/DSCF0031.jpg)
+![EA-IRMS](/assets/img/IMG20260731135238.jpg)  |  ![LC-ICP-MS](/assets/img/DSCF9979.jpg)
 
 
 Elemental analyzer (Elementar Vario EL Cube)        |  Elemental analyzer (PerkinElmer 2400II)
